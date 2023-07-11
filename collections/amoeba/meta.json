@@ -1,1 +1,10 @@
-{"name": "The Amoeba Collection", "inscription_icon": "db6715f84036e9374ec967fed67486c84de5d863fe046aa3467638770594821ei0", "supply": "2", "slug": "amoeba", "description": "A unique artform arrives on ordinals for the first time. "Fractal sculpture", where each amoeba is produced from a parent amoeba. So far all are inscribed on year 2009 satoshis, from the early days of bitcoin.", "twitter_link": "https://twitter.com/natureisbestNFT", "discord_link": "https://discord.gg/Q4bH4sa38H", "website_link": ""}
+{
+    "name": "The Amoeba Collection",
+    "inscription_icon": "db6715f84036e9374ec967fed67486c84de5d863fe046aa3467638770594821ei0",
+    "supply": "2",
+    "slug": "amoeba",
+    "description": "A unique artform arrives on ordinals for the first time. \"Fractal sculpture\", where each amoeba is produced from a parent amoeba. So far all are inscribed on year 2009 satoshis, from the early days of bitcoin.",
+    "twitter_link": "https://twitter.com/natureisbestNFT",
+    "discord_link": "https://discord.gg/Q4bH4sa38H",
+    "website_link": ""
+}
