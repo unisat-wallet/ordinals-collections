@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 import json
 
@@ -47,7 +48,7 @@ def test_meta():
     current_collections = [x for x in current_collections if x != ".DS_Store"]
 
     for x in current_collections:
-        with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
+        with open("{}/{}/meta.json".format(COLLECTIONS, x), "r", encoding='utf-8') as file:
             meta = json.load(file)
 
         assert set(meta.keys()) == set(expected_meta.keys()), "Invalid meta data keys"
@@ -79,7 +80,7 @@ def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
     current_collections = [x for x in current_collections if x != ".DS_Store"]
     for x in current_collections:
-        with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
+        with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r", encoding='utf-8') as file:
             inscriptions = json.load(file)
         for y in inscriptions:
             assert y.get("id")
@@ -108,7 +109,7 @@ def test_uniqueness():
         print(collection)
         if collection in ["<1k", "<10k", "<100k", "unisat-names"]:
             continue
-        with open("{}/{}/inscriptions.json".format(COLLECTIONS, collection), "r") as file:
+        with open("{}/{}/inscriptions.json".format(COLLECTIONS, collection), "r", encoding='utf-8') as file:
             inscriptions = json.load(file)
         inscription_ids = []
         for x in inscriptions:
