@@ -57,13 +57,10 @@ def test_meta():
             assert isinstance(y[0], str), "Invalid data type, use a string"
             if y[1].endswith("link"):
                 if y[0]:
-                    assert (
-                        y[0].startswith("https://") or y[0].startswith("http://") or y[0] == "" or y[0] == "-"
-                    ), "link must start with https://"
+                    assert y[0].startswith("https://") or y[0].startswith("http://"), "link must start with https://"
 
         assert (len(meta.get("inscription_icon")) == 66) or meta.get("inscription_icon"), "Invalid inscription Id"
-        # assert meta.get("slug").lower() == meta.get("slug"), "Slug must be lowercase"
-        assert meta.get("slug").find(" ") == -1, "Slug include space: " + meta.get("slug")
+        assert meta.get("slug").lower() == meta.get("slug"), "Slug must be lowercase"
         assert len(meta.get("name")) <= 60, "Name is too long"
         assert len(meta.get("slug")) < 60, "Slug is too long"
         assert meta.get("slug") == x, "Slug does not match directory name"
@@ -85,18 +82,16 @@ def test_inscriptions():
             inscriptions = json.load(file)
         for y in inscriptions:
             assert y.get("id")
-            meta = y.get("meta")
-            # assert y.get("meta")
+            assert y.get("meta")
             assert y.get("attributes") is None, "Attributes belong in meta object"
-            if meta:
-                assert isinstance(y.get("meta").get("name"), str)
-                if y.get("meta").get("attributes"):
-                    for a in y.get("meta").get("attributes"):
-                        if x not in ["ordinal-gen1-pokemon", "bitcoin-jpgs"]:
-                            assert "trait_type" in a, "Attribute must have trait type"
-                            assert "value" in a, "Attribute must have trait value"
+            if y.get("meta").get("attributes"):
+                for a in y.get("meta").get("attributes"):
+                    if x not in ["ordinal-gen1-pokemon", "bitcoin-jpgs"]:
+                        assert "trait_type" in a, "Attribute must have trait type"
+                        assert "value" in a, "Attribute must have trait value"
             assert len(y.get("id").strip()) == 66
             assert ishex(y.get("id")[0:64]), "inscription ids must be valid hex"
+            assert isinstance(y.get("meta").get("name"), str)
 
 
 def test_uniqueness():
