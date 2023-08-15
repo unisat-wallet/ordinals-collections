@@ -1,1 +1,10 @@
-{"name": "Bitclays-Genesis", "inscription_icon": "c4f85df65727214dad152b5015308196a732794c6c8b7dd776bee0f603b233cdi0", "supply": "12", "slug": "bitclays-genesis", "description": "Non-derivative ORIGINAL archeological art collection composed of 12 Genesis Ordinals inscribed on clays (the first form of writing language) and inscribed now in perpetuity on the Bitcoin blockchain. The story all began when the first written words were inscribed at the dawn of history in the earliest form of written words. Since then, homo-sapiens often were on the lookout for ways either by inventing or using existing tech to help our kind thrive.", "twitter_link": "https://twitter.com/bitclays", "discord_link": "https://discord.com/invite/bDGPbuKAvN", "website_link": ""}
+{
+  "description": "",
+  "discord_link": "https://discord.com/invite/bDGPbuKAvN",
+  "icon": "https://turbo.ordinalswallet.com/inscription/preview/c4f85df65727214dad152b5015308196a732794c6c8b7dd776bee0f603b233cdi0",
+  "inscription_icon": "c4f85df65727214dad152b5015308196a732794c6c8b7dd776bee0f603b233cdi0",
+  "name": "Bitclays-Genesis",
+  "slug": "bitclays-genesis",
+  "twitter_link": "https://twitter.com/bitclays",
+  "website_link": ""
+}

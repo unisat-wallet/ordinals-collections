@@ -1,10 +1,9 @@
 {
-  "name": "BIT APES",
-  "inscription_icon": "https://cdn.discordapp.com/attachments/941724718271180810/1095011808101802054/image.png",
-  "supply": "10000",
-  "slug": "bitapes",
-  "description": "The best community in the Bitcoin Ordinals space! Founded by Bored Ape Yacht Club members. Community-powered, community empowered. Some of the OGs of educating people on Inscriptions and continuously onboarding people to the Ordinals space. Inspired by the monkey art of Seneca and her team but NO DUPLICATES to BAYC on Ethereum. The only legitimate bored ape-inspired collection on the BTC blockchain. Beware of scams! Only BAYC members can use the Bored Ape intellectual property they own. High quality apes on sats with a downloadable 4000 x 4000 pixels PFP image ready for large-format prints. Join us on our trip in a little rocketship to Mars!",
-  "twitter_link": "https://twitter.com/BitApes_btc",
+  "description": "",
   "discord_link": "https://discord.gg/bitapes",
+  "icon": "https://cdn.discordapp.com/attachments/941724718271180810/1095011808101802054/image.png",
+  "name": "BIT APES",
+  "slug": "bitapes",
+  "twitter_link": "https://twitter.com/BitApes_btc",
   "website_link": "https://BitApes.io"
 }
