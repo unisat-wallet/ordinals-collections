@@ -1,7 +1,7 @@
 {
   "description": "OrdPunks is the first RecursiveInscription collection.OrdPunks is not a simple imitation of CryptoPunks, OrdPunks is a tribute to CryptoPunks.",
   "discord_link": "https://discord.com/invite/jGYhKfQymB",
-  "icon": "https://ordinals.com/preview/4ecfdb0c1ab823193d6266634f40c2425de2737f59cc33274b36d7397f1fb56bi0",
+  "icon": "https://raw.githubusercontent.com/ordpunks/assets/main/ordpunks.png",
   "inscription_icon": "4ecfdb0c1ab823193d6266634f40c2425de2737f59cc33274b36d7397f1fb56bi0",
   "name": "OrdPunks",
   "slug": "OrdPunks",
