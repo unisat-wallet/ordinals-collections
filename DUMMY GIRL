@@ -1,0 +1,1669 @@
+[
+    {
+        "id": "182793d707b07711f9b4812ba02d1b7c77ca9f3bfd90c0cc9a9f11c30064ff4ei0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes ",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "b4d8a2cf1e1ae3b72dca01ba58c0de103fb56cf4067a4a97bdff0d7cb49ddd0fi0",
+        "meta": {
+            "name": "DUMMY GIRl",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "chain",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2af57f99ce9e62778eaf41dd825bcfe01276005f72eecd6ca7c023b505649f1fi0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "f99e07415941e474b0ed35c7951b097b189f1effa0a2e87ea3353d2a98bb0f23i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "earrings",
+                    "value": "2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "92be99214fb3a2169fee102087efecca1eeb9ef8536e6ae891ee0678ba8d0727i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a7067c2aa2230723d167207978b5072ab644b64b47ce82d522bdbf9d98ae1d37i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "cigar",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2871c74c1fb4b93c1fd68e41ff2e31d2ea9546a7dad6c72f2eb579ca19d7063ai0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "1d6de60593b0eb22edc4aae05c04bc8ea2808b8f547f95c42fd57a73e702883ci0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "necklace",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "68e63b5cc9194ca73a51b8244b92aeada6a769f13dedd1906fb3d8a222a6cb4di0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "8e10ddb859b8b6bdc93d1d2fe3a19de31501351c93c3e053b11f4de94414e14di0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "phone ",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "814bf05050f3880d68397f2b458763e84fb844624521c09817502eb91010c751i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "necklace",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6056d82615b8ccad0ab40663230cda6cf2c84a4357e8c1aee7f0062f415ddf65i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "necklace",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ae5254ee728b86063d9ed0dfdd29661dcddcbd96d0cb36942a92389c5562c568i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "necktie",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "20d7b92a9f8e33be56f8f8faf41585c47257bf53c12b55e342d716e1b2ffdc78i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hairpin",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "80a58e358717fffd07ad8d26aeb8559ca2db44dba9fdf3cd0bfeb8a82aa79a7di0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ec8780a51debdfe019230fff38a9efcdba04cf06844fa89debf2f6e2e638bf81i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "9e480752fea38fbf77246bbc37ecd653bdf616bb6938b3849fc3091da5e18483i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "cone hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "d42386d6e5d6446086f4e71e33fcb2396f53d8e7db9bbcfb2724927968bc8996i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "cigar",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                },
+                {
+                    "trait_type": "hair",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "0d60314ad57bdcd301db32b01e7275ea1d4ab3efaeab37564c83c27f85902ebci0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": ""
+                },
+                {
+                    "trait_type": "bag",
+                    "value": ""
+                },
+                {
+                    "trait_type": "phone",
+                    "value": ""
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "8f3584ee95faf3cbf1b39349aa1a049f869b54279efa0505c9702979ee954abci0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "3a507eb5ce34d3169bac85bce0cec9528141efc9e3c6902becc480f831e6a6c2i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "cigar",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": ""
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "11a8bfabe7114c011f059cff264c387c7a7d96df5a5beb6366d3ad7819a20ecbi0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7842a601128264900535c1a27eed9e37ba2bdd60c544c235974eb835cd2f04d0i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2ba8664a2e20dea4bfc3daddc190d7a77bd155dd7fe074389e0fabc3274004f0i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "875db1ed1cdd4cc51a8ff104ad63e387eb9ff12721ac31c58d1585bc03a46007i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "082a1cf2bcb21af499231c9d03c018438bd11fef03744010af3a63f254497b18i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "cigar",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5ac21451ca368cc5b819aac4db076ad2524c5c7eb03e0ae3474da0c23653e71di0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6f6cbe3a586276714486e1a9aa744e6fb21b50cdace1ebf72e7058040e7db735i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "82bfbfd639289b0c6d12a0430ee03d9b2e7d6d34b548db941eba125bebdbf359i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "necktie",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4d13c6d140a9a714ec5f9acafce08eb57ef01e6804b4a363d70853da6f585864i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "0cae9a84b01d99fdc10e51936ec4a30ef3b754817eb2dd271e7c586fbf3a9b67i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1481e79d41f1230430373c2f84966dd6bf77c7de04a598f67debcf76eaf3e079i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e3976b4dbba90b21b3e6573dba75c14ed36663d1eb93eda40a16572054a03f7ai0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "450d5e11c2e4d9c50e6efbcb47b1fccd4c920f3e34d5c6c4f7f6f83fbb3af484i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "803328d8975038ef1dec61e3973eef247ee8f94ac2688cdabc2cbbddde6aca95i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "f2b91e7e5e0afb9c1c830693d18c3c607129ce50358ee56d718e2e67c724819ai0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "phone",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "004d19c7dcbf534ebeeb0c990578ae50a078fb99f0fc380afc85bc8c1b3d79b1i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "earring",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": ""
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5d942d975974a0e6849d8cfdb4b3fe73a319cd0ae631752be83673cb2fb33bbdi0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6538744851ba7c6b6302d6d6892adcceb6b93381aadced413296207e61e6f3cei0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "cone hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2093760e40fbdcee3072a3802650241b83954e1d424184b194504c25e5b14fd2i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "hat",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "earings",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "acfbb5c7371a079ece9c1dd6e7b7c5ea5d447cff6f6e631db7b4334aa619d0f2i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "hairpin",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "28981e9ac180bad8889a8ff041592f087d48b94863842e296c237395c64424afi0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2b676e83a01b37a25a893d0ec0472ede8ca5e5568e5b8bbc21a461ff16b83800i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "eec639d4082229c8e1204e72fd4cd2d11b870358c1d6ef0104286f7f21f73c16i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "earring",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5b905bb3c81be145ff9db74df957b0125b064539095c896fc984ee63638f8823i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "earring",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "necktie",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2d510cc383dceced2ab4d8bb4e16ad67a0a795a11dab605f5c5b4b5f41153730i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "cigar",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bracelet",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "b2ca5e568355830d9bae46753e49c6530fa5e69fa3f095ce1067a8c18eb3e430i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "necktie",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "7b1ddfa5134d9eac17c76c6401f321fc3791b5dc53bd56cc27910378736b8436i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "",
+                    "value": ""
+                },
+                {
+                    "trait_type": "",
+                    "value": ""
+                },
+                {
+                    "trait_type": "",
+                    "value": ""
+                },
+                {
+                    "trait_type": "",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "eb288c2cd21ba063ae51364becdc03f0f1b281d2c5fbe14b6eec9a9294ec5447i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "",
+                    "value": ""
+                },
+                {
+                    "trait_type": "",
+                    "value": ""
+                },
+                {
+                    "trait_type": "",
+                    "value": ""
+                },
+                {
+                    "trait_type": "",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "ea28087605d2fd5832d4ce26c614defff8037029c89382ee33fef2099b1adb50i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "4"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "lipstick",
+                    "value": ""
+                }
+            ]
+        }
+    }
+    {
+        "id": "81a1eeb9d7de8ae0c2a5e3dfe2609b818ad1e2087d508d8858bd2ea27b049665i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e7667dae502734371de90e0ad3dd9b86f44b4770caa5716424e29ca5e85c7f95i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "07b38cbf3884e9e518892951cc7fb8ce1877df81deee6e90fb1db9148533d895i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "dcbf6719c83dc5afbcd8cd6f82aae7b09fd7a45d1d3631086a163f150bc55c9ai0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "3e2071de43f59fae6a95a60ffe58fe377773c006044b6ef7fefeab3f2f6a71b1i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b0a00e1e84d966ee5e4a809411749515150997551148ae9ef428ffc33bf072b9i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": "2"
+                },
+                {
+                    "trait_type": "bag",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": "1"
+                },
+                {
+                    "trait_type": "wig",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6a7cf8d7e7e974176481d45dba8d698db6891df095c9f3e3f0cded1b0e0b6cd3i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": ""
+                },
+                {
+                    "trait_type": "bag",
+                    "value": ""
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": ""
+                },
+                {
+                    "trait_type": "wig",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "1639357d5e6ddc6af816c8b4abc0a5382dcc11ddd012844ddb2e2d35bf05cddci0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": ""
+                },
+                {
+                    "trait_type": "bag",
+                    "value": ""
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": ""
+                },
+                {
+                    "trait_type": "wig",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "5dbfe18ab29ee32a72280a5ced13fa684cb796674a55eb19b1e20e5e22aa30e5i0",
+        "meta": {
+            "name": "DUMMY GIRL",
+            "attributes": [
+                {
+                    "trait_type": "eyes",
+                    "value": ""
+                },
+                {
+                    "trait_type": "bag",
+                    "value": ""
+                },
+                {
+                    "trait_type": "pendant",
+                    "value": ""
+                },
+                {
+                    "trait_type": "wig",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    [
+        {
+            "id": "81a1eeb9d7de8ae0c2a5e3dfe2609b818ad1e2087d508d8858bd2ea27b049665i0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": "2"
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "e7667dae502734371de90e0ad3dd9b86f44b4770caa5716424e29ca5e85c7f95i0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": "2"
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "07b38cbf3884e9e518892951cc7fb8ce1877df81deee6e90fb1db9148533d895i0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": "2"
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "dcbf6719c83dc5afbcd8cd6f82aae7b09fd7a45d1d3631086a163f150bc55c9ai0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": "2"
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "3e2071de43f59fae6a95a60ffe58fe377773c006044b6ef7fefeab3f2f6a71b1i0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": "2"
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b0a00e1e84d966ee5e4a809411749515150997551148ae9ef428ffc33bf072b9i0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": "2"
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6a7cf8d7e7e974176481d45dba8d698db6891df095c9f3e3f0cded1b0e0b6cd3i0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": ""
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1639357d5e6ddc6af816c8b4abc0a5382dcc11ddd012844ddb2e2d35bf05cddci0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": ""
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5dbfe18ab29ee32a72280a5ced13fa684cb796674a55eb19b1e20e5e22aa30e5i0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": ""
+                    }
+                ]
+            }
+        },
+        {
+            "id": "416df68e6866b636831681da880eaa6ae350ab4c38d554e594bdac03333032edi0",
+            "meta": {
+                "name": "DUMMY GIRL",
+                "attributes": [
+                    {
+                        "trait_type": "eyes",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "bag",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "pendant",
+                        "value": ""
+                    },
+                    {
+                        "trait_type": "wig",
+                        "value": ""
+                    }
+                ]
+            }
+        }
+    ]
+{
+    "name": "DUMMY GIRL",
+    "slug": "dummygirl",
+    "supply": "500",
+    "description": "Your New Best Friend! Introducing the Dummy Girl Doll – where imagination meets-Home the Magic of Friendship! Don't miss out there is a lot story awaiting each nft",
+    "twitter_link": "https://twitter.com/dummygirlNFT",
+    "discord_link": "",
+    "website_link": "",
+    "inscription_icon": "https://drive.google.com/file/d/1FyBVvSN1udK5cd6PBeOQ-fAkflzm337-/view?usp=sharing"
+}
