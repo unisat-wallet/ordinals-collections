@@ -1,14 +1,5 @@
 # Ordinals Collections Standards
 
-#### A place for creators &amp; builders to organize ordinal collections
-
-⚠️ This repository is now deprecated, please submit your collections to the creator dashboard for prompt listing
-
-- [Bitcoin Creator Dashboard](https://ordinalswallet.com/creator-dashboard)
-- [Doge Creator Dashboard](https://dpge.ordinalswallet.com/creator-dashboard)
-- [Bells Creator Dashboard](https://bells.ordinalswallet.com/creator-dashboard)
-
-
 ## Inscription Data `inscriptions.json`
 
 ```
