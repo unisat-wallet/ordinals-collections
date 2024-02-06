@@ -1,5 +1,19 @@
 # Ordinals Collections Standards
 
+## Meta Data `meta.json`
+
+```
+{
+  "description": "",
+  "discord_link": "",
+  "icon": "https://",
+  "name": "",
+  "slug": "", # all lowercase or underscore hyphen, consistent with the directory name
+  "twitter_link": "https://",
+  "website_link": "https://"
+}
+```
+
 ## Inscription Data `inscriptions.json`
 
 ```
