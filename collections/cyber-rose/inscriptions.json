@@ -2398,5 +2398,269 @@
                 }
             ]
         }
+    },
+    {
+        "id": "db8383e37c31b5e4194ca027fdff6cc45d39cd9af0541b39f246972001ce941ei0",
+        "meta": {
+            "name": "CyberRose #101",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Red"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#101"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b88e64e1c8e3ec99d892b4a9d087b62bf9537444a26d660700146ec674fc4d10i0",
+        "meta": {
+            "name": "CyberRose #999",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "White"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#999"
+                }
+            ]
+        }
+    },
+    {
+        "id": "15ee9d1f54b1092964c5bd14782e8f36a77d5d2390aaa739b6022cd31e0fcf6fi0",
+        "meta": {
+            "name": "CyberRose #1999",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#1999"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ffe4b20e53e6c05bc4833f336c28fb932b741e58ef2ca01fd421cf5d80d37904i0",
+        "meta": {
+            "name": "CyberRose #2999",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "silver"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#2999"
+                }
+            ]
+        }
+    },
+    {
+        "id": "54e421758947ff8bc4fb30d80b672117ba6d7a48d358843bf4a3c86200e16f8fi0",
+        "meta": {
+            "name": "CyberRose #3999",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "BlazeEdge"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#3999"
+                }
+            ]
+        }
+    },
+    {
+        "id": "fa7d75ead7a64eb0f319f8844cc85e90bc072904669438a83109fc4216f7e47di0",
+        "meta": {
+            "name": "CyberRose #5555",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#5555"
+                }
+            ]
+        }
+    },
+    {
+        "id": "81604abe0135d31f0b969bf0dcbd90a367f5ff9663e07cd2b955c39f0d9182cci0",
+        "meta": {
+            "name": "CyberRose #6666",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Gradation Purple"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#6666"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8232942bea021721d1a5e4e7b0371bb16f28acca23528955ccd7883d99a52afdi0",
+        "meta": {
+            "name": "CyberRose #7777",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Yellow"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#7777"
+                }
+            ]
+        }
+    },
+    {
+        "id": "be947fb348049a2fad3af2a9068432aab18694f30ce747f1783bcf06c8db27a7i0",
+        "meta": {
+            "name": "CyberRose #8888",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "SunRise"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#8888"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ad21703e52858cf4c434932b54a1efbe9f3543c926f06ef6a27a8c0fb0ad150di0",
+        "meta": {
+            "name": "CyberRose #9888",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Cappuccino"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#9888"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6f893b733811d6f56faa1a535fdab9f0a0de1b6b7314298adbda55a86f7b8338i0",
+        "meta": {
+            "name": "CyberRose #9999",
+            "attributes": [
+                {
+                    "trait_type": "Growth Year",
+                    "value": "2024"
+                },
+                {
+                    "trait_type": "Flower",
+                    "value": "Rose"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Index",
+                    "value": "#9999"
+                }
+            ]
+        }
     }
 ]
