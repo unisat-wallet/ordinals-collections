@@ -1,0 +1,15 @@
+git {
+git "name": "SXTB",
+git "logo": "https://i.postimg.cc/TPdCH8Yz/IMG-20240128-045645.jpg",
+git "website": "https://www.okx.com/cn/web3/marketplace/inscription/ordinals/token/SXTB",
+git "description": 
+"Inscription of anonymous joint shareholders of the company,English name: SXTB (BRC20),Chinese name: 双信通宝,Total issuance: 2100 inscriptions,Total supply: 21 million,Single casting upper limit: 10000 yuan,
+Creation time: January 26, 2024 16:45:23,Deployment Inscription ID:700758676014b513fb662e1256f322b4e95ecb4d9acbdd42e14166f65f7c62a9i0,Initial Inscription # 57422775,Ending Inscription # 60280983,SXTB is a BRC20 token deployed on the Bitcoin blockchain based on the orders protocol and Mint, with inscriptions replacing equity BRC20 tokens
+SXTB was deployed on January 26, 2024, and completed at 18:47:24 Mint on February 9. It took 15 days and consumed approximately 75000 RMB in Bitcoin gas,Fair distribution adheres to the decentralization of blockchain, where everyone is a shareholder, everyone is a project party, and both parties trust and trade with each other. It embodies the spirit of an open source community consensus without sovereignty,"
+git "id":"700758676014b513fb662e1256f322b4e95ecb4d9acbdd42e14166f65f7c62a9i0",
+git "explorer": "https://unisat.io/market/brc20?tick=SXTB&tab=1",
+git "type": "Bitcoin",
+git "symbol": "SXTB",
+git "decimals": 18,
+git "status": "active",
+git }
