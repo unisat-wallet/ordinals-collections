@@ -1,0 +1,17 @@
+{
+"name": "SXTB",
+"logo": "https://private-user-images.githubusercontent.com/37186542/307830541-24eb97c8-8bd9-407b-a098-5601334eaefc.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMzU0OTksIm5iZiI6MTcwOTAzNTE5OSwicGF0aCI6Ii8zNzE4NjU0Mi8zMDc4MzA1NDEtMjRlYjk3YzgtOGJkOS00MDdiLWEwOTgtNTYwMTMzNGVhZWZjLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QxMTU5NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YTA5N2JhNjhjZDRkYTlkNWU3MGM5ZWNmMzhjMzhiZjVmMzg2ZWM5M2EzYTBkZWUwNzQ0YzI2OWZhOWVjNzk5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZyHmztBoHSv49v2goH3E-L3uSjJXHjqYRXcvBjJez1Y",
+"website":"https://www.okx.com/cn/web3/marketplace/inscription/ordinals/token/SXTB",
+"description": "Inscription of anonymous joint shareholders of the company,English name: SXTB (BRC20),Chinese name: 双信通宝,Total issuance: 2100 inscriptions,Total supply: 21 million,Single casting upper limit: 10000 yuan,Creation time: January 26, 2024 16:45:23,Deployment Inscription
+
+ID:700758676014b513fb662e1256f322b4e95ecb4d9acbdd42e14166f65f7c62a9i0,Initial Inscription # 57422775,Ending Inscription # 60280983,SXTB is a BRC20 token deployed on the Bitcoin blockchain based on the orders protocol and Mint, with inscriptions replacing equity BRC20 tokens
+SXTB was deployed on January 26, 2024, and completed at 18:47:24 Mint on February 9. It took 15 days and consumed approximately 75000 RMB in Bitcoin gas,Fair distribution adheres to the decentralization of blockchain, where everyone is a shareholder, everyone is a project party, and both parties trust and trade with each other. It embodies the spirit of an open source community consensus without sovereignty,
+第一个实际现实映射股权铭文诞生,基于BTC生态BRC-20的开源股权铭文自治公司,双信通宝,SXTB由贵州双信通商贸有限公司基于BRC-20打造第一股权铭文,SXTB双信通宝总量2100万枚,指在打造中国第一家线上办公室,无员工,去中心化网络协同社区,现实虚拟链接入口
+SXTB用于网络,现实,虚拟公司,虚拟加密数学货币交互通兑,比特币网络转账,公司生态消费,生态建设,支付,储存,对冲,去中心化办公,去中心化无薪员工阶层,去中心化网络协同社区,现实和虚拟平行入口",
+"id":"700758676014b513fb662e1256f322b4e95ecb4d9acbdd42e14166f65f7c62a9i0",
+"explorer": "https://unisat.io/market/brc20?tick=SXTB&tab=1",
+"type": "Bitcoin",
+"symbol": "SXTB",
+"decimals": 18,
+"status": "active",
+}
