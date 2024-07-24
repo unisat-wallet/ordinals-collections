@@ -43,24 +43,36 @@ Artists can assign unqiue traits to ordinals with `attributes`
   ...
 ]
 ```
-
 Your inscriptions.json file will look like this:
 
 ```
 [
   {
-    "id": "af0b19432a676551223e300e7197348b7c225cb7b31d0d7c6e246e382cbf6f81i0",
+    "id": "c387a2656ef973a55df57edd3ac4b26b09865cc3fcb21cfaa4921ead1363f53ai0",
     "meta": {
-      "name": "Planetary Ordinal #11",
+      "name": "Bitcoin Frog #2989",
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Sun sun",
+          "value": "Black",
         },
         {
-          "trait_type": "Holes",
-          "value": "rose blossom",
+          "trait_type": "Body",
+          "value": "Tron",
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Green Hoodie",
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigar",
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Visor",
         }
+
       ]
     }
   }
