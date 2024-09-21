@@ -1,0 +1,9 @@
+{
+  "description": "1499 Non Derivative - Directly inspired by Pizza Ninjas - Its Pizza Time!",
+  "discord_link": "",
+  "icon": "https://drive.google.com/file/d/11DhOIFb3v_Bg7YiLo0xGLtVwaQXUtrxI/view?usp=sharing",
+  "name": "Fractal Pizza Ninjas",
+  "slug": "fpn", # all lowercase or underscore hyphen, consistent with the directory name
+  "twitter_link": "https://x.com/FractalPN",
+  "website_link": "https://"
+}
