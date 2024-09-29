@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9b6919ab76e89de9965d9e028e7a5af2525897b20b5052ed6720a8e98ad081dbi0",
+    "meta": {
+      "name": "Umbrix",
+      "attributes": [
+        {
+          "trait_type": "Planet Nocturnis",
+          "value": "Shadows Control"
+        }
+      ]
+    }
+  },
+  {
+    "id": "767a123afa54f4b55f165a2d9c9147ac8803248504fb6003fc6bb25eea4e792ai0",
+    "meta": {
+      "name": "Flamiris",
+      "attributes": [
+        {
+          "trait_type": "Planet Ignis",
+          "value": "Guardian Of Ignis!"
+        }
+      ]
+    }
+  },
+  {
+    "id": "93912b67d4f41b748e7724048219d88d05cfa088a3a730c7df5708aa7b796efci0",
+    "meta": {
+      "name": "Xyon",
+      "attributes": [
+        {
+          "trait_type": "BORG",
+          "value": "YOU WILL BE ASSIMILATED!"
+        }
+      ]
+    }
+  }
+]
