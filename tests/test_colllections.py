@@ -40,7 +40,7 @@ def test_meta():
         "supply": "100",
         "slug": "based-apes",
         "description": "",
-        "twitter_link": "https://twitter.com/BasedApes",
+        "twitter_link": "https://x.com/BasedApes",
         "discord_link": "https://discord.com/invite/ordinalswallet",
         "website_link": "",
     }
