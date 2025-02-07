@@ -44,6 +44,15 @@ impl InscriptionId {
         let (txid, vout) = self.outpoint.decode();
         format!("{}i{}", txid, vout)
     }
+
+    pub fn new(txid: String, vout: u32) -> Result<InscriptionId> {
+        let outpoint = Outpoint::new(txid, vout)?;
+        Ok(InscriptionId { outpoint })
+    }
+
+    pub fn decode(&self) -> (String, u32) {
+        self.outpoint.decode()
+    }
 }
 
 impl<'de> Deserialize<'de> for InscriptionId {
@@ -105,8 +114,6 @@ impl FromStr for InscriptionId {
             Err(e) => anyhow::bail!("{} invalid vout: {}", s, e),
         };
 
-        let outpoint = Outpoint::new(format!("{}", txid), vout).unwrap();
-
-        Ok(InscriptionId::from_bytes(outpoint.to_bytes()))
+        InscriptionId::new(format!("{}", txid), vout)
     }
 }
