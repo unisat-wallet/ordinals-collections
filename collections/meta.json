@@ -1,0 +1,9 @@
+{
+  "description": "Bitcoin will exist forever.",
+  "discord_link": "",
+  "icon": "https://imgur.com/a/4JLZQqc",
+  "name": "Infinity Bitcoin",
+  "slug": "", # all lowercase or underscore hyphen, consistent with the directory name
+  "twitter_link": "https://",
+  "website_link": "https://"
+}
