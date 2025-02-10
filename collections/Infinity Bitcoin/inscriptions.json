@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bfdfa58348bc03bfcfb6f603281f3bd1044a09e29d70530fb536d54b2b5fedf2i0",
+    "meta": {
+      "name": "Infinity Bitcoin",
+      "attributes": [
+        {
+          "trait_type": "Attribute",
+          "value": "BTC GEM",
+        },
+      ]
+    }
+  }
+
+  {
+    "id": "15f13fb8c6aa816ea03fa047fa15ea0444c353b628c0a1deae4e4eddc35857fci0",
+    "meta": {
+      "name": "Infinity Blocks",
+      "attributes": [
+        {
+          "trait_type": "Attribute",
+          "value": "BTC Blocks",
+        },
+      ]
+    }
+  }
+]
