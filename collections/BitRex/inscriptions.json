@@ -1,0 +1,49 @@
+[
+  {
+    "meta": {
+      "name": "🦖BitRex#93",
+      "FB Mother_Inscription": "ca3a95599a5c202757204a95abb522d9feeb2759aeceb29a3e12fb42586c626ci0"
+      "attributes": [
+        {
+          "value": "Pirate Hat",
+          "trait_type": "Headwear"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Skin"
+        },
+        {
+          "value": "Backpack",
+          "trait_type": "Egyptian Outfit"
+        },
+        {
+          "value": "Genesis",
+          "trait_type": "Type"
+        }
+      ],
+    },
+      {
+    "meta": {
+      "name": "🦖BitRex#90",
+      "FB Mother_Inscription": "188ae02adcf548530de11d1293696ab67f3839904ae97cef4cef8f162747f1a1i0"
+      "attributes": [
+        {
+          "value": "Baseball Cap",
+          "trait_type": "Headwear"
+        },
+        {
+          "value": "Salamander Red",
+          "trait_type": "Skin"
+        },
+        {
+          "value": "Volcano Singlet",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Genesis",
+          "trait_type": "Type"
+        }
+      ],
+    }
+  },
+  
