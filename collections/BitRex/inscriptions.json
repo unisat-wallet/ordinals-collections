@@ -22,8 +22,9 @@
           "trait_type": "Type"
         }
       ]
-    },
-      {
+    }
+  },
+  {
     "id": "73ac6229e4d7addebf19d99174f43348df223d74b1e60159ed758757f41b83eei0",
     "meta": {
       "name": "🦖BitRex#90",
@@ -45,10 +46,10 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "ccf08a448e8ef31d94b608dd124ac839f3cc88629cfaa1237b0177f8cb61d308i0",
     "meta": {
       "name": "🦖BitRex#73",
@@ -70,10 +71,10 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "12206684e9f69ba1d301915955bf3244a5c84a3cd5207da8a5fc0a8e9e076886i0",
     "meta": {
       "name": "🦖BitRex#70",
@@ -95,10 +96,10 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "76d5e8d2bb7cf1f3804e9a5c11b127f57ea74a9e2ddde1fff0430ff70225c1b0i0",
     "meta": {
       "name": "🦖BitRex#54",
@@ -120,7 +121,7 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
   {
@@ -149,14 +150,14 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "282ca42ef1495d8bd9c341d832c098b41f55fa565425a6e064267b1a630df192i0",
     "meta": {
       "name": "🦖BitRex#44",
-      "FB Mother_Inscription": "c45e23583235b16849a1fa03a88849c7f2d76192b17860d7b143090d5ec46ef8i0"
+      "FB Mother_Inscription": "c45e23583235b16849a1fa03a88849c7f2d76192b17860d7b143090d5ec46ef8i0",
       "attributes": [
         {
           "value": "Black Hair",
@@ -178,7 +179,7 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
   {
@@ -207,10 +208,10 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "dd65c091e3c8feffc41422b1f3be54d89fde2251b91d91782e4450aa9ad4cafci0",
     "meta": {
       "name": "🦖BitRex#21",
@@ -240,10 +241,10 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "9862bc30b48dbc28eb8455ec20a2e3800bc9350f4ddf8d8895a483f8885ebb80i0",
     "meta": {
       "name": "🦖BitRex#19",
@@ -269,10 +270,10 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "ee9e12cbf5fc4ef5a0227ecbea49ee94a97a2dbbe1835f2ed21b647b64580fc1i0",
     "meta": {
       "name": "🦖BitRex#16",
@@ -294,10 +295,10 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
+  {
     "id": "a4f03d3bf97a8593c7adbb5d9759ca23debb8d964279f9f4e9cdd02f24cbf5e0i0",
     "meta": {
       "name": "🦖BitRex#15",
@@ -319,164 +320,163 @@
           "value": "Genesis",
           "trait_type": "Type"
         }
-      ],
+      ]
     }
   },
-    {
-        "id": "f52fa61c6b36d3b1424b2b33b372f9802caa5ded4ed4b876aca9098a501690e6i0",
-        "meta": {
-            "name": "🦖BitRexZOMBIE🧠",
-            "FB Mother_Inscription": "4df40f2e227b243595ae13c68a9877c2f94ec7fc918dba93adcb711073aab5e6i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "ZOMBIE"
-                }
-            ],
+  {
+    "id": "f52fa61c6b36d3b1424b2b33b372f9802caa5ded4ed4b876aca9098a501690e6i0",
+    "meta": {
+      "name": "🦖BitRexZOMBIE🧠",
+      "FB Mother_Inscription": "4df40f2e227b243595ae13c68a9877c2f94ec7fc918dba93adcb711073aab5e6i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "ZOMBIE"
         }
-    },
-      {
-        "id": "c0fe0909dc854bb8bfd6d106348bec7fcb1848124a4558270415956060375e50i0",
-        "meta": {
-            "name": "🦖BitRexWIZARD🪄",
-            "FB Mother_Inscription": "95f3a56fbdd4b9885720411d408b489d9fbc8c25fa28ae0c321538f4051bab6ai0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "WIZARD"
-                }
-            ],
-        }
-    },
-      {
-        "id": "f438cbfa2e428581f9d74ffad36acb4050ba84c473a75d127ec7c061c34e429ei0",
-        "meta": {
-            "name": "🦖BitRexWITCH🐈‍⬛",
-            "FB Mother_Inscription": "ae741afc8f601ef8907e0f57b76e72b0547d8cf18ab16fbdb132b6fa6e3c9699i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "WITCH"
-                }
-            ],
-        }
-    },
-    {
-        "id": "fc79cfe771f08a8371193d14c45eae425928a346ebde4eb8d5445487f3c95dfai0",
-        "meta": {
-            "name": "🦖BitRexSCHOLAR🎓",
-            "FB Mother_Inscription": "4abcae9e11cc2e1424116593e45ca5c0f7912e01043a48d4b6ad6de265da149ei0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "SCHOLAR"
-                }
-            ],
-        }
-    },
-  
-      {
-        "id": "2176203ebb7f583ec583fe6ed3cc4bb89078974f2f96b40457b5f990685c30c4i0",
-        "meta": {
-            "name": "🦖BitRexQUEEN💋",
-            "FB Mother_Inscription": "71a4ac4c699622a9707e1dc951834fdee8b463a8f41bf32b03dd4013b574453ei0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "QUEEN"
-                }
-            ],
-        }
-    },
-    {
-        "id": "b12aca4b2c1dc05e61f7e2a58075b7e93d08e75235171bfecf5a2c25dd8638f3i0",
-        "meta": {
-            "name": "🦖BitRexMONSTER👹",
-            "FB Mother_Inscription": "8f42e3b70bf70e164485619246ced6baabaa0b38b73e815eb76e7e97dadc8b14i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "MONSTER"
-                }
-            ],
-        }
-    },
-    {
-        "id": "1083f3f0f9e679697e5cdb69241f39bb2b6a01d0f26d8edcb88ec1c8cf4c30a0i0",
-        "meta": {
-            "name": "🦖BitRexLAVA🔥",
-            "FB Mother_Inscription": "1a49601b8e89829f457f22bfaa65bf695ab668283c686f3b1b73b7532f286690i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "LAVA"
-                }
-            ],
-        }
-    },
-    {
-        "id": "099dc7ebaea4ebeb49164752cea42be89f3b806a03d7b3dc454754ec43c628dbi0",
-        "meta": {
-            "name": "🦖BitRexKING👑",
-            "FB Mother_Inscription": "b20d064ea7ac34c1497bdc6268f56033f4fe315d451c30b89d4ea35d13677b10i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "KING"
-                }
-            ],
-        }
-    },
-      {
-        "id": "f16e54cd17bde4fbeaf070fd072b360375b696650cfe9b9a25ced9d42a0615e1i0",
-        "meta": {
-            "name": "🦖BitRexHUNTER🔫",
-            "FB Mother_Inscription": "6d6b4e440bfdd51c6857716fed020bb10235e18e96d5a95f33fd57c637b2cfe4i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "HUNTER"
-                }
-            ],
-        }
-    },
-      {
-        "id": "99e7233504c87aa9b3142c545ed9261e9b430d00f1da11e165e15a5b4843b36ci0",
-        "meta": {
-            "name": "🦖BitRexGLOW🌟",
-            "FB Mother_Inscription": "d4eb9d66f438516a1fb3e9509f9d7d8937d15319e7fa032ee72b5fb9b89226a8i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "GLOW"
-                }
-            ],
-        }
-    },
-      {
-        "id": "a1e54d136a487c1cce7ffaa44a56a7e0192c42f630efc2463cde4b85d84f7b7bi0",
-        "meta": {
-            "name": "🦖BitRexGHOST👻",
-            "FB Mother_Inscription": "36c83b05d8a9c9f23baaa648bd91455271b5199dce47c9aa18fcb8101a0e6a26i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "GHOST"
-                }
-            ],
-        }
-    },
-    {
-        "id": "3ec0a09e54831b385a38615ebb197a07651a96d1dc2958b931b2230a0e97ac77i0",
-        "meta": {
-            "name": "🦖BitRexCYBORG🤖",
-            "FB Mother_Inscription": "b92dc47ac4f7d794c9e0a0abf5e7cf8366029411b1b3533fb951767bcc599bc9i0",
-            "attributes": [
-                {
-                    "trait_type": "Mystic🐲",
-                    "value": "CYBORG"
-                }
-            ],
-        }
+      ]
     }
+  },
+  {
+    "id": "c0fe0909dc854bb8bfd6d106348bec7fcb1848124a4558270415956060375e50i0",
+    "meta": {
+      "name": "🦖BitRexWIZARD🪄",
+      "FB Mother_Inscription": "95f3a56fbdd4b9885720411d408b489d9fbc8c25fa28ae0c321538f4051bab6ai0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "WIZARD"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f438cbfa2e428581f9d74ffad36acb4050ba84c473a75d127ec7c061c34e429ei0",
+    "meta": {
+      "name": "🦖BitRexWITCH🐈‍⬛",
+      "FB Mother_Inscription": "ae741afc8f601ef8907e0f57b76e72b0547d8cf18ab16fbdb132b6fa6e3c9699i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "WITCH"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc79cfe771f08a8371193d14c45eae425928a346ebde4eb8d5445487f3c95dfai0",
+    "meta": {
+      "name": "🦖BitRexSCHOLAR🎓",
+      "FB Mother_Inscription": "4abcae9e11cc2e1424116593e45ca5c0f7912e01043a48d4b6ad6de265da149ei0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "SCHOLAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2176203ebb7f583ec583fe6ed3cc4bb89078974f2f96b40457b5f990685c30c4i0",
+    "meta": {
+      "name": "🦖BitRexQUEEN💋",
+      "FB Mother_Inscription": "71a4ac4c699622a9707e1dc951834fdee8b463a8f41bf32b03dd4013b574453ei0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "QUEEN"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b12aca4b2c1dc05e61f7e2a58075b7e93d08e75235171bfecf5a2c25dd8638f3i0",
+    "meta": {
+      "name": "🦖BitRexMONSTER👹",
+      "FB Mother_Inscription": "8f42e3b70bf70e164485619246ced6baabaa0b38b73e815eb76e7e97dadc8b14i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "MONSTER"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1083f3f0f9e679697e5cdb69241f39bb2b6a01d0f26d8edcb88ec1c8cf4c30a0i0",
+    "meta": {
+      "name": "🦖BitRexLAVA🔥",
+      "FB Mother_Inscription": "1a49601b8e89829f457f22bfaa65bf695ab668283c686f3b1b73b7532f286690i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "LAVA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "099dc7ebaea4ebeb49164752cea42be89f3b806a03d7b3dc454754ec43c628dbi0",
+    "meta": {
+      "name": "🦖BitRexKING👑",
+      "FB Mother_Inscription": "b20d064ea7ac34c1497bdc6268f56033f4fe315d451c30b89d4ea35d13677b10i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "KING"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f16e54cd17bde4fbeaf070fd072b360375b696650cfe9b9a25ced9d42a0615e1i0",
+    "meta": {
+      "name": "🦖BitRexHUNTER🔫",
+      "FB Mother_Inscription": "6d6b4e440bfdd51c6857716fed020bb10235e18e96d5a95f33fd57c637b2cfe4i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "HUNTER"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99e7233504c87aa9b3142c545ed9261e9b430d00f1da11e165e15a5b4843b36ci0",
+    "meta": {
+      "name": "🦖BitRexGLOW🌟",
+      "FB Mother_Inscription": "d4eb9d66f438516a1fb3e9509f9d7d8937d15319e7fa032ee72b5fb9b89226a8i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "GLOW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a1e54d136a487c1cce7ffaa44a56a7e0192c42f630efc2463cde4b85d84f7b7bi0",
+    "meta": {
+      "name": "🦖BitRexGHOST👻",
+      "FB Mother_Inscription": "36c83b05d8a9c9f23baaa648bd91455271b5199dce47c9aa18fcb8101a0e6a26i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "GHOST"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3ec0a09e54831b385a38615ebb197a07651a96d1dc2958b931b2230a0e97ac77i0",
+    "meta": {
+      "name": "🦖BitRexCYBORG🤖",
+      "FB Mother_Inscription": "b92dc47ac4f7d794c9e0a0abf5e7cf8366029411b1b3533fb951767bcc599bc9i0",
+      "attributes": [
+        {
+          "trait_type": "Mystic🐲",
+          "value": "CYBORG"
+        }
+      ]
+    }
+  }
 ]
