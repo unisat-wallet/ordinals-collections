@@ -478,5 +478,367 @@
         }
       ]
     }
+  },
+  {
+    "id": "7b4b6ffc131970be6d8078b62bb256cb815b1158e6d250d07c5ab601ab6bc5c4i0",
+    "meta": {
+      "name": "🦖BitRex#23",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Top Hat"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Red Scarf"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Salamander Red"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Fishing Outfit"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "00f711597342b8cca4dd006e1e5c6038d74085e248b9f73cf96bc3a4459439f7i0"
+    }
+  },
+  {
+    "id": "e4f3ddaeee384407589f8b494dae33986d459c8053d54210432671200ab2f6a0i0",
+    "meta": {
+      "name": "🦖BitRex#32",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "King's Crown"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Scorpion Gray"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Backpack"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "534f1a53caed343108de15c89df8a98da6d38cd44159b0d17dbb7ae5df1605fdi0"
+    }
+  },
+  {
+    "id": "1023723c16c51ac4cfec8eb898a66243802920364f3d2f5cd9d50cac358be9d4i0",
+    "meta": {
+      "name": "🦖BitRex#39",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Yellow Spiky Hair"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Desert Brown"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Military Jacket"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "701d19f48cf6d77c500af706f0c10021f194dff52f08e39ff5b89bcbff87f8bfi0"
+    }
+  },
+  {
+    "id": "31071ed1b9cabe89d768ce3a65e2e6eb3c10069479fcba568cd82ec7e9c19029i0",
+    "meta": {
+      "name": "🦖BitRex#49",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "King's Crown"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Red Scarf"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Ghost Gray"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Backpack"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "f82205341a939c625ef93c2e63268660989e19ae2fa22a1b4c89a0c8cc60ea7di0"
+    }
+  },
+  {
+    "id": "4d3302de860ba10e3313f851490af7016ee45dc48b073cb0402020d9174ea7a5i0",
+    "meta": {
+      "name": "🦖BitRex#51",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Birthday Hat"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Backpack"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "603584d7d80951e070dc88aba28b86777c72f6dd02f772bf19de5eaacddd9a73i0"
+    }
+  },
+  {
+    "id": "f7774dc22f422d4b139f4a8c38d629997bcb26ba8210ac0b318294dcf6ca15c9i0",
+    "meta": {
+      "name": "🦖BitRex#52",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Baseball Cap"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Albino White"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Business Suit"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "03be3b50b11f3dcebbdeb5f6f59ccb343cc2f8dcabad6c0f602f71e4acee9fedi0"
+    }
+  },
+  {
+    "id": "ed8c0ff84711017045fbd3a2d3aae293e0b56c96539e5f821270193b3ed4b9d9i0",
+    "meta": {
+      "name": "🦖BitRex#56",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Party Hat"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Ghost Gray"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Sunset Shirt"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "933026db983ce81f0086f77c21ecfb3fec99528dbe847f986c94c0f9edc0f59fi0"
+    }
+  },
+  {
+    "id": "e18d27cd63a010cabe8bef8b070b7dd983f428019d4a3f320c4c833f8971dbd2i0",
+    "meta": {
+      "name": "🦖BitRex#63",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Black Hair"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Raincoat"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "5549122d9f2f77b701e3c0ace3e78148c306a47bdd5514298d83096ae70401bci0"
+    }
+  },
+  {
+    "id": "b1c19f5664a39d4088889412ea1c00e1c0bde5400c7f83b62d2aee20613f2c42i0",
+    "meta": {
+      "name": "🦖BitRex#64",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Baseball Cap"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Scorpion Gray"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Sunset Shirt"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "e02bab6f1f77011675abc43519f448dd6586788672a5b26492344ea6a7b3dd84i0"
+    }
+  },
+  {
+    "id": "ee7853e34412ea1fc18265396e9901a81debc649373494753844bc64195bb492i0",
+    "meta": {
+      "name": "🦖BitRex#65",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Red Mohawk"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Scorpion Gray"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Backpack"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "893298c9513aea18ff03c470cc1b3cb887fbfcda5a21e81801f7bec83992c7a8i0"
+    }
+  },
+  {
+    "id": "86317f77916b9c79fc7527564dedcccff76042694ff22bfe73d96a1caaa69da6i0",
+    "meta": {
+      "name": "🦖BitRex#68",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Party Hat"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Albino White"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Backpack"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "a969517e3388ea8ce4facb60bd584aced273848d421264d6e810184874538eedi0"
+    }
+  },
+  {
+    "id": "8559cd3ffc33658791cfc5ee70eca25c94772efb258b992d4cbe44cbec043d2ci0",
+    "meta": {
+      "name": "🦖BitRex#91",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Baseball Cap"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Scorpion Gray"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Raincoat"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "3024f0aa4bb2f37a5b9261c6b7155c101d6c211f97a564cc4183b231e27d77d5i0"
+    }
+  },
+  {
+    "id": "74ead9e7a7d725aba83541c097e9951dbd882c34b036a8eda2027cfc6e488f0ei0",
+    "meta": {
+      "name": "🦖BitRex#100",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "King's Crown"
+        },
+        {
+          "trait_type": "Eyewear",
+          "value": "Monocle"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Scorpion Gray"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Business Suit"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "53c760b64229435cf0687a73e3e64ddf5c0efb5d2e4b104534a0611132385fe2i0"
+    }
+  },
+  {
+    "id": "1201bd34d898cbc0b9d519c9dcbada985f1ed49b9001e0ba499b4e55e924626bi0",
+    "meta": {
+      "name": "🦖BitRex#101",
+      "attributes": [
+        {
+          "trait_type": "Headwear",
+          "value": "Doctor's Head Mirror"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Amber Orange"
+        },
+        {
+          "trait_type": "Outfit",
+          "value": "Moon Shirt"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Genesis"
+        }
+      ],
+      "FB Mother_Inscription": "b018dca88d68149b77fe6109bd6b9983d4256fb9943dc3a0d14d1eba38b274dci0"
+    }
   }
 ]
