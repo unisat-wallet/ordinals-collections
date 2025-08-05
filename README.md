@@ -10,7 +10,8 @@
   "name": "",
   "slug": "", # all lowercase or underscore hyphen, consistent with the directory name
   "twitter_link": "https://",
-  "website_link": "https://"
+  "website_link": "https://",
+  "is_brc2.0": false # indicates whether this is a BRC-2.0 collection, true for BRC-2.0 collection, false for non-BRC-2.0 collection
 }
 ```
 
