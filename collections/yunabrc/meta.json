@@ -1,0 +1,11 @@
+{
+  "description": "Yuna Revelation is a programmable BRC2.0 pixel collection powered by EVM-compatible smart contracts & inscribed under the 100M inscription for provenance like none other. Holders of Yuna Revelation will get a BRC2.0 token airdrop once BRC2.0 mainnet launch goes live on Block 912,690 (~September 2). The ticker is $[REDACTED]",
+  "discord_link": "https://discord.com/invite/GuAYZEGcEd",
+  "icon": "https://d3kc8fddl41kva.cloudfront.net/6892d2c2e54ea6e08028a14d",
+  "inscription_icon": "98411cce8807c2fcc67c1412a841ff1cd19c27d451af51a0d02d512328690ae5i78",
+  "name": "Yuna Revelation BRC2.0",
+  "slug": "yunabrc",
+  "twitter_link": "https://x.com/yuzodotxyz",
+  "website_link": "https://yuzo.xyz",
+  "is_brc2.0": "true"
+}
