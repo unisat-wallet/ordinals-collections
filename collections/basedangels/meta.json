@@ -1,7 +1,7 @@
 {
   "description": "5,555 bitcoin ordinals. 2000s nostalgia. orange culture.",
-  "discord_link": "discord.gg/basedangels",
-  "inscription_icon": "19f504c44f0388c738ca92796b940617e60eb6239f27433b2e4c136191090954i0",
+  "discord_link": "https://discord.gg/basedangels",
+  "icon": "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fcreator-hub-prod.s3.us-east-2.amazonaws.com%2Ford-basedangels_pfp_1731080229062.png",
   "name": "Based Angels",
   "slug": "basedangels",
   "twitter_link": "https://x.com/basedangelsbtc",
