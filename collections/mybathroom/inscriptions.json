@@ -1,0 +1,902 @@
+[
+    {
+      "id": "bccbe7e50756f882a38782fe14e0ed05c2710cf6ddfccfbe7635ade4a3ef8bc5i0",
+      "meta": {
+        "name": "Merda d'Artista #1",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "afeff9d06a315d2f7d6c6e4b7e59b1a2ba3995e8fa93b6516836509be04c9948i0",
+      "meta": {
+        "name": "Merda d'Artista #2",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "55ac2bc99c11d27dc8586c0c7ccdbb0ce4917507200d6f3b8a219701a186881ci0",
+      "meta": {
+        "name": "Merda d'Artista #3",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a00a55a2443f442e60d3895352a627783e4c7a71b0fd0276baa6224b6ee21b8bi0",
+      "meta": {
+        "name": "Merda d'Artista #4",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e8d3f91c44c400fe55decd1cf9c312425242cd22000e79dc47488218f63284c3i0",
+      "meta": {
+        "name": "Merda d'Artista #5",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1bae764b7583e6c7d4b97fa0bab3a514c83f880a602eecb9b7b9c04c149ab612i0",
+      "meta": {
+        "name": "Merda d'Artista #6",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "734f74b4c63fe0ed4ae504c3aaf8042dacee114b49e40a6476cb0d1de3ee483ei0",
+      "meta": {
+        "name": "Merda d'Artista #7",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3fe9280be24520e291492c0032c71e81f6ad24e91d8c883e90775491d7800d66i0",
+      "meta": {
+        "name": "Merda d'Artista #8",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "419b5d223424e8943830364e32d561ee619c8c482ce4a7997159f29899c1e5a2i0",
+      "meta": {
+        "name": "Merda d'Artista #9",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9eaaa43af2887b65818a6fd0e5ee6be03c9275558aca2736f1d9614a469c3965i0",
+      "meta": {
+        "name": "Merda d'Artista #10",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c97b4b4a4e6d392b44142dc4ffbec865a23b0cfe1667de33e52eda968dc54a76i0",
+      "meta": {
+        "name": "Merda d'Artista #11",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b3ac81caa0ae34aaa054b79163c30be70f9224d41cee47ffaa4f20b02d96e51ai0",
+      "meta": {
+        "name": "Merda d'Artista #12",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9366170e7abe8ae1acb9892c19132e0acefbf6301b6b8fe7d414c1921247a9bci0",
+      "meta": {
+        "name": "Merda d'Artista #13",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6db82f8cfbaa0ca9faf808e24cd8569997f26f4a644e6f95fb4fb62dd15e2dbci0",
+      "meta": {
+        "name": "Merda d'Artista #14",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "06a7f87c8c703b667725a2e40de2583905e1dee6f6825e200868c5bcfe1ae3adi0",
+      "meta": {
+        "name": "Merda d'Artista #15",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4aad8c03d86f016a23f56ac3ed9f7ca4f44a59ec17ab9579b34eed4dca0e40a4i0",
+      "meta": {
+        "name": "Merda d'Artista #16",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "801088c234ce9ad8b555c756fc1046480d35b8ad070d1cad5bd2b77d877b76a3i0",
+      "meta": {
+        "name": "Merda d'Artista #17",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1f27f215cadde38ce4e9d2f7b2b203e374e2696252326cc56ea49755b24d70e2i0",
+      "meta": {
+        "name": "Merda d'Artista #18",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e8749ba1188d296607870c4ca29b0112b6a540c9171e7f19f8d248b2299eadefi0",
+      "meta": {
+        "name": "Merda d'Artista #19",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e77ada9632267f860d7f7384c7bb203f76bed0ac11590e829df0b6a8e8e3d86i0",
+      "meta": {
+        "name": "Merda d'Artista #20",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "452dd5e2cfe1b6ab1f1d0f479d66cf6bc074fff4adf04447f979ecb2d1603f53i0",
+      "meta": {
+        "name": "Merda d'Artista #21",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "158fb64d724aa909909512d8728b0956c0dc4ef6aafef5f707ad5d56bc41f6a5i0",
+      "meta": {
+        "name": "Merda d'Artista #22",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1bc034337c77e19f4fceda74d0372bf19f2fec4c27bb17868b85a41513bdc80ai0",
+      "meta": {
+        "name": "Merda d'Artista #23",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9c0d33c45bb278d91e01cc6e13e022ec8fe7c3197b5c4512589f0b4cb39daaefi0",
+      "meta": {
+        "name": "Merda d'Artista #24",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "34068db42327041caa7e2c2f687cf8b514eda5656c5e41952eab24adea142f88i0",
+      "meta": {
+        "name": "Merda d'Artista #25",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "234822589870bd30b1856a8a4b904ebf64feb3813799217b861673c5fe584207i0",
+      "meta": {
+        "name": "Merda d'Artista #26",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ee0e2ea2c2784eef4bd21f5b678118e60322cfce410c9c22f617f6b41fa884abi0",
+      "meta": {
+        "name": "Merda d'Artista #27",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa059e882150d1307b2edff52ff1512b69e308796579b5b0574feb55b4825f5ei0",
+      "meta": {
+        "name": "Merda d'Artista #28",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "75db651ef0ad6bc0c48f577c1eb9539397b2be3c3003f1d712d5e13de6b15e32i0",
+      "meta": {
+        "name": "Merda d'Artista #29",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd12443c4acf30e713c4a66956b5eaba929635ccc8307d4d6023514f4bd5e372i0",
+      "meta": {
+        "name": "Merda d'Artista #30",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1d6e59a6d90c7dde5ce1553b321440270d8bc244f13308164e79d5db666ca91i0",
+      "meta": {
+        "name": "Merda d'Artista #31",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "befacdcbce05738a59e7591eb4fcdf1a67d4c161e986449be97ee0d14c457351i0",
+      "meta": {
+        "name": "Merda d'Artista #32",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "54cd813c7ae75d89ffd459e5e16962cfed8d1914e738d7cb4e59d6f03559abe5i0",
+      "meta": {
+        "name": "Merda d'Artista #33",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb0151cf3baa01cbc732f6784c1cc4f3cd0d1e10f3fbf08f8e8a35e4ff31677bi0",
+      "meta": {
+        "name": "Merda d'Artista #34",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5d109050ebe9df76f10a3790e76194bb301cb366aa52c99b1e4249797f1f8135i0",
+      "meta": {
+        "name": "Merda d'Artista #35",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c81c645f369b0b37165a4ce44ca91779befdf4f67827efe259f30b07cd821cf4i0",
+      "meta": {
+        "name": "Merda d'Artista #36",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dcfa992a42f944608b5a0f783e360cf72cd889066607168c1533977347cb8779i0",
+      "meta": {
+        "name": "Merda d'Artista #37",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0d731e71cf66cd6345c360aae39cc419aa757d186243e5d2c497ad3ffdf29817i0",
+      "meta": {
+        "name": "Merda d'Artista #38",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4bdb8f24ee0b38b3ac196649e3ab2ba6a6ce35f69cddb87acb2bb2c06c3fd8f0i0",
+      "meta": {
+        "name": "Merda d'Artista #39",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ed4665105fd058778893370df4a1b15a0de9586c4acf70e0786b8e46293638abi0",
+      "meta": {
+        "name": "Merda d'Artista #40",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4a995f5096f3c759efe2db9ec26bc146c6c6c501869c4954c6785eac6a8db466i0",
+      "meta": {
+        "name": "Merda d'Artista #41",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "327aa458d759445e8bc52f3002eb47e1f6e80fa85f0702070c2fd8c08716cb98i0",
+      "meta": {
+        "name": "Merda d'Artista #42",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "68535b4b53c44fc24dc80e8d331f9082828510020883861bdca51a48ed637a23i0",
+      "meta": {
+        "name": "Merda d'Artista #43",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "91284ec8c23f95e9c38ac8afba7960d2b285e980167834c55fee05249f1c52ebi0",
+      "meta": {
+        "name": "Merda d'Artista #44",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4c05c9e3ebd793387d36d4d0614a998d8845421f49a736e92743b4b15dec87fdi0",
+      "meta": {
+        "name": "Merda d'Artista #45",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6eb634e8c6b16724c7c2579c7814b19a693aadce0b5971eb42a5f83948397358i0",
+      "meta": {
+        "name": "Merda d'Artista #46",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "91d6e542aedae3fc8e2152c11eee3eabf97736983e1629e9baab55ad99d465dci0",
+      "meta": {
+        "name": "Merda d'Artista #47",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9fb9f159059bac76eedf4fb005176fa4fd32abd057b7d79833b7a4e7525a40dci0",
+      "meta": {
+        "name": "Merda d'Artista #48",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0c0c2bfc972b753aaf32d3616b6eca9356ab6a6e9c14c981414edd2cbbc08b75i0",
+      "meta": {
+        "name": "Merda d'Artista #0",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "715b9ee64473453e7fc6a98654a3c9d81a90c29ef9b9803a39940491faefaea5i0",
+      "meta": {
+        "name": "Merda d'Artista #-1",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "648eabd82187c498baad8414961e9dc0fe594c1e190a0ca61c39868c0ffdab8di0",
+      "meta": {
+        "name": "Merda d'Artista #-2",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "02490ae9e3d304d4bb1cfd0d0227c8bd16b522fbc526caca3002b92d59f83446i0",
+      "meta": {
+        "name": "Merda d'Artista #-3",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "30d66bdae920f365323b389d761e6684ea796a5c50382cf42d21373d368fe89di0",
+      "meta": {
+        "name": "Merda d'Artista #-4",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "Merda d'Artista"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d5acfa41644e688eadf3166ada8f777044b6e17df0208688604c99fe403a62fbi0",
+      "meta": {
+        "name": "My Bathroom #1",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4da6a7034486138ab53793a2d87317c64a294ed286ffd6ac5473d919e25e9e34i0",
+      "meta": {
+        "name": "My Bathroom #2",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2044a4555d62cc9ce20aead8b6798c828a844abd4f825f7a1b6d29d9c13c6882i0",
+      "meta": {
+        "name": "My Bathroom #3",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "05b0419410aecb303be5359f253e8068bc2786d5ec526b5bf325bb90316d07fai0",
+      "meta": {
+        "name": "My Bathroom #4",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "095fd3cc3b5a1b783ca30441cc06f544b24ce5ae55a3b6690d8183c7348dc710i0",
+      "meta": {
+        "name": "My Bathroom #5",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d4471004157022cb3c45fa7cca6c0f898e8c240f34b867ff3e570e9e140732e2i0",
+      "meta": {
+        "name": "My Bathroom #6",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71f9778b3e54384a663780a9734fd8f339764d7538ad3dbf936b58bf1a197ac1i0",
+      "meta": {
+        "name": "My Bathroom #7",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9012e98f97e4d75c0adb9c72204080d17a030c6e959bf92f14974c158e9dded8i0",
+      "meta": {
+        "name": "My Bathroom #8",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "077a1d888465e5534b2c9bf0200d523445489e276b5fc2f08140b302726ad0b9i0",
+      "meta": {
+        "name": "My Bathroom #9",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "67ce45e0164475e546c9579b11dc2f045f39c6739f6d59c86c1969405463ef63i0",
+      "meta": {
+        "name": "My Bathroom #10",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ed71aa938e84a1c401575e8ff0b0f65af8e2dfbbcbbf20d97b19fd0236092d52i0",
+      "meta": {
+        "name": "My Bathroom #11",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5bd43ec4be5729a96c48c9fe9337e7f5bf1fabe47a241eee4535a9653e8b15b9i0",
+      "meta": {
+        "name": "My Bathroom #12",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a48a2c61d2acd61f833ad3aae91e4915a616d55ec463117581b7dd31a86b21cfi0",
+      "meta": {
+        "name": "My Bathroom #13",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a3baac29df73fd5f5644bf513b6edc1485c5f049e78c848774689e6159fab98bi0",
+      "meta": {
+        "name": "My Bathroom #14",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "91c5af1c3853603a97fc1d16b731eb199bf8fd8e4ad709084dd1779b16cf3752i0",
+      "meta": {
+        "name": "My Bathroom #15",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eddf474546d75af875ce596ff5eb98783c6af0765831daae6d2dba4268689bdai0",
+      "meta": {
+        "name": "My Bathroom #16",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a3c302ab4d1686280597dd7b23f284cbe3ce5fc52d386e18d0fdb87ae215ec8fi0",
+      "meta": {
+        "name": "My Bathroom #17",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0aaee43b5b6ce5223107669936cff9a158c3864e8c8d3c530dec9b210196ec38i0",
+      "meta": {
+        "name": "My Bathroom #18",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "73a1746b7b75337f562ce80d31354695f342042e01d6e97ccbf7fa50dd1db239i0",
+      "meta": {
+        "name": "My Bathroom #19",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8f8cd7749f984f109e87c47618e47a71b972e82647226cf91dd4bf07ecd427d7i0",
+      "meta": {
+        "name": "My Bathroom #20",
+        "attributes": [
+          {
+            "trait_type": "NO-ART",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1535c743bf5e0f02274585d6e2d26449a92220e0c7ab5d51fe1ad74c8ae96cd6i0",
+      "meta": {
+        "name": "My Bathroom @00",
+        "attributes": [
+          {
+            "trait_type": "ON-STIE",
+            "value": "My Bathroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "351460462f9a141a3d234d3e5aaeda9190c7c87e6813c05143a5940f39e1f834i0",
+      "meta": {
+        "name": "noisyflower.toilet",
+        "attributes": [
+          {
+            "trait_type": "ON-TOILET",
+            "value": "@noisyflowersx"
+          }
+        ]
+      }
+    }
+  ]

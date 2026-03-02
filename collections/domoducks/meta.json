@@ -1,0 +1,9 @@
+{
+  "description": "DomoDucks is a parent-child-provenance collection of 256 clickable/interactive domo-inspired ducks on Block 9 sats with a verifiably fixed supply that's descended from Inscription #256—the first duck inscribed on Bitcoin. We were also the first Ordinals community to implement on-chain breeding via multi-parent-child provenance, and the initial 42 offspring were appended to the collection to cap the total supply at 300 (i.e., Inscription #256 + Logo + 256 DomoDucks + 42 Offspring = 300).",
+  "discord_link": "https://discord.gg/H9nG9ybKUt",
+  "icon": "https://live.staticflickr.com/65535/55118022006_9c077457f9.jpg",
+  "name": "DomoDucks",
+  "slug": "domoducks", 
+  "twitter_link": "https://x.com/DomoDucks",
+  "website_link": "https://domoducks.gitbook.io/domoducks/"
+}
