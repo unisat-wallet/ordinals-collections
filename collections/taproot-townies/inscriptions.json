@@ -1,0 +1,842 @@
+[
+  {
+    "id": "a7757eb05782aa7784d6c25b4b4291da370af19de23d9175613d1efe988ed59ei0",
+    "meta": {
+      "name": "Taproot Townie #1",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue Jeans"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Scrub"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Thug Life Shades"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Flipped Brim Black"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigar"
+        }
+      ]
+    }
+  },
+  {
+    "id": "59f0e39d5f0e0c7328cc057d15d4e0b1ab12088127e06d156b98982898308ecci0",
+    "meta": {
+      "name": "Taproot Townie #2",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Camo Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Puffy Vest"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyborg"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Seaman"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Unimpressed"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2d5bcbf73cfc23ebcc2fba50ad512fa900dbaa1aef74f62c45894c2f891a7c7ai0",
+    "meta": {
+      "name": "Taproot Townie #3",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Cargo Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Flannel Pink"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Blonde"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange Lasers"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Mining Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Unimpressed"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e4b9f06037131a52f7a3d9bc15f16def2ce13bec37b59ef01a9b4152d5ae5083i0",
+    "meta": {
+      "name": "Taproot Townie #4",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "None"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Caveman Pelt"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Fairly Normal"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Achilles Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b80c65e511f3b699c218d87b2320024d0038956def0c504e7c0d510f8003e3f7i0",
+    "meta": {
+      "name": "Taproot Townie #5",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "None"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Caveman Pelt Pink"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Long Blonde"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Shades Pink"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Mouth Breather"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db6073666e0d9a486d6aa6ebb49d9fee3c4e0d09743d9023d4a864ef9e4ec573i0",
+    "meta": {
+      "name": "Taproot Townie #6",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Beach Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Hawaiian Blue"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Grey"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Fairly Normal"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Horns"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Ciggy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ace7f494a7448c56f25f9bdaf8f802e9dfab07d708b80846e712b769d48ef2bfi0",
+    "meta": {
+      "name": "Taproot Townie #7",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Brunch Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "T-Shirt Tie Dye"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Long Grey"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Skeptical"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Party On!"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8623b5aba577d2297cbd7313667f6a7aad4276a678a223f24da5c608084dad1i0",
+    "meta": {
+      "name": "Taproot Townie #8",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Fancy Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "T-Shirt Skull"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Pirate Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Legend Pipe"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5feffda7493fd9965b78b3351273fb9a7b2b3f6a42f474ace073239b79344204i0",
+    "meta": {
+      "name": "Taproot Townie #9",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Tactical Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "T-Shirt Tuxedo"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Scumbag"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "White Hat BTC"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Mouth Breather"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1826a73a4e6589b56f58215f5e91bc427973d8c565652339f048ab8f462fc66i0",
+    "meta": {
+      "name": "Taproot Townie #10",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Pajama Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Pimp Coat"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Long Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sad"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Beanie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Kazoo"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a8563c1ff626792a8bb80dc5f450dcc8786df923e35a88e64b1ceab9110261d4i0",
+    "meta": {
+      "name": "Taproot Townie #11",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Velvet Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Patriot"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Holographic"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Royal Crown"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Ciggy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4ddb719a6b401bce38640fb6063451c3a4e3d54a9206bf662d183e664e90757i0",
+    "meta": {
+      "name": "Taproot Townie #12",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Khaki Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Space Cadet"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Snorkle Mask"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Viking Helmet"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Snorkle"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5fb17ad3d1534e2545086eb353256a67592c3c34344d5bab353e7be567127ab2i0",
+    "meta": {
+      "name": "Taproot Townie #13",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "None"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Toga"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Skeptical"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Laurel Wreath"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gold Grill"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf29eef84ac1d99c4043149e8786b2d8d5730a46165455434d08f71a15f67913i0",
+    "meta": {
+      "name": "Taproot Townie #14",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Golf Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Hawaiian Pink"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Long Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Baby Yoda Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Unimpressed"
+        }
+      ]
+    }
+  },
+  {
+    "id": "55998933ca65a8556b9d4f7a4389041d50842a01c1ececb8fd19c9e432c27b1ci0",
+    "meta": {
+      "name": "Taproot Townie #16",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Khaki Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Lab Coat"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Blonde"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Crazy"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Bunny Ears"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Diamond Grill"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ae09d81339083ef2b0e0a3b3e98a6e6fe4ff11135ddaabfe8bedee96bcde0098i0",
+    "meta": {
+      "name": "Taproot Townie #15",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Khaki Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Hippy Vest"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Skeptical"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Sombrero"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Yikes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d88ca0879b3cde292b9c92a10c54c720fba0672da7fa3cfe277a36b763f08a09i0",
+    "meta": {
+      "name": "Taproot Townie #17",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Boat Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Ammo Bandolier"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Long Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Shades Black"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Army Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Ciggy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "173c145aafbedffb3a8818de51b8e4342371693f4460f98a2fb4c81f7f9706e8i0",
+    "meta": {
+      "name": "Taproot Townie #18",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Beach Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Valet"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Blonde"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Hypnotized"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Fisherman"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Big Grin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4935c231a83052759368729c82fddc76c2848f18f08a55c60f6514d6351e42fi0",
+    "meta": {
+      "name": "Taproot Townie #19",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Cargo Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Salsa"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Long Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Love You Long Time"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Bowler"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "O Face"
+        }
+      ]
+    }
+  },
+  {
+    "id": "60c0934a1b2ee756a2f86942c917e7e0ee7b753c05cf7892680f5e00d5d19a2di0",
+    "meta": {
+      "name": "Taproot Townie #20",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Khaki Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Server"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Dry Eyes"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Egg"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Half Smile"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bbc6b4c18ad842e613fe8d527e96655b7eeda441c837c279821824603acbedb8i0",
+    "meta": {
+      "name": "Taproot Townie #21",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Matrix"
+        },
+        {
+          "trait_type": "Townie",
+          "value": "Orange Pilled"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Pajama Pants"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Fancy Jacket"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Shades Black"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "White Hat GME"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pizza Dude"
+        }
+      ]
+    }
+  }
+]
