@@ -1,0 +1,993 @@
+[
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i0",
+    "inscriptionNumber": 81886355,
+    "meta": {
+      "name": "SUPERCYCLE #1",
+      "attributes": [
+        {
+          "value": "1/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #1"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i1",
+    "inscriptionNumber": 81886356,
+    "meta": {
+      "name": "SUPERCYCLE #2",
+      "attributes": [
+        {
+          "value": "2/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #2"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i10",
+    "inscriptionNumber": 81886365,
+    "meta": {
+      "name": "SUPERCYCLE #11",
+      "attributes": [
+        {
+          "value": "11/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #11"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i11",
+    "inscriptionNumber": 81886366,
+    "meta": {
+      "name": "SUPERCYCLE #12",
+      "attributes": [
+        {
+          "value": "12/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "creatorTips": 173550,
+    "displayName": "SUPERCYCLE #12",
+    "sacAddress": "bc1p933k002hse5x4r2cznx6f3y2e9y9lngdx4ejr0ha4fgyp5f50jnqdtczd7",
+    "sacMerkleTreeSize": 3466532
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i12",
+    "inscriptionNumber": 81886367,
+    "meta": {
+      "name": "SUPERCYCLE #13",
+      "attributes": [
+        {
+          "value": "13/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #13"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i13",
+    "inscriptionNumber": 81886368,
+    "meta": {
+      "name": "SUPERCYCLE #14",
+      "attributes": [
+        {
+          "value": "14/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #14"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i14",
+    "inscriptionNumber": 81886369,
+    "meta": {
+      "name": "SUPERCYCLE #15",
+      "attributes": [
+        {
+          "value": "15/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #15"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i15",
+    "inscriptionNumber": 81886370,
+    "meta": {
+      "name": "SUPERCYCLE #16",
+      "attributes": [
+        {
+          "value": "16/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #16"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i16",
+    "inscriptionNumber": 81886371,
+    "meta": {
+      "name": "SUPERCYCLE #17",
+      "attributes": [
+        {
+          "value": "17/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #17"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i17",
+    "inscriptionNumber": 81886372,
+    "meta": {
+      "name": "SUPERCYCLE #18",
+      "attributes": [
+        {
+          "value": "18/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #18"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i18",
+    "inscriptionNumber": 81886373,
+    "meta": {
+      "name": "SUPERCYCLE #19",
+      "attributes": [
+        {
+          "value": "19/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #19"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i19",
+    "inscriptionNumber": 81886374,
+    "meta": {
+      "name": "SUPERCYCLE #20",
+      "attributes": [
+        {
+          "value": "20/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #20"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i2",
+    "inscriptionNumber": 81886357,
+    "meta": {
+      "name": "SUPERCYCLE #3",
+      "attributes": [
+        {
+          "value": "3/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #3"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i20",
+    "inscriptionNumber": 81886375,
+    "meta": {
+      "name": "SUPERCYCLE #21",
+      "attributes": [
+        {
+          "value": "21/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #21",
+    "sacAddress": "bc1pawphwdxxp6g7ua46muqzdjfuayk0agxh8rsxmeu2qq08gkq2he9sw8k28a",
+    "sacMerkleTreeSize": 3966377
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i21",
+    "inscriptionNumber": 81886376,
+    "meta": {
+      "name": "SUPERCYCLE #22",
+      "attributes": [
+        {
+          "value": "22/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #22"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i22",
+    "inscriptionNumber": 81886377,
+    "meta": {
+      "name": "SUPERCYCLE #23",
+      "attributes": [
+        {
+          "value": "23/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #23",
+    "sacAddress": "bc1puls6chdkqhzmv8g4jgats36lhz50t3r0gj67kr7tpxuet40dnxls7l50n5",
+    "sacMerkleTreeSize": 3534308
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i23",
+    "inscriptionNumber": 81886378,
+    "meta": {
+      "name": "SUPERCYCLE #24",
+      "attributes": [
+        {
+          "value": "24/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #24"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i24",
+    "inscriptionNumber": 81886379,
+    "meta": {
+      "name": "SUPERCYCLE #25",
+      "attributes": [
+        {
+          "value": "25/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #25"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i25",
+    "inscriptionNumber": 81886380,
+    "meta": {
+      "name": "SUPERCYCLE #26",
+      "attributes": [
+        {
+          "value": "26/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #26"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i26",
+    "inscriptionNumber": 81886381,
+    "meta": {
+      "name": "SUPERCYCLE #27",
+      "attributes": [
+        {
+          "value": "27/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #27"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i27",
+    "inscriptionNumber": 81886382,
+    "meta": {
+      "name": "SUPERCYCLE #28",
+      "attributes": [
+        {
+          "value": "28/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #28"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i28",
+    "inscriptionNumber": 81886383,
+    "meta": {
+      "name": "SUPERCYCLE #29",
+      "attributes": [
+        {
+          "value": "29/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #29"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i29",
+    "inscriptionNumber": 81886384,
+    "meta": {
+      "name": "SUPERCYCLE #30",
+      "attributes": [
+        {
+          "value": "30/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #30",
+    "sacAddress": "bc1pwrw23f4k3stxtkcplnleevl9sddl6654k89pgqhq4clm0ch77h0qvx9755",
+    "sacMerkleTreeSize": 3698474
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i3",
+    "inscriptionNumber": 81886358,
+    "meta": {
+      "name": "SUPERCYCLE #4",
+      "attributes": [
+        {
+          "value": "4/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #4",
+    "sacAddress": "bc1pus3r2hdvpkt5h4w5mvcwvkas9ftswmaty73dwd5t5g2zkm5usa7sqfuauy",
+    "sacMerkleTreeSize": 3452236
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i30",
+    "inscriptionNumber": 81886385,
+    "meta": {
+      "name": "SUPERCYCLE #31",
+      "attributes": [
+        {
+          "value": "31/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #31"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i31",
+    "inscriptionNumber": 81886386,
+    "meta": {
+      "name": "SUPERCYCLE #32",
+      "attributes": [
+        {
+          "value": "32/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #32",
+    "sacAddress": "bc1pu3armrpn2030ahsm6szat55q7e3zldkslnjacx02txk7nx6qyzzqvxddxl",
+    "sacMerkleTreeSize": 3410094
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i32",
+    "inscriptionNumber": 81886387,
+    "meta": {
+      "name": "SUPERCYCLE #33",
+      "attributes": [
+        {
+          "value": "33/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #33"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i33",
+    "inscriptionNumber": 81886388,
+    "meta": {
+      "name": "SUPERCYCLE #34",
+      "attributes": [
+        {
+          "value": "34/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #34"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i34",
+    "inscriptionNumber": 81886389,
+    "meta": {
+      "name": "SUPERCYCLE #35",
+      "attributes": [
+        {
+          "value": "35/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #35"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i35",
+    "inscriptionNumber": 81886390,
+    "meta": {
+      "name": "SUPERCYCLE #36",
+      "attributes": [
+        {
+          "value": "36/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #36"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i36",
+    "inscriptionNumber": 81886391,
+    "meta": {
+      "name": "SUPERCYCLE #37",
+      "attributes": [
+        {
+          "value": "37/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #37"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i37",
+    "inscriptionNumber": 81886392,
+    "meta": {
+      "name": "SUPERCYCLE #38",
+      "attributes": [
+        {
+          "value": "38/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #38",
+    "sacAddress": "bc1pg05xq4awxyesfg8nutunhqadpjqqllc53vc5k3vltwsnq5q22azq4hdckx",
+    "sacMerkleTreeSize": 3833172
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i38",
+    "inscriptionNumber": 81886393,
+    "meta": {
+      "name": "SUPERCYCLE #39",
+      "attributes": [
+        {
+          "value": "39/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #39"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i39",
+    "inscriptionNumber": 81886394,
+    "meta": {
+      "name": "SUPERCYCLE #40",
+      "attributes": [
+        {
+          "value": "40/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #40"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i4",
+    "inscriptionNumber": 81886359,
+    "meta": {
+      "name": "SUPERCYCLE #5",
+      "attributes": [
+        {
+          "value": "5/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #5"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i40",
+    "inscriptionNumber": 81886395,
+    "meta": {
+      "name": "SUPERCYCLE #41",
+      "attributes": [
+        {
+          "value": "41/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #41"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i41",
+    "inscriptionNumber": 81886396,
+    "meta": {
+      "name": "SUPERCYCLE #42",
+      "attributes": [
+        {
+          "value": "42/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #42"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i42",
+    "inscriptionNumber": 81886397,
+    "meta": {
+      "name": "SUPERCYCLE #43",
+      "attributes": [
+        {
+          "value": "43/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #43",
+    "sacAddress": "bc1p74vvdxhfpfpn2fzp6tj2l99v5lx3x0qf3spe5323f75uwyljxupqzfgn36",
+    "sacMerkleTreeSize": 3628859
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i43",
+    "inscriptionNumber": 81886398,
+    "meta": {
+      "name": "SUPERCYCLE #44",
+      "attributes": [
+        {
+          "value": "44/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #44",
+    "sacAddress": "bc1p4r3jddwmyzngr6dvh453ypvtwvt9sfz98qsp635an4ar8xcmtrjsfuu5ua",
+    "sacMerkleTreeSize": 3870499
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i44",
+    "inscriptionNumber": 81886399,
+    "meta": {
+      "name": "SUPERCYCLE #45",
+      "attributes": [
+        {
+          "value": "45/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #45"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i45",
+    "inscriptionNumber": 81886400,
+    "meta": {
+      "name": "SUPERCYCLE #46",
+      "attributes": [
+        {
+          "value": "46/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #46"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i46",
+    "inscriptionNumber": 81886401,
+    "meta": {
+      "name": "SUPERCYCLE #47",
+      "attributes": [
+        {
+          "value": "47/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #47"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i47",
+    "inscriptionNumber": 81886402,
+    "meta": {
+      "name": "SUPERCYCLE #48",
+      "attributes": [
+        {
+          "value": "48/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #48"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i48",
+    "inscriptionNumber": 81886403,
+    "meta": {
+      "name": "SUPERCYCLE #49",
+      "attributes": [
+        {
+          "value": "49/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #49"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i49",
+    "inscriptionNumber": 81886404,
+    "meta": {
+      "name": "SUPERCYCLE #50",
+      "attributes": [
+        {
+          "value": "50/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #50"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i5",
+    "inscriptionNumber": 81886360,
+    "meta": {
+      "name": "SUPERCYCLE #6",
+      "attributes": [
+        {
+          "value": "6/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #6"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i50",
+    "inscriptionNumber": 81886405,
+    "meta": {
+      "name": "SUPERCYCLE #51",
+      "attributes": [
+        {
+          "value": "51/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #51"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i51",
+    "inscriptionNumber": 81886406,
+    "meta": {
+      "name": "SUPERCYCLE #52",
+      "attributes": [
+        {
+          "value": "52/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #52",
+    "sacAddress": "bc1pxgzz9zvkd9f7te8c4h0wx48w3k6chrvnpfjat6mqhjezfqdjul3s85dmaw",
+    "sacMerkleTreeSize": 3613709
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i52",
+    "inscriptionNumber": 81886407,
+    "meta": {
+      "name": "SUPERCYCLE #53",
+      "attributes": [
+        {
+          "value": "53/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #53"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i53",
+    "inscriptionNumber": 81886408,
+    "meta": {
+      "name": "SUPERCYCLE #54",
+      "attributes": [
+        {
+          "value": "54/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #54"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i54",
+    "inscriptionNumber": 81886409,
+    "meta": {
+      "name": "SUPERCYCLE #55",
+      "attributes": [
+        {
+          "value": "55/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #55"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i55",
+    "inscriptionNumber": 81886410,
+    "meta": {
+      "name": "SUPERCYCLE #56",
+      "attributes": [
+        {
+          "value": "56/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #56"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i56",
+    "inscriptionNumber": 81886411,
+    "meta": {
+      "name": "SUPERCYCLE #57",
+      "attributes": [
+        {
+          "value": "57/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #57"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i57",
+    "inscriptionNumber": 81886412,
+    "meta": {
+      "name": "SUPERCYCLE #58",
+      "attributes": [
+        {
+          "value": "58/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #58"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i58",
+    "inscriptionNumber": 81886413,
+    "meta": {
+      "name": "SUPERCYCLE #59",
+      "attributes": [
+        {
+          "value": "59/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #59"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i59",
+    "inscriptionNumber": 81886414,
+    "meta": {
+      "name": "SUPERCYCLE #60",
+      "attributes": [
+        {
+          "value": "60/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #60"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i6",
+    "inscriptionNumber": 81886361,
+    "meta": {
+      "name": "SUPERCYCLE #7",
+      "attributes": [
+        {
+          "value": "7/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #7"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i60",
+    "inscriptionNumber": 81886415,
+    "meta": {
+      "name": "SUPERCYCLE #61",
+      "attributes": [
+        {
+          "value": "61/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #61"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i61",
+    "inscriptionNumber": 81886416,
+    "meta": {
+      "name": "SUPERCYCLE #62",
+      "attributes": [
+        {
+          "value": "62/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #62"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i62",
+    "inscriptionNumber": 81886417,
+    "meta": {
+      "name": "SUPERCYCLE #63",
+      "attributes": [
+        {
+          "value": "63/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #63"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i63",
+    "inscriptionNumber": 81886418,
+    "meta": {
+      "name": "SUPERCYCLE #64",
+      "attributes": [
+        {
+          "value": "64/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #64"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i64",
+    "inscriptionNumber": 81886419,
+    "meta": {
+      "name": "SUPERCYCLE #65",
+      "attributes": [
+        {
+          "value": "65/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #65"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i65",
+    "inscriptionNumber": 81886420,
+    "meta": {
+      "name": "SUPERCYCLE #66",
+      "attributes": [
+        {
+          "value": "66/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #66"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i66",
+    "inscriptionNumber": 81886421,
+    "meta": {
+      "name": "SUPERCYCLE #67",
+      "attributes": [
+        {
+          "value": "67/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #67"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i67",
+    "inscriptionNumber": 81886422,
+    "meta": {
+      "name": "SUPERCYCLE #68",
+      "attributes": [
+        {
+          "value": "68/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #68",
+    "sacAddress": "bc1pmvfdwzvlarsyvfdxykdkxtqju0mz9awwnjyhxlerz59a4nl6dmhsgjftxt",
+    "sacMerkleTreeSize": 3953372
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i68",
+    "inscriptionNumber": 81886423,
+    "meta": {
+      "name": "SUPERCYCLE #69",
+      "attributes": [
+        {
+          "value": "69/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #69"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i7",
+    "inscriptionNumber": 81886362,
+    "meta": {
+      "name": "SUPERCYCLE #8",
+      "attributes": [
+        {
+          "value": "8/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #8",
+    "sacAddress": "bc1pmyhhsyyf9c7hch6468qknnvzfhvw39x0xwx5cnyj7w0379q5s3rs5ls8sv",
+    "sacMerkleTreeSize": 3850429
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i8",
+    "inscriptionNumber": 81886363,
+    "meta": {
+      "name": "SUPERCYCLE #9",
+      "attributes": [
+        {
+          "value": "9/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #9"
+  },
+  {
+    "id": "3d6f106400724a503feb76cc1e05af398c4e48e4ead8b2fff13c2763b7407c59i9",
+    "inscriptionNumber": 81886364,
+    "meta": {
+      "name": "SUPERCYCLE #10",
+      "attributes": [
+        {
+          "value": "10/69",
+          "trait_type": "Edition"
+        }
+      ]
+    },
+    "displayName": "SUPERCYCLE #10"
+  }
+]
