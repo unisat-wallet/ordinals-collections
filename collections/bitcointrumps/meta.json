@@ -4,7 +4,7 @@
   "icon": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bitcointrumps_pfp_1705956348696.png",
   "inscription_icon": "2a125c6b0b2ba6a8f72898d707c77c5d269ba485350bfc1bfc861add8347fc86i0",
   "description": "First 10K Trump collection on #Bitcoin made with Ordinals 🇺🇸 🦅 No utility. No roadmap. Just Trumps. Make Bitcoin Great Again.",
-  "twitterLink": "https://twitter.com/BTCTrumps",
-  "discordLink": "https://discord.gg/8V4SA7ubUY",
-  "websiteLink": "https://bitcointrumps.com/"
+  "twitter_link": "https://twitter.com/BTCTrumps",
+  "discord_link": "https://discord.gg/8V4SA7ubUY",
+  "website_link": "https://bitcointrumps.com/"
 }

@@ -3,7 +3,7 @@
   "name": "Commoners",
   "icon": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-commoners_pfp_1709481886866.png",
   "description": "The first 10k Ordinals collection inscribed on Uncommon Sats.",
-  "twitterLink": "https://twitter.com/Commoners_",
-  "discordLink": "https://discord.gg/commoners",
-  "websiteLink": "https://commoners.com"
+  "twitter_link": "https://twitter.com/Commoners_",
+  "discord_link": "https://discord.gg/commoners",
+  "website_link": "https://commoners.com"
 }

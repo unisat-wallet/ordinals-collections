@@ -3,7 +3,7 @@
   "name": "Fomojis",
   "icon": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-fomojis_2_pfp_1701331213308.png",
   "description": "Fomojis 2.0 and Cursed Fomojis",
-  "twitterLink": "https://twitter.com/fomojis",
-  "discordLink": "https://discord.gg/FBZtZvt4rm",
-  "websiteLink": "https://www.fomojis.io/"
+  "twitter_link": "https://twitter.com/fomojis",
+  "discord_link": "https://discord.gg/FBZtZvt4rm",
+  "website_link": "https://www.fomojis.io/"
 }

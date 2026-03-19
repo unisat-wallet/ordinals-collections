@@ -1,9 +1,9 @@
 {
-   "slug": "ocm-genesis",
-   "name": "OCM Genesis by OnChainMonkey®",
-   "icon": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ocm-genesis_pfp_1744084567528.gif",
-   "description": "OCM Genesis is the first 10K Ordinals Collection inscribed on Bitcoin, with the groundbreaking use of Parent-Child Provenance, Recursion, and Reinscription, setting the standard for on-chain digital assets on the highest-value blockchain. Inscribed on rare Block 9, 450x sats, the first Bitcoin mined by Satoshi and sent to Hal Finney.",
-   "twitterLink": "https://twitter.com/OnChainMonkey",
-   "discordLink": "https://discord.gg/hrVgBxva8w",
-   "websiteLink": "https://onchainmonkey.com/"
+  "slug": "ocm-genesis",
+  "name": "OCM Genesis by OnChainMonkey®",
+  "icon": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ocm-genesis_pfp_1744084567528.gif",
+  "description": "OCM Genesis is the first 10K Ordinals Collection inscribed on Bitcoin, with the groundbreaking use of Parent-Child Provenance, Recursion, and Reinscription, setting the standard for on-chain digital assets on the highest-value blockchain. Inscribed on rare Block 9, 450x sats, the first Bitcoin mined by Satoshi and sent to Hal Finney.",
+  "twitter_link": "https://twitter.com/OnChainMonkey",
+  "discord_link": "https://discord.gg/hrVgBxva8w",
+  "website_link": "https://onchainmonkey.com/"
 }

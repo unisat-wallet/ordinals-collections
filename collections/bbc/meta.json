@@ -3,7 +3,7 @@
   "name": "Bitcoin Bear Cubs",
   "icon": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-bbc_pfp_1703748338091.png",
   "description": "Meet the 'Bitcoin Bear Cubs' - 10,000 pixelated pals lighting up the blockchain. Low inscriptions Sub1m. Come for the art, Stay for the vibes.",
-  "twitterLink": "https://twitter.com/BitcoinBearsOrd",
-  "discordLink": "https://discord.gg/bitcoinbears",
-  "websiteLink": "https://bitcoinbear.xyz/"
+  "twitter_link": "https://twitter.com/BitcoinBearsOrd",
+  "discord_link": "https://discord.gg/bitcoinbears",
+  "website_link": "https://bitcoinbear.xyz/"
 }
