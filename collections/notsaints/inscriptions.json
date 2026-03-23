@@ -1,0 +1,3490 @@
+[
+  {
+    "id": "00dcb6b87962b00b87e78cb73c784b679a0bd0628c854fc7221a6cf9b42a788ai0",
+    "inscriptionNumber": 111632587,
+    "meta": {
+      "name": "Those Who Ascend (Before the Light at the End of the Road)",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Those Who Ascend (Before the Light at the End of the Road)"
+  },
+  {
+    "id": "05815b72cf797c72089b67473bc29796c13ff75d2bad2201894bb3aa2e235ff8i0",
+    "inscriptionNumber": 111644514,
+    "meta": {
+      "name": "Observation of the Divisible",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Observation of the Divisible"
+  },
+  {
+    "id": "07f8236af54aa5c71a94de36b987f4d327565c9dcd552c7e24e5b3e8edf68b18i0",
+    "inscriptionNumber": 111633339,
+    "meta": {
+      "name": "The Feast of Stars",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Feast of Stars"
+  },
+  {
+    "id": "09eed6df3b8b5732d3762d956f203417d3b92deab1bc5ed96baf788914226ab6i0",
+    "inscriptionNumber": 111560369,
+    "meta": {
+      "name": "Where Matter Begins",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Where Matter Begins",
+    "sacAddress": "bc1p0hgcnjrcaeq96pz7vh9gwktrwkgw9cydtuf49frl7n2cn87qxz5su76mc2",
+    "sacMerkleTreeSize": 3972585
+  },
+  {
+    "id": "0f2d45b5082468a7addb27ebf2c13cd0e78719680e7f5cd8fbbbc5cbf6d52cdbi0",
+    "inscriptionNumber": 111563857,
+    "meta": {
+      "name": "Runway",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "The Herald",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Runway"
+  },
+  {
+    "id": "100071ee60620ffdd72f65f0e32be94c8c983297a223c6f559b43d1121e3773fi0",
+    "inscriptionNumber": 111965980,
+    "meta": {
+      "name": "Fall of the Paper Kingdom",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Fall of the Paper Kingdom"
+  },
+  {
+    "id": "10170694cd1296a4199a03fad989d1391cc81767a11f0e7ced376b8ade251fb6i0",
+    "inscriptionNumber": 111966435,
+    "meta": {
+      "name": "Dinner at the End of Sense",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Dinner at the End of Sense"
+  },
+  {
+    "id": "101c851fae17541f316b31e5f7db09fb0c012c0b8fa7f698f06eb61063588f43i0",
+    "inscriptionNumber": 111562856,
+    "meta": {
+      "name": "Confetti",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Confetti"
+  },
+  {
+    "id": "10278b281025cc7badb38142cfc4ea7bca7a819c946fb405c6d78b23c19339d3i0",
+    "inscriptionNumber": 111966524,
+    "meta": {
+      "name": "The Wolf",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Wolf"
+  },
+  {
+    "id": "103226dffebc2c18afefcd65ee0fd88223e049fb95de250288ef28b855bdaf14i0",
+    "inscriptionNumber": 111966616,
+    "meta": {
+      "name": "The Day the Sky Became a Palette",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Day the Sky Became a Palette"
+  },
+  {
+    "id": "10452112ff2f0644891208c8f8e824df4a87eab47f5a5ad966e6ac2d2dbc6111i0",
+    "inscriptionNumber": 111966623,
+    "meta": {
+      "name": "The Night the Rainbow Looked Away",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Night the Rainbow Looked Away"
+  },
+  {
+    "id": "10534ef483f247cf60956527254fe8e2663b9a31d400f7d187a0a047df649cf2i0",
+    "inscriptionNumber": 111966632,
+    "meta": {
+      "name": "The Work of Returning Color",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Work of Returning Color",
+    "sacAddress": "bc1p7jenwqv3k3rmm5j7jj4r9kha4ncplml8jknqg0thvqtc36u2j7msl4mtun",
+    "sacMerkleTreeSize": 3980676
+  },
+  {
+    "id": "106c8fd2a1137a0cd7f54d907696a0e946ed10228ed14d6b565925a260c85616i0",
+    "inscriptionNumber": 111966787,
+    "meta": {
+      "name": "How We Tried to Reignite the Miracle Maker (Misprint Study)",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "How We Tried to Reignite the Miracle Maker (Misprint Study)",
+    "sacAddress": "bc1p347ef0flu5l8ccfzsn9udxpzqflwyrjx34dcngj7qfam9ulee93s2h77w3",
+    "sacMerkleTreeSize": 3966202
+  },
+  {
+    "id": "1074d29bfe3762f0b9840eaaa607cf81b8779f7bf324a883a1e88c5f935bf256i0",
+    "inscriptionNumber": 111967735,
+    "meta": {
+      "name": "The Man Who Left His Jeans Behind",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Man Who Left His Jeans Behind"
+  },
+  {
+    "id": "1085ca5770126b775183ca920e2a13f9aea628ee20206765c95a7c3bdf530454i0",
+    "inscriptionNumber": 111972757,
+    "meta": {
+      "name": "The Woman Who Outlived the Models",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Woman Who Outlived the Models"
+  },
+  {
+    "id": "1093a9e48c883a1050bef189aee453fa985591abdb443dc590bb69e5d3f1e7cdi0",
+    "inscriptionNumber": 111977183,
+    "meta": {
+      "name": "The Ferry",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Ferry"
+  },
+  {
+    "id": "110012bce15f52aab20cd5138ca9f868399dc083480742587c7375406265bb58i0",
+    "inscriptionNumber": 111978886,
+    "meta": {
+      "name": "Before the Spill",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Before the Spill"
+  },
+  {
+    "id": "1110f297512cb7cef4c177383046265cce9d08a9be02edf650adf1315bd631bfi0",
+    "inscriptionNumber": 111981189,
+    "meta": {
+      "name": "Outside the Frame",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Outside the Frame",
+    "sacAddress": "bc1p9l7nzj7wg8mrsvj8qpczelvufemam2km7d3h5jvqfks0rk2e7g4qmxchu7",
+    "sacMerkleTreeSize": 3992563
+  },
+  {
+    "id": "112c1363984fa419091cfa76a8039d55995667a10e49e87f951a38f78ebc3d45i0",
+    "inscriptionNumber": 111981794,
+    "meta": {
+      "name": "We Returned as Reflections in the Windows",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red and Green",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "We Returned as Reflections in the Windows",
+    "sacAddress": "bc1ptt796era7tythnslvcku8rmq3axjetxw3k8ugmzzdu7pzn47xv0sglyq6u",
+    "sacMerkleTreeSize": 3990238
+  },
+  {
+    "id": "113268ca763745f8a15810f85082fd5e49f06617541fff1ffb26f6d10031aa01i0",
+    "inscriptionNumber": 111982291,
+    "meta": {
+      "name": "A Note Folded Into a Yearbook No One Opened",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Note Folded Into a Yearbook No One Opened"
+  },
+  {
+    "id": "114fbe867661d6f56d6f84250cc5a302adbed798b57e7a9adc8805384b36bdcai0",
+    "inscriptionNumber": 111984472,
+    "meta": {
+      "name": "A Key Left Under the Mat After the House Was Sold",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Key Left Under the Mat After the House Was Sold"
+  },
+  {
+    "id": "115561890ec5bea564654ccadcd74dd3df61aea5e1e3cb6ed6db900fb9f52f6ai0",
+    "inscriptionNumber": 111985307,
+    "meta": {
+      "name": "A Story Told Only to a Person Who Forgot It",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Story Told Only to a Person Who Forgot It"
+  },
+  {
+    "id": "1166d07e73d10574945f3a9b46d1fa5629bee97982ecf963862590f07ec75efdi0",
+    "inscriptionNumber": 112014530,
+    "meta": {
+      "name": "A Birthday Candle Saved Long After the Wish",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Birthday Candle Saved Long After the Wish"
+  },
+  {
+    "id": "117cf6b7eca17f751aea24052e992d5b10616ff0ab941e5fb5a1d5fce577a8b3i0",
+    "inscriptionNumber": 112017948,
+    "meta": {
+      "name": "I Never Lost the Souvenir Shell from the Beach Without a Name",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "I Never Lost the Souvenir Shell from the Beach Without a Name"
+  },
+  {
+    "id": "118220d0ce51decec3a5da0abb1b2bcdba6b673c647e6824d2f5bf231210a3c2i0",
+    "inscriptionNumber": 112019673,
+    "meta": {
+      "name": "Proof That Even Angels Fossilize",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Proof That Even Angels Fossilize",
+    "sacAddress": "bc1psc009mkwdynldch9wz4k22vvsvs2cn69l2jlkqsauw8ez9pxdrrsh9y3zy",
+    "sacMerkleTreeSize": 3993783
+  },
+  {
+    "id": "1197f37c14fcf46c5bfd25fae532883e3f70ec1e78d53d9ba5511da9f7ac181di0",
+    "inscriptionNumber": 112021912,
+    "meta": {
+      "name": "The Outline of Everyone You Didn't Become",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Outline of Everyone You Didn't Become"
+  },
+  {
+    "id": "12069da21c12b85b2121801bfdbb8b8a2e976cdadcf52615ce756fa17eeed78di0",
+    "inscriptionNumber": 112024059,
+    "meta": {
+      "name": "Your Laughter",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Your Laughter"
+  },
+  {
+    "id": "121ecd259a4b23894c055c0a2f14dc0c85e7e9e7630f4f02728e6fae0038cb96i0",
+    "inscriptionNumber": 112025995,
+    "meta": {
+      "name": "The Last Year It Snowed During the Holidays",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Last Year It Snowed During the Holidays"
+  },
+  {
+    "id": "122a9ea1dbeefe5a1888cf896e4a3d9c0f406e410ca3a8730e2a0fb8ce3ec826i0",
+    "inscriptionNumber": 112028334,
+    "meta": {
+      "name": "Autofilled Wrong by Some Invisible Hand",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Autofilled Wrong by Some Invisible Hand"
+  },
+  {
+    "id": "123fd56f4fd11ee229c71a82484f3a612b780f516ee11992485155eeceeb13e7i0",
+    "inscriptionNumber": 112028456,
+    "meta": {
+      "name": "A Door Left Open for No One in Particular",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Split",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Door Left Open for No One in Particular"
+  },
+  {
+    "id": "124f71ebf5f8d65381eb634fd3e9a3955c8a177f41f08935d37a65d3cff7531ai0",
+    "inscriptionNumber": 112028642,
+    "meta": {
+      "name": "The Amphibian's Echo",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Amphibian's Echo"
+  },
+  {
+    "id": "1259784b8f75874274d62cbaad075b08850de773242e87d5b1d2502adb0dc1bbi0",
+    "inscriptionNumber": 112030022,
+    "meta": {
+      "name": "The Three Who Mistook Themselves for Gold",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Three Who Mistook Themselves for Gold"
+  },
+  {
+    "id": "1269babf9e88a230b89f2a3823f859f4bbf1c25361f267e764eec2c02cd63233i0",
+    "inscriptionNumber": 112030473,
+    "meta": {
+      "name": "A Brief History of What Refused to Separate",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Brief History of What Refused to Separate"
+  },
+  {
+    "id": "1279c4c69bb75f3ec2fd16fceb639647d53c51acf492c5236a7ff9ba164978e5i0",
+    "inscriptionNumber": 112031407,
+    "meta": {
+      "name": "The Detail Everyone Stepped Around",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Detail Everyone Stepped Around"
+  },
+  {
+    "id": "1281a2b57db8f67bb8284a133a2050f8fe0cea24c2a2dfc86cbfd4eb63831d1fi0",
+    "inscriptionNumber": 112033396,
+    "meta": {
+      "name": "Everyone Pretends They're Relaxed Here",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Orange",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Everyone Pretends They're Relaxed Here",
+    "sacAddress": "bc1p2lessrda47rryhaxpgl73m2hfvx7t0dmk9ncjel0ecsxhtqrh86qpyes7e",
+    "sacMerkleTreeSize": 4000611
+  },
+  {
+    "id": "129e8c37c6de29e3298f822520a021577405ffda5843e978c02ebbafbf51064ei0",
+    "inscriptionNumber": 112035483,
+    "meta": {
+      "name": "The Vacation You Needed a Vacation From",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Pink",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Vacation You Needed a Vacation From"
+  },
+  {
+    "id": "130cd2f0769208fb66850ad54474d87b5e8b1cfdd665d947eaacfe2a41095f9ai0",
+    "inscriptionNumber": 112038022,
+    "meta": {
+      "name": "Your Shoes Still Have Sand from That Place",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Your Shoes Still Have Sand from That Place"
+  },
+  {
+    "id": "1319f815531c00a15565acfa895d0e1c08ab8e2e3fed0f04096ad504c68f2649i0",
+    "inscriptionNumber": 112039329,
+    "meta": {
+      "name": "A Photograph You Pretended to Delete",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Photograph You Pretended to Delete",
+    "sacAddress": "bc1p5390tqh7sa0sagkstz6gvxzm2394hkfuc36kth6syjppzagg3cnqwcytwq",
+    "sacMerkleTreeSize": 3967800
+  },
+  {
+    "id": "132196f9e464aa9c8e16d88af922862eb2c99b6a75ba12db5c50cd205e6968b9i0",
+    "inscriptionNumber": 112040173,
+    "meta": {
+      "name": "Love Happens in the Negative Space",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Green",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Love Happens in the Negative Space"
+  },
+  {
+    "id": "1335dd28b0b3e923ed9ed6e4d1d9c029dca512cfb9ff233f36cd8c72d38f7854i0",
+    "inscriptionNumber": 111670386,
+    "meta": {
+      "name": "Abel",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Abel"
+  },
+  {
+    "id": "133fe87d2f59478baf8e8d84d529795d7469826b61a70d74300fac9965b19034i0",
+    "inscriptionNumber": 112045181,
+    "meta": {
+      "name": "Artifacts of Ourselves",
+      "attributes": [
+        {
+          "value": "Book VII: Artifacts of Ourselves",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Green",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Artifacts of Ourselves"
+  },
+  {
+    "id": "16de83eb27f35626c2c043977b98f01bc5f146c0763ca1f9184ca0df8d16371di0",
+    "inscriptionNumber": 111618185,
+    "meta": {
+      "name": "The Procession of the Green",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red and Green",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Procession of the Green"
+  },
+  {
+    "id": "1863084dde45901caa8e5d9ef0bda19311161a97ce6b06e2986f7eff5166bd5ci0",
+    "inscriptionNumber": 111647490,
+    "meta": {
+      "name": "An Experiment in Temperature",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "An Experiment in Temperature"
+  },
+  {
+    "id": "1b2eb01be1b7f52f4ec728a0ea28b1e61ffc18da200414cac4a7cb496f5b2d20i0",
+    "inscriptionNumber": 111608650,
+    "meta": {
+      "name": "Tangled Moon (Misprint Study)",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Tangled Moon (Misprint Study)"
+  },
+  {
+    "id": "1f7bef8ad68b34b83d3464fc375ab160f23abc2378d6c31f0340b7d5b86ba2bei0",
+    "inscriptionNumber": 111639741,
+    "meta": {
+      "name": "Three Candles for the New World",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Three Candles for the New World"
+  },
+  {
+    "id": "243d3418577613236bc333cea5d28483f43c6a7286dec6ca0a65c8febe16a310i0",
+    "inscriptionNumber": 111606492,
+    "meta": {
+      "name": "Lightning Chose the Innocent Again",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Lightning Chose the Innocent Again",
+    "sacAddress": "bc1p347ef0flu5l8ccfzsn9udxpzqflwyrjx34dcngj7qfam9ulee93s2h77w3",
+    "sacMerkleTreeSize": 3966202
+  },
+  {
+    "id": "244e13725c6b5f1ffb9e88e671d4113740abf8722bca2e3861e5deaa40548f50i0",
+    "inscriptionNumber": 111567289,
+    "meta": {
+      "name": "The Strike",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Strike"
+  },
+  {
+    "id": "26254ddb4b1abf3517a07e175b3b1fd27c171e88c69832a2aedd940fb79c0822i0",
+    "inscriptionNumber": 111621242,
+    "meta": {
+      "name": "The Day of Seeing No. 2",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Day of Seeing No. 2"
+  },
+  {
+    "id": "335859afc7a2f620112e42551c117797b816a49ca34991054b2e0f1a35c5d806i0",
+    "inscriptionNumber": 111634008,
+    "meta": {
+      "name": "Baptism of the Machine",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Baptism of the Machine"
+  },
+  {
+    "id": "39ab42cddf683d1df01ccddd8df2781d9715ae86b220dde083cb386af10f924ai0",
+    "inscriptionNumber": 111608707,
+    "meta": {
+      "name": "The Covenant of Flame and Soil",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "The Herald",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Covenant of Flame and Soil"
+  },
+  {
+    "id": "40071945ad310c8b8be60ebb417f0021ff6382bf3be9a8836ba527f4bfe3efd6i0",
+    "inscriptionNumber": 111560957,
+    "meta": {
+      "name": "Couple in Formalwear (Study for a Failed AI Renaissance)",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Couple in Formalwear (Study for a Failed AI Renaissance)"
+  },
+  {
+    "id": "437122f1c8e202b68712c6295204e25bad20d723c114d0f176fd856cdc0ec631i0",
+    "inscriptionNumber": 111664200,
+    "meta": {
+      "name": "The Ship That Waited for Her",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Ship That Waited for Her"
+  },
+  {
+    "id": "4416c897c0167e93e11672319ae65cfa1fbc792e9f7507daad5a1bea340f1341i0",
+    "inscriptionNumber": 111664772,
+    "meta": {
+      "name": "Oracle of the Second Skin",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Oracle of the Second Skin"
+  },
+  {
+    "id": "472577d82e9ecc872c3bb3b0964969c1116e65c90c707d0099b4ae9ce39e308di0",
+    "inscriptionNumber": 111672154,
+    "meta": {
+      "name": "Those Who Work the Air",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Those Who Work the Air"
+  },
+  {
+    "id": "48c7bcd1b53e6963e40446d3fb2481cbd6e4e5a7554d7ba412dc78d8804d7f0ci0",
+    "inscriptionNumber": 111672474,
+    "meta": {
+      "name": "The Pink Testament (Annotated with Frogs)",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Pink Testament (Annotated with Frogs)"
+  },
+  {
+    "id": "4920c8b89171c7feec2cb38dde268361e15e8b241a8a2f3ccf8f4e22a5887202i0",
+    "inscriptionNumber": 111672516,
+    "meta": {
+      "name": "The Maker of Unicorns",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "The Herald",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Maker of Unicorns"
+  },
+  {
+    "id": "4b059642c3c17ae4d10ce1da97d8944b6855662f9b6a7fb91605ac5123268238i0",
+    "inscriptionNumber": 111619605,
+    "meta": {
+      "name": "Mother of Portals",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Mother of Portals"
+  },
+  {
+    "id": "504e076eb9e316d070417d74d815d595671d16e13cd962b3fe1db20243452270i0",
+    "inscriptionNumber": 111672546,
+    "meta": {
+      "name": "The Herd",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Herd"
+  },
+  {
+    "id": "5098d1fd3d950b0c168a33456e92e5f38d18e30656170bd646af62d2e9077bb6i0",
+    "inscriptionNumber": 111563185,
+    "meta": {
+      "name": "The Earth Split",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Earth Split"
+  },
+  {
+    "id": "511d6316206b5a93d6b61813dabc55d02dfc59a9e15ac58ddc42552d1645b64fi0",
+    "inscriptionNumber": 111672895,
+    "meta": {
+      "name": "The Consecration of the White Horse",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Consecration of the White Horse"
+  },
+  {
+    "id": "52a795fc4cd216fe394d53cf559cfc04ee2625398268a74870d2fd1aeb65dd56i0",
+    "inscriptionNumber": 111673551,
+    "meta": {
+      "name": "Battle at Infinite Blue",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Battle at Infinite Blue"
+  },
+  {
+    "id": "53a22031c82bfc670fa84f31d00d4925aba67b12d3d45f4e3415eca5ac2f0f95i0",
+    "inscriptionNumber": 111674165,
+    "meta": {
+      "name": "The Architects of Orbit",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Architects of Orbit"
+  },
+  {
+    "id": "5449b432bfdfb784b9d6c30ce6b59702f94d122e86603d4c6f3e024621db5d0ei0",
+    "inscriptionNumber": 111619693,
+    "meta": {
+      "name": "The Opening",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue (Panels)",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Opening"
+  },
+  {
+    "id": "54f7a63071c9a9b7e58f971c4cdbfe06aa711f6bddf0e1c56994535253ef0fd3i0",
+    "inscriptionNumber": 111674791,
+    "meta": {
+      "name": "Chrome of Fish",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Chrome of Fish"
+  },
+  {
+    "id": "5581fefd0c32b15af34b487d1a0927ff69586aabf05444decb38682d5c7b0e22i0",
+    "inscriptionNumber": 111674920,
+    "meta": {
+      "name": "The Strings That Painted Worlds No. 1",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Strings That Painted Worlds No. 1"
+  },
+  {
+    "id": "567080b1efa9b3763c9d6c7c63106bcbef65b8f30613b1533d9ae528b4fb72e3i0",
+    "inscriptionNumber": 111675038,
+    "meta": {
+      "name": "The Strings That Painted Worlds No. 2",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Strings That Painted Worlds No. 2"
+  },
+  {
+    "id": "57589de4b195bdeca2a7757babe54b978e1cc620b54415eff26152980abbb51ai0",
+    "inscriptionNumber": 111675143,
+    "meta": {
+      "name": "The Prophet at Martian Lake No. 1",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red and Green",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Prophet at Martian Lake No. 1"
+  },
+  {
+    "id": "58bc77c174bb1c7590fb856626ac1472877ca12a4cf5e37c1f163c9bd02b8016i0",
+    "inscriptionNumber": 111675653,
+    "meta": {
+      "name": "The Prophet at Martian Lake No. 2",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red and Green",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Prophet at Martian Lake No. 2",
+    "sacAddress": "bc1ptt796era7tythnslvcku8rmq3axjetxw3k8ugmzzdu7pzn47xv0sglyq6u",
+    "sacMerkleTreeSize": 3990238
+  },
+  {
+    "id": "59f0f870dbaf3f7e1f5f5144a243fbb00bdadb42575f7d7f699fcd009e1d3be0i0",
+    "inscriptionNumber": 111676357,
+    "meta": {
+      "name": "A Protocol for Generating (Misprint Study)",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "A Protocol for Generating (Misprint Study)",
+    "sacAddress": "bc1pauugvk2d5754muggef4t7qlxsst49gjutxq3squvmsuyugm0m8xqn6p24n",
+    "sacMerkleTreeSize": 4001949
+  },
+  {
+    "id": "6078a87b621721a2cd14271d84ccb40813d0f45e5e90aaa408e43a1f5d7e2ce7i0",
+    "inscriptionNumber": 111676494,
+    "meta": {
+      "name": "Inflation Event (Fly to You)",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Inflation Event (Fly to You)"
+  },
+  {
+    "id": "61c80bc12a4e19399a1ac09614b147398e78a2319cfd38279b8c513bd968e23ei0",
+    "inscriptionNumber": 111676620,
+    "meta": {
+      "name": "The Physics of Faith",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Physics of Faith"
+  },
+  {
+    "id": "621a8d01b41284832a4b45ceba36110a469dfdfff934617d843617d0d54b2d22i0",
+    "inscriptionNumber": 111677383,
+    "meta": {
+      "name": "The Grammar of Creation",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Grammar of Creation"
+  },
+  {
+    "id": "635ec5f7ccb0f1cfc6fc49567be152d02368586cbfb05f1b326312bf10b0afd5i0",
+    "inscriptionNumber": 111682901,
+    "meta": {
+      "name": "The Last Experiment",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Last Experiment"
+  },
+  {
+    "id": "642107b04148e58e1c8259fe54254d442ac40b46e03f0809974294b922905264i0",
+    "inscriptionNumber": 111683775,
+    "meta": {
+      "name": "The Landscape Assembles Itself",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Landscape Assembles Itself"
+  },
+  {
+    "id": "659d3c8681196f0cc0da43c90cd271f69acd0d09f575a4e2378a2431469d8dfdi0",
+    "inscriptionNumber": 111688466,
+    "meta": {
+      "name": "Refraction Ceremony",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Refraction Ceremony",
+    "sacAddress": "bc1p7n7rydqg78lzx9rtuljyl20gn3cgey72rsvgnzel76tvxfs50nvsdq036t",
+    "sacMerkleTreeSize": 3966732
+  },
+  {
+    "id": "66ea76a0a8a50de985a36b68c3bf8dd2d536a7128276bf06f72561f811d317efi0",
+    "inscriptionNumber": 111696396,
+    "meta": {
+      "name": "The Panels Remember Peace",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Panels Remember Peace"
+  },
+  {
+    "id": "674668d96a6b27cd67656124fc51ad626e4bde0da49f14be9beaba9f7579131ci0",
+    "inscriptionNumber": 111698725,
+    "meta": {
+      "name": "I Am a Surfer No. 1",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "I Am a Surfer No. 1"
+  },
+  {
+    "id": "682abe9bfff44537fe4ca0d89162dbe92588cba52fe145651cba4bb3028855aei0",
+    "inscriptionNumber": 111632626,
+    "meta": {
+      "name": "The Bath of Returning",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Bath of Returning"
+  },
+  {
+    "id": "68998ef48e5e548d890cace71c3dec0aa65c6ddad313bf38b1343b2d41181329i0",
+    "inscriptionNumber": 111699472,
+    "meta": {
+      "name": "I Am a Surfer No. 2",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "I Am a Surfer No. 2"
+  },
+  {
+    "id": "69213b397e09c624dc5e6efc7ea36ba2ed1d6621753800656224646ec78c38dei0",
+    "inscriptionNumber": 111699483,
+    "meta": {
+      "name": "The Exhibition",
+      "attributes": [
+        {
+          "value": "Book IV: I Am a Surfer",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Exhibition"
+  },
+  {
+    "id": "6cd34d1dc358fcd8536ad5b5e5977a6c8c7b8ba8f1527da69d9fefdf811cff5ci0",
+    "inscriptionNumber": 111668675,
+    "meta": {
+      "name": "Cain",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Cain"
+  },
+  {
+    "id": "70eef29e770ea26658212ac74623d70bfb36b4ddb6ab504d2185c994788a723ai0",
+    "inscriptionNumber": 111702719,
+    "meta": {
+      "name": "The Entrance of Earth",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Entrance of Earth"
+  },
+  {
+    "id": "71ab51f465cadc0dd0a1937bb985a2f146a54370c9f3cee33649e8a1790720fei0",
+    "inscriptionNumber": 111704607,
+    "meta": {
+      "name": "The Black Sun at Noon",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Black Sun at Noon"
+  },
+  {
+    "id": "71b9ecd8e66e6c71313d9aac75a85db1e5939be54f9e287a924b3d1c2b0155e7i0",
+    "inscriptionNumber": 111562408,
+    "meta": {
+      "name": "The Bag That Held the World",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Bag That Held the World"
+  },
+  {
+    "id": "72b2b896709125c84c571f677b5626bf74cb0321f7c55126cd16a4f2d3fa8723i0",
+    "inscriptionNumber": 111704669,
+    "meta": {
+      "name": "The Child",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Child"
+  },
+  {
+    "id": "735aa4fde038e42efb21704d34734437c57f30410098876ba95bf1e2fee98e0fi0",
+    "inscriptionNumber": 111704843,
+    "meta": {
+      "name": "The Second Body",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Second Body"
+  },
+  {
+    "id": "749d55b3a05c2526a6637eb73dcad6161d30d24d262789e0117281e3d93bc1d2i0",
+    "inscriptionNumber": 111706290,
+    "meta": {
+      "name": "The Last Giant",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Last Giant"
+  },
+  {
+    "id": "75531ee7aea072453d7002d6f82322e01f9989c2658481b1c85354e54d88eb98i0",
+    "inscriptionNumber": 111709153,
+    "meta": {
+      "name": "Birth of the Unknown Figure",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Birth of the Unknown Figure"
+  },
+  {
+    "id": "76f94f581ed0c48e8a927053c798f80f6a2d4ffea66a24d22baeafb64537e7c9i0",
+    "inscriptionNumber": 111711409,
+    "meta": {
+      "name": "I Am a Fisherman but the Sea Turned to Blood",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "I Am a Fisherman but the Sea Turned to Blood"
+  },
+  {
+    "id": "77ff7c70a43c34b75f27ee59ecc62eff32935c706a70b180c039e152092a2082i0",
+    "inscriptionNumber": 111711521,
+    "meta": {
+      "name": "Siege of Fort Giant",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Siege of Fort Giant"
+  },
+  {
+    "id": "78ea7323274decefeb02b71420b2240467ff919bedd1557f3d4790d034cc1a0ci0",
+    "inscriptionNumber": 111711551,
+    "meta": {
+      "name": "The Crown (Misprint Study)",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Crown (Misprint Study)"
+  },
+  {
+    "id": "795af481e58b8046f3ef73c942332c50af6bcd21a4b1fa7b20d7456038745badi0",
+    "inscriptionNumber": 111712374,
+    "meta": {
+      "name": "The Doors (Break on Through)",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Doors (Break on Through)"
+  },
+  {
+    "id": "7d4200d40a9e6ca41241a74e8493696d6e31f012e4379e2e513a4af02355d8b7i0",
+    "inscriptionNumber": 111623390,
+    "meta": {
+      "name": "The Witness",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "The Herald",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Witness"
+  },
+  {
+    "id": "80498c9b0b4d9b49b795ebc189b0f1cb3eb243b8a56d6783c89ee2afab16dbe8i0",
+    "inscriptionNumber": 111713807,
+    "meta": {
+      "name": "Passage Into the Dark Quadrant",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Passage Into the Dark Quadrant",
+    "sacAddress": "bc1pmg7la3mcxct6qahh4c9ssccll2qp3ehyvw7wc77k05vdu65ymt7sav9tdd",
+    "sacMerkleTreeSize": 3965598
+  },
+  {
+    "id": "81a53c294da0e332ef1e312c337b25da01970e99f49dbad0809a95c822b67337i0",
+    "inscriptionNumber": 111714710,
+    "meta": {
+      "name": "The Chamber of Repeating Light",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Chamber of Repeating Light"
+  },
+  {
+    "id": "825329a324121b5c56f6649844a1f7a1ff30d5579a6f26829401a8d498057a96i0",
+    "inscriptionNumber": 111717743,
+    "meta": {
+      "name": "Approach to the Event Horizon",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red and Green",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Approach to the Event Horizon"
+  },
+  {
+    "id": "8361ac823bed3c2fa65c7c2ab178a26b06d7019c51c6a3c3a95984218f54624fi0",
+    "inscriptionNumber": 111717900,
+    "meta": {
+      "name": "The Theatre of the Afterlife",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Theatre of the Afterlife"
+  },
+  {
+    "id": "84a7408a61233244ac90695a81ce3b983e446c39951f9a739b67e16060977dcdi0",
+    "inscriptionNumber": 111717951,
+    "meta": {
+      "name": "The Vessel Between",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Vessel Between"
+  },
+  {
+    "id": "857f00a74cac491b01c59dbc4963443dd3f39e5941bef8c60a06ad2acc7e8f2bi0",
+    "inscriptionNumber": 111718093,
+    "meta": {
+      "name": "Through the Gates",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red (Panels)",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Through the Gates"
+  },
+  {
+    "id": "8628185381fa61368be0e762e657946353f00e72314231018484841a9898aa81i0",
+    "inscriptionNumber": 111718132,
+    "meta": {
+      "name": "The Arrival",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Arrival"
+  },
+  {
+    "id": "87826c753d90fda9519f0454136951e0e693cad9251ea2ed79a7d84ae56871eci0",
+    "inscriptionNumber": 111718170,
+    "meta": {
+      "name": "Terminal Lovers",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Terminal Lovers",
+    "sacAddress": "bc1ptt796era7tythnslvcku8rmq3axjetxw3k8ugmzzdu7pzn47xv0sglyq6u",
+    "sacMerkleTreeSize": 3990238
+  },
+  {
+    "id": "88a659f835f0130405e5e5dcc2eb02b3cf7b1448842871e1b7b69fc6d4e135a7i0",
+    "inscriptionNumber": 111718215,
+    "meta": {
+      "name": "Soft Systems",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Soft Systems"
+  },
+  {
+    "id": "89db961e152c806f62d809ce584f21cd87d852254eadad43f6dc85aa1775c5cai0",
+    "inscriptionNumber": 111718268,
+    "meta": {
+      "name": "Afterforms",
+      "attributes": [
+        {
+          "value": "Book V: The Theatre of the Afterlife",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Afterforms"
+  },
+  {
+    "id": "8a22e29d5d08008ec6c7d08692741458e4e152349dde75516946bb1b9263a73fi0",
+    "inscriptionNumber": 111607802,
+    "meta": {
+      "name": "The Spark",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Spark"
+  },
+  {
+    "id": "8aadf62feb54d89f0eef761dff1978b0a4a270cd18054af4085d1fd4d6b06a15i0",
+    "inscriptionNumber": 111659856,
+    "meta": {
+      "name": "The Living Marble",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "The Herald",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Living Marble"
+  },
+  {
+    "id": "90db24d60923049a0919c3fc74bb207af8c5470fa17111df738d93374b317468i0",
+    "inscriptionNumber": 111882573,
+    "meta": {
+      "name": "The Invention of the New Sun (Dots)",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red (Framed)",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Invention of the New Sun (Dots)"
+  },
+  {
+    "id": "91100ec11f09e879cc4dd2bd838bb2869c1e988c30ebeb362f57613eba895f71i0",
+    "inscriptionNumber": 111633604,
+    "meta": {
+      "name": "The Signal at Sea",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Signal at Sea"
+  },
+  {
+    "id": "9141719883605dc2a606db4366da6642194f09a82f6d68acba9a9af9f0f7ccf0i0",
+    "inscriptionNumber": 111897857,
+    "meta": {
+      "name": "The Pull (Dots)",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Pull (Dots)"
+  },
+  {
+    "id": "92d3bbf1825cf1e5f696588720918d2260a635cbb2c019a61ba6c032d9d83df7i0",
+    "inscriptionNumber": 111925941,
+    "meta": {
+      "name": "The Waltz (Dots)",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Waltz (Dots)"
+  },
+  {
+    "id": "9376418aa6c59c2d06f10cadd232f9daa13c93be0eeedde57c70dac6c21f863bi0",
+    "inscriptionNumber": 111650040,
+    "meta": {
+      "name": "Transfiguration by Contact",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Transfiguration by Contact"
+  },
+  {
+    "id": "93edbeae36259f5522b2c02274118fab87a1ec9b89e863c6eda92a377b97ada6i0",
+    "inscriptionNumber": 111960270,
+    "meta": {
+      "name": "The Moment the Image Breaks",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Moment the Image Breaks"
+  },
+  {
+    "id": "9430382b4af89cd452c9549597e56d846c4865acc25d200abaf0c959195cdfb5i0",
+    "inscriptionNumber": 111962509,
+    "meta": {
+      "name": "Data Sweep",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Data Sweep"
+  },
+  {
+    "id": "95adacd8386a26ddfec95f5ee027f7ef8c657748c45f751e15d9a9cd34f4d3a7i0",
+    "inscriptionNumber": 111964418,
+    "meta": {
+      "name": "Datafall",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Datafall"
+  },
+  {
+    "id": "96c146fd4708fa8e7125828804580cacc17796d9d271865cdc641256825e1232i0",
+    "inscriptionNumber": 111965430,
+    "meta": {
+      "name": "Sifted",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Sifted"
+  },
+  {
+    "id": "97bc86de595a591c88c68c5777dae9edb08b2b1a57b212cc20b2759ab375f3eci0",
+    "inscriptionNumber": 111965703,
+    "meta": {
+      "name": "For the Birds",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "For the Birds"
+  },
+  {
+    "id": "98f031232bcde64b665f522fd8a5ec8159cf73f9fdabe60c7df6bd0fe2c15a85i0",
+    "inscriptionNumber": 111965774,
+    "meta": {
+      "name": "The Sunset Commission",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Sunset Commission"
+  },
+  {
+    "id": "9914e07c886cb8b3acefbf78f33e2733f435a978c1acbe97f21faf27b44e1ef0i0",
+    "inscriptionNumber": 111965935,
+    "meta": {
+      "name": "The Appearance at Pier 11",
+      "attributes": [
+        {
+          "value": "Book VI: The Moment the Image Breaks",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Appearance at Pier 11"
+  },
+  {
+    "id": "99f240509ab1ab21f6830427c5ebc1e020e63f2454a6646cd9cb8c679780a9b4i0",
+    "inscriptionNumber": 111560845,
+    "meta": {
+      "name": "The Ocean's Hold",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Ocean's Hold"
+  },
+  {
+    "id": "9c8ae12ff5d5d61cc792de794fe81c4623a9971dc3ad7057c94f355748aabf8ci0",
+    "inscriptionNumber": 111620402,
+    "meta": {
+      "name": "The Day of Seeing No. 1",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Day of Seeing No. 1"
+  },
+  {
+    "id": "9dc1571d8ab4db5d26bd1a661a73f368b5005bafca5c56bd6ba10bc8fc20e276i0",
+    "inscriptionNumber": 111613717,
+    "meta": {
+      "name": "The Gift of the Prism Stone",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "The Herald",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Gift of the Prism Stone"
+  },
+  {
+    "id": "a2003404b07bec070c99c18ed8d7b70a97c02010df8f3b5c0951e38209872465i0",
+    "inscriptionNumber": 111562476,
+    "meta": {
+      "name": "Up and Down",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Up and Down"
+  },
+  {
+    "id": "adddad5019b440b4081c8d8969273e5c4e281d0eb8f6244807f7b7815a13ee29i0",
+    "inscriptionNumber": 111632438,
+    "meta": {
+      "name": "Carrying the Suns",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Carrying the Suns"
+  },
+  {
+    "id": "b77f69ee0b0195b12fa183a70b31ef44b159c6c158ae6a3f52a1095770e90017i0",
+    "inscriptionNumber": 111644470,
+    "meta": {
+      "name": "The Engineer of Grace",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Engineer of Grace"
+  },
+  {
+    "id": "bafb448b4f28287e0e3178d3c5aa950a4f23f9d00bba1656670e45db12bd8272i0",
+    "inscriptionNumber": 111560643,
+    "meta": {
+      "name": "Waveborn No. 1",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Waveborn No. 1",
+    "sacAddress": "bc1p347ef0flu5l8ccfzsn9udxpzqflwyrjx34dcngj7qfam9ulee93s2h77w3",
+    "sacMerkleTreeSize": 3966202
+  },
+  {
+    "id": "bd10c1d8880a745042a26f5aff301cf77d788a7d304741eff37c54de44a8f725i0",
+    "inscriptionNumber": 111662276,
+    "meta": {
+      "name": "The Birth of New Flesh",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Birth of New Flesh"
+  },
+  {
+    "id": "bd5bb024f68791f0e03c7fc0e64c04bc6ed610824c851e9c53a67e0f573e7a59i0",
+    "inscriptionNumber": 111623828,
+    "meta": {
+      "name": "The Tree That Burned and Spoke",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Tree That Burned and Spoke"
+  },
+  {
+    "id": "c149f09d141e5ac1a84c95564a1d88e5dfe5bdfc8ad5325f318fa7f9312f2440i0",
+    "inscriptionNumber": 111616989,
+    "meta": {
+      "name": "The Parting",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Parting"
+  },
+  {
+    "id": "c8f213ecdded05bdf73a097a9c2dc5d6ee9e5e89102f5fa3fe4ee4fdb7309cb7i0",
+    "inscriptionNumber": 111662297,
+    "meta": {
+      "name": "The One Who Gave the Dead Back Their Light",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Fortune",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The One Who Gave the Dead Back Their Light"
+  },
+  {
+    "id": "ca8db189329d249b50195f7a0719933537fd07c21774adc26afc811b5da7eaa9i0",
+    "inscriptionNumber": 111633796,
+    "meta": {
+      "name": "Saints of the Transmission",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Saints of the Transmission"
+  },
+  {
+    "id": "e52c3085f3d6bd2b3471a93f0254110c4431118484c0039b04e4b4d88cc61b2ai0",
+    "inscriptionNumber": 111653758,
+    "meta": {
+      "name": "Beekeeper",
+      "attributes": [
+        {
+          "value": "Book III: The Maker of Unicorns",
+          "trait_type": "Book"
+        },
+        {
+          "value": "The Herald",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Almost",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Beekeeper"
+  },
+  {
+    "id": "f2da314250a008747fcdc90d846830c50a3168004c81dffebc7a9f35867c9f87i0",
+    "inscriptionNumber": 111566505,
+    "meta": {
+      "name": "End of an Empire",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "Out",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "End of an Empire"
+  },
+  {
+    "id": "f76ac07c1201dfb012de0bd6c7c3599eaf6901e894c8fc9db10c1330605e78fci0",
+    "inscriptionNumber": 111610187,
+    "meta": {
+      "name": "The Remnant Wing",
+      "attributes": [
+        {
+          "value": "Book II: The Remnant Wing",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue and Red",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "true",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "The Remnant Wing"
+  },
+  {
+    "id": "f7c9d674b0ec623233cdb76ba01bcbe9108f884ddf10eb5e92efc2af267cde13i0",
+    "inscriptionNumber": 111560774,
+    "meta": {
+      "name": "Waveborn No. 2",
+      "attributes": [
+        {
+          "value": "Book I: Where Matter Begins",
+          "trait_type": "Book"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Persona"
+        },
+        {
+          "value": "In",
+          "trait_type": "Taxonomy"
+        },
+        {
+          "value": "false",
+          "trait_type": "Title piece"
+        }
+      ]
+    },
+    "displayName": "Waveborn No. 2"
+  }
+]

@@ -1,10 +1,9 @@
 {
-  "description": "",
-  "discord_link": "https://discord.com/invite/f3f8grbS7u",
-  "icon": "https://turbo.ordinalswallet.com/inscription/preview/8501859db1c39eed8697dec1e7b0099140dfd34da9b452c3245237b5dc2b9b7bi0",
-  "inscription_icon": "8501859db1c39eed8697dec1e7b0099140dfd34da9b452c3245237b5dc2b9b7bi0",
-  "name": "Ordinal Pizza Og",
   "slug": "ordinal-pizza-og",
+  "name": "Ordinal Pizza Og",
+  "icon": "https://next-cdn.unisat.space/collection/logo/ordinal-pizza-og.avif",
+  "inscription_icon": "8501859db1c39eed8697dec1e7b0099140dfd34da9b452c3245237b5dc2b9b7bi0",
+  "description": "340 Pizzas forever ingrained on the BTC Blockchain commemorating the first ever sale of BTC for a physical item.",
   "twitter_link": "https://twitter.com/OrdinalPizzaOG",
-  "website_link": ""
+  "discord_link": "https://discord.gg/rbMfYbDxpn"
 }
