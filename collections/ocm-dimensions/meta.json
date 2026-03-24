@@ -1,10 +1,10 @@
 {
-  "description": "OCM Dimensions is where art, technology, and innovation collide. The first of its kind, OCM Dimensions is a 3D generative art collection generated and streamed straight from Bitcoin. Inscribed in February 2023, these 3D masterpieces are stored on Jan 2009 “Block 78” satoshis.",
-  "discord_link": "https://discord.gg/ocm",
-  "icon": "https://bafybeicevqmbkrlk34hjsih3mawmhdqlfhkiy3tdyrzdsvx5tgiltnpfp4.ipfs.nftstorage.link/",
-  "inscription_icon": "ff408a524861537d215de19fd96819bcb29d114b41cb6da7ffbb9c777392ef5ei0",
-  "name": "OCM Dimensions 300",
   "slug": "ocm-dimensions",
+  "name": "OCM Dimensions 300 by OnChainMonkey® ",
+  "icon": "https://next-cdn.unisat.space/collection/logo/ocm-dimensions.avif",
+  "inscription_icon": "ff408a524861537d215de19fd96819bcb29d114b41cb6da7ffbb9c777392ef5ei0",
+  "description": "OCM Dimensions is the first of its kind high-resolution 3D generative art collection on Bitcoin, providing open-source code libraries that lay the foundation for art on Bitcoin.",
   "twitter_link": "https://twitter.com/OnChainMonkey",
+  "discord_link": "https://discord.gg/ocm",
   "website_link": "https://onchainmonkey.com/ocm-dimensions"
 }

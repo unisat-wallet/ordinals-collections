@@ -1,8 +1,7 @@
 {
-  "description": "Rock Your Digital Collection with Unique, Must-Have Pieces! Limited Editions | Unbeatable Variety | Exceptional Artistry Join the Craze. Expand Your Collection. Be Part of Something Big.",
-  "icon": "https://media.cdn.magiceden.dev/ordinals-collection-img/ordirocks.avif",
-  "name": "OrdiRocks",
   "slug": "ordirocks",
-  "twitter_link": "https://twitter.com/OrdiRocks",
-  "website_link": ""
+  "name": "OrdiRocks",
+  "icon": "https://next-cdn.unisat.space/collection/logo/ordirocks.avif",
+  "description": "ordirocks",
+  "twitter_link": "https://twitter.com/OrdiRocks"
 }
