@@ -1,0 +1,4693 @@
+[
+  {
+    "id": "00f52efe53493258ca95f4ff026a05b8474838cd536b0d7237088decbe5e3dc3i0",
+    "inscriptionNumber": 105612497,
+    "meta": {
+      "name": "Stalker",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Stalker"
+  },
+  {
+    "id": "047979a9131e2f3c0f133ea1ac1f949edcad95458fdc4ee2b17de4d21bf737d6i0",
+    "inscriptionNumber": 94418060,
+    "meta": {
+      "name": "Autonomous Positronic Qubiton VI",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Autonomous Positronic Qubiton VI"
+  },
+  {
+    "id": "057654a2966533ef851f32aa078acb8781eb4141bce42aa30da0a80ba4f769dei0",
+    "inscriptionNumber": 94417987,
+    "meta": {
+      "name": "Autonomous Positronic Qubiton I",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Autonomous Positronic Qubiton I",
+    "sacAddress": "bc1plkxnxd257yg768fnvzpjlasnk3c284d4hugc4aykxnsdzdgy4ehsxze96y",
+    "sacMerkleTreeSize": 3871973
+  },
+  {
+    "id": "06dbdb34c4a8cdb98f9b4984e3623e5b4919e791c87d84bf785ee4c6049de25fi0",
+    "inscriptionNumber": 97139340,
+    "meta": {
+      "name": "Techno Lord XIII - Mohawk",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XIII - Mohawk"
+  },
+  {
+    "id": "0a18932600392809bb89f74d02d922064fb133b38d646e037e5f1f6018f6044fi0",
+    "inscriptionNumber": 97139335,
+    "meta": {
+      "name": "1BitcoinEater",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "1BitcoinEater"
+  },
+  {
+    "id": "0cdc0b1ef57a5aa02337f7c9e1223c20c1db5c395e8d5233da53041309ae0d4ci0",
+    "inscriptionNumber": 91114032,
+    "meta": {
+      "name": "Steve's Accidental Breakthrough",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Steve's Accidental Breakthrough"
+  },
+  {
+    "id": "0d61e4e8b42c9fbeb6a9a606118135b95c076449fe388408decf07f040526fd6i0",
+    "inscriptionNumber": 80943043,
+    "meta": {
+      "name": "Obstructed Seeker",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Obstructed Seeker"
+  },
+  {
+    "id": "0d8f88fd0c2a4296f9897e7d349c8214a5f1ce9604050192a7d2e5dad433ba87i0",
+    "inscriptionNumber": 80944659,
+    "meta": {
+      "name": "Techno Lord XVI - Transistor",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XVI - Transistor"
+  },
+  {
+    "id": "119e56a2e7acd3f80218b207c7465a1ed24346570852ef480e64a110c89f51aei0",
+    "inscriptionNumber": 80944000,
+    "meta": {
+      "name": "Prime Guardian",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Prime Guardian"
+  },
+  {
+    "id": "12c16c6248ebf39557e4f7075713c84f1ee7d7489b8348fdf2193db569e04e61i0",
+    "inscriptionNumber": 80942718,
+    "meta": {
+      "name": "Astral Beacon",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Astral Beacon"
+  },
+  {
+    "id": "1724526db0213af5c52f22d69eccb06701a0646547ed157940c407ca93a29effi0",
+    "inscriptionNumber": 80944088,
+    "meta": {
+      "name": "Quetzalcoatl",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Quetzalcoatl"
+  },
+  {
+    "id": "17aba501fcd3cf47f052519834f6d6d02433cce6c7a643030291c5b72ecf066bi0",
+    "inscriptionNumber": 80943002,
+    "meta": {
+      "name": "The Leet Lord",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "The Leet Lord"
+  },
+  {
+    "id": "1a2d94b8e823d9e72c04055f17a4c1cb9fd7ede38bf264b37ea48da3af7bc154i0",
+    "inscriptionNumber": 80943918,
+    "meta": {
+      "name": "Techno Lord IX - Coil",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord IX - Coil",
+    "sacAddress": "bc1p7v423zcz654klm6kf5l86pyj3ete5d05wqpaft52ygcp8weux2csaf25mh",
+    "sacMerkleTreeSize": 3865928
+  },
+  {
+    "id": "1be0d846dd9e9604f2201e9c61208125d9e05358310a77740064108987e210bci0",
+    "inscriptionNumber": 97139344,
+    "meta": {
+      "name": "Effigy of Service to Self",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Effigy of Service to Self"
+  },
+  {
+    "id": "1d25b3408d6632b0ac1b4160e1ae0f1ac932c6ba9ea7840f37f63afc32eff3dfi0",
+    "inscriptionNumber": 80943817,
+    "meta": {
+      "name": "Primal Spirit IV",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Primal Spirit IV"
+  },
+  {
+    "id": "235cedcb1010eda7336184d30185eb19a69aa37906569a0841665b2d0132ce17i0",
+    "inscriptionNumber": 80943843,
+    "meta": {
+      "name": "Seeker I",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Seeker I"
+  },
+  {
+    "id": "23b9b7310c70f92ae26ef3a6bfe6c853bff9369f9b0b415ebec3c10d3a5f38abi0",
+    "inscriptionNumber": 80944675,
+    "meta": {
+      "name": "Techno Lord XII - Glitch Lord",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XII - Glitch Lord"
+  },
+  {
+    "id": "25599e699d6209b33e813b0e2f00ddede4cf44f1894e6a31f0b660b066d23fa2i0",
+    "inscriptionNumber": 80943025,
+    "meta": {
+      "name": "Mind Virus IV",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Mind Virus IV"
+  },
+  {
+    "id": "28345ad0b6faaa4147e0b7761f8a45bce78280388fe9372300d063bddc092b90i0",
+    "inscriptionNumber": 80944663,
+    "meta": {
+      "name": "The Grim Reaper",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "The Grim Reaper"
+  },
+  {
+    "id": "2ca1bdfc2dbaa7ac3a7acc7a6a677707a233bea8d078316e3c5755b77ccd7fd1i0",
+    "inscriptionNumber": 91124824,
+    "meta": {
+      "name": "Cherub",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Cherub"
+  },
+  {
+    "id": "2d4a2e86ff5f2861a20eec7f901fe1d85fb9ed716b8730841ebb09acfa1de0cdi0",
+    "inscriptionNumber": 91114038,
+    "meta": {
+      "name": "Happy Little Energy Vampire",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Happy Little Energy Vampire"
+  },
+  {
+    "id": "2f0b1e0dbc6286fa8b4b7895355933ef60127dac7921f4a9e77e2f412e9c2040i0",
+    "inscriptionNumber": 80942981,
+    "meta": {
+      "name": "Life",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Rose",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Life"
+  },
+  {
+    "id": "2f102871ac0fdc5dad0d06bc4910b8c555da68c3f6a95a8d41401985b86381b2i0",
+    "inscriptionNumber": 80944677,
+    "meta": {
+      "name": "Techno Lord XXIV - Zeal",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Ridiculous",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XXIV - Zeal"
+  },
+  {
+    "id": "307b6a2c6e78b4ebc1bb06030472742f2db12794d1adc27ad7094307bb2ef4d9i0",
+    "inscriptionNumber": 94418057,
+    "meta": {
+      "name": "Autonomous Positronic Qubiton III",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Autonomous Positronic Qubiton III"
+  },
+  {
+    "id": "314dadc18514cb0941c9eaef0aa3dc5564f661dec53828fa519d4946f1e30e2bi0",
+    "inscriptionNumber": 80942913,
+    "meta": {
+      "name": "Haxxor Lord",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Haxxor Lord"
+  },
+  {
+    "id": "31ef4620d85eca7cc07f1cb4d56b3e277f980d1a3e953b57cf752a79a23e3b77i0",
+    "inscriptionNumber": 80944888,
+    "meta": {
+      "name": "Treasurer",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Treasurer"
+  },
+  {
+    "id": "3218e5dfd711c4e948f19d28f56c6c906e783755c4d74518a6a72d4a79f9fb19i0",
+    "inscriptionNumber": 80943846,
+    "meta": {
+      "name": "Techno Lord VII - Grub Lord",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord VII - Grub Lord"
+  },
+  {
+    "id": "330e014f85fbe88aff4e435f6d563a209d6588739c337a65beb3de9b8f822263i0",
+    "inscriptionNumber": 80944647,
+    "meta": {
+      "name": "The Ordinals Mind",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Emerald",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "The Ordinals Mind"
+  },
+  {
+    "id": "332c3e6febd1921d1e2d944c6a6e61d7258b23a924d35333c8b1915350487c41i0",
+    "inscriptionNumber": 80942716,
+    "meta": {
+      "name": "Enigma",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Enigma",
+    "sacAddress": "bc1ppvsyhyu9qhz9ruhe8p9dyn3ffcsc4tglkv3qnafkhvd7whqe5wmqe3g0e4",
+    "sacMerkleTreeSize": 3873333
+  },
+  {
+    "id": "3b9f3c6b86e98e2cc1f1bb36f07c9b2196c2abed7dab0344c306424cefbf6432i0",
+    "inscriptionNumber": 80942977,
+    "meta": {
+      "name": "Mind Virus II",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Mind Virus II"
+  },
+  {
+    "id": "3c52e6f79df08a36843ad9944e3034c9c79e25523eaf12463653da360165f156i0",
+    "inscriptionNumber": 80943922,
+    "meta": {
+      "name": "Techno Lord VIII - Crunsh",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord VIII - Crunsh",
+    "sacAddress": "bc1pmxxhmydpqwqzz55dayhprxrwvr6xxdnqpxwdzve0s6flhdn02xtqgqmrdy",
+    "sacMerkleTreeSize": 3912655
+  },
+  {
+    "id": "3ee042233d31e616ede0ed98dde18b8068fcf8ea9c95ff524433b64fc1437d44i0",
+    "inscriptionNumber": 91114031,
+    "meta": {
+      "name": "Zero Point Containment Field",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Zero Point Energy",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Zero Point Containment Field"
+  },
+  {
+    "id": "4218a92809aaf107d974683fa84468a06e7da9dc3946a1b51e20569e3287affei0",
+    "inscriptionNumber": 97187207,
+    "meta": {
+      "name": "Primal Spirit I",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Primal Spirit I"
+  },
+  {
+    "id": "432f99e57856e3daac21e9c765d43982f5357e5a454797d7abe6305c010a5056i0",
+    "inscriptionNumber": 80944641,
+    "meta": {
+      "name": "Warden of Digital Matter",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Warden of Digital Matter"
+  },
+  {
+    "id": "44e8bda0398d506fa8393eee3a2dc37d36d0e013f18465c52845d59d5fbe7a5ei0",
+    "inscriptionNumber": 80943931,
+    "meta": {
+      "name": "Techno Lord X - Connectoor",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord X - Connectoor"
+  },
+  {
+    "id": "4668fc9ccf644191f148feb108d31b7f517100abc9724c38e4a26a6b0f02391bi0",
+    "inscriptionNumber": 80944618,
+    "meta": {
+      "name": "The Most Ancient",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "The Most Ancient"
+  },
+  {
+    "id": "4742621f8bafe7c8524239c411b5393d5462281647b060fb12d5815b4c1294dbi0",
+    "inscriptionNumber": 81116973,
+    "meta": {
+      "name": "Before the Fall",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "creatorTips": 50000000,
+    "displayName": "Before the Fall",
+    "sacAddress": "bc1p4q7jwyxjtry8estysrranksff0jscmwdenq0tzwq4g8vw6qfmk0snwqf49",
+    "sacMerkleTreeSize": 3871591
+  },
+  {
+    "id": "4757a90f1683f2c88c2e3b934be7e92dbdda17a00c3579ea4820810ecd745b2ci0",
+    "inscriptionNumber": 80942929,
+    "meta": {
+      "name": "Helpling I",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Helpling I"
+  },
+  {
+    "id": "48e6102151cdcdad9feb737177fd479acb2ef1f098c81694093ee15c462ec9bci0",
+    "inscriptionNumber": 80944680,
+    "meta": {
+      "name": "The Golden Teacher",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "creatorTips": 250000,
+    "displayName": "The Golden Teacher",
+    "sacAddress": "bc1pvyt46j8rtffgx6e2gyurkz502xsvnzkrgyqhxfukvmrfyk0ak45s9mc0h9",
+    "sacMerkleTreeSize": 3861773
+  },
+  {
+    "id": "4a04bc907cc287cb01418dd9bc488471b2eb3cb9cfddd352b6c1662542d5088ai0",
+    "inscriptionNumber": 97139343,
+    "meta": {
+      "name": "Pepenial Spirit",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Emerald",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Pepenial Spirit"
+  },
+  {
+    "id": "4de8be3646c41d711f43503ba6ec5e41f88d167b351016dc4644c55e9d171416i0",
+    "inscriptionNumber": 91114028,
+    "meta": {
+      "name": "Longlegs",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Longlegs"
+  },
+  {
+    "id": "4f777a3e2fb302f12c582bfb11822c4ad4ceed6150335bc7dbb3e139c8f7b757i0",
+    "inscriptionNumber": 80943923,
+    "meta": {
+      "name": "Serenity",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Serenity"
+  },
+  {
+    "id": "50c608eb12d4bf9b39b673c53a0d87402149dae7d9d714472768e33d27bc6139i0",
+    "inscriptionNumber": 97139337,
+    "meta": {
+      "name": "Techno Lord XXVI - Bonez",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XXVI - Bonez"
+  },
+  {
+    "id": "56369eebb5944878e3d67b381ba8d6f490a786a36e3e06d61f698c711b94921ci0",
+    "inscriptionNumber": 80944620,
+    "meta": {
+      "name": "The Mountain King",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "The Mountain King"
+  },
+  {
+    "id": "56aaad27457eb8a55eeafc60ffc1553b6a5d70dc806e4a66af9193d4ba468117i0",
+    "inscriptionNumber": 91114029,
+    "meta": {
+      "name": "Leviathan Grub",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Leviathan Grub"
+  },
+  {
+    "id": "579eda168643294e5588ae99422998fd94d5414bd223e3c2008b60916baf4ad3i0",
+    "inscriptionNumber": 80944046,
+    "meta": {
+      "name": "Techno Lord V - Gimp Lord",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord V - Gimp Lord"
+  },
+  {
+    "id": "57b0c8ae0572be1f650fd36126a0630af688432811d9369cd6bb000dde6e7151i0",
+    "inscriptionNumber": 97433426,
+    "meta": {
+      "name": "The Genesis Block",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Block 9",
+      "Block 9 450x",
+      "Common",
+      "First Transaction",
+      "Nakamoto",
+      "Vintage"
+    ],
+    "displayName": "The Genesis Block"
+  },
+  {
+    "id": "5a6813b7b54deada0cc89161e9943f30948044698b576092aeaa68cb24eb2e92i0",
+    "inscriptionNumber": 80942713,
+    "meta": {
+      "name": "Angst",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Angst"
+  },
+  {
+    "id": "5c48a5aaf140007c25ec5c62eedf31005f31d4793362691d739c784bb9759d76i0",
+    "inscriptionNumber": 105612490,
+    "meta": {
+      "name": "Bouncer",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "yes",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Bouncer"
+  },
+  {
+    "id": "5ef228e9f2ee06158024ae9e715b2c5e293648516bab83336b2df9bbbb41f104i0",
+    "inscriptionNumber": 94418058,
+    "meta": {
+      "name": "Autonomous Positronic Qubiton II",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Autonomous Positronic Qubiton II"
+  },
+  {
+    "id": "61f7cf1bb59e90eea9672fbbef0cc16eb3f86dde464392b8d713360d48d1be14i0",
+    "inscriptionNumber": 80943840,
+    "meta": {
+      "name": "Techno Lord III - Split",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord III - Split"
+  },
+  {
+    "id": "63dae212168eeccf24d729f989fbd4a74ee1c97785e9f50462c90934b083f1b3i0",
+    "inscriptionNumber": 97139336,
+    "meta": {
+      "name": "Just another Tuesday",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Just another Tuesday"
+  },
+  {
+    "id": "64855de5aced0dd098e2a1cccb42685d1016583b0ce0dbb4ce289e6301cf196di0",
+    "inscriptionNumber": 105612498,
+    "meta": {
+      "name": "Damaged Akashic Data Core",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "yes",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Damaged Akashic Data Core"
+  },
+  {
+    "id": "65ccc1d3e2b9984f241112a9e4d2ee0071a37ce24a948df86f63aa845cff33dci0",
+    "inscriptionNumber": 105612494,
+    "meta": {
+      "name": "Fractalizor",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "yes",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Fractalizor"
+  },
+  {
+    "id": "6616bbb75b58e8740d831e087685a1d2a0ba2c0c8b735b35f0615a558e7fc0bfi0",
+    "inscriptionNumber": 91114037,
+    "meta": {
+      "name": "Nachtmahr",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Nachtmahr"
+  },
+  {
+    "id": "67f8fa8bd83e99057ff8334f70384939f578a303e09445a1a32a72bd7d8798f3i0",
+    "inscriptionNumber": 80943055,
+    "meta": {
+      "name": "Mind Trap I",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "creatorTips": 17250,
+    "displayName": "Mind Trap I",
+    "sacAddress": "bc1pk2gcthsx65fpqdj9fagaptxhxl60w8clmglndr4w2p6e5mf9l5nqkzqnyw",
+    "sacMerkleTreeSize": 4000822
+  },
+  {
+    "id": "6aff8c1e67776096ab68a82a642a634e512efdbd6cff3900108233e2a1424376i0",
+    "inscriptionNumber": 91114033,
+    "meta": {
+      "name": "Sentinel",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Zero Point Energy",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Sentinel"
+  },
+  {
+    "id": "6cf36f3d3b09f1f8283b86affdbc13d1553bb84c1b56920ec60fb38a593e1a2ei0",
+    "inscriptionNumber": 91114030,
+    "meta": {
+      "name": "Lord of Nodes",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Lord of Nodes"
+  },
+  {
+    "id": "6dc970e74e89770dc32c2da0b3a3e5edaf20c65946020e7e2050850a05f6fcdci0",
+    "inscriptionNumber": 94418056,
+    "meta": {
+      "name": "Autonomous Positronic Qubiton IV",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Autonomous Positronic Qubiton IV"
+  },
+  {
+    "id": "6e6518501dfe30dfd2d998c44c51c2957fe34c58eb9e7e5d11101e8821cca2a0i0",
+    "inscriptionNumber": 80942721,
+    "meta": {
+      "name": "Ego Death",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Ego Death"
+  },
+  {
+    "id": "6eff7bf7d6da4d1015ff0c8b12b7fd8f4606e171a34a443871945c59ee1993f8i0",
+    "inscriptionNumber": 97139345,
+    "meta": {
+      "name": "Plancktron",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Plancktron"
+  },
+  {
+    "id": "6fad3e07893bcdffd44763fed1524f047e6f58ffec6d15901697edf9d9d0ac77i0",
+    "inscriptionNumber": 80944654,
+    "meta": {
+      "name": "Techno Lord XXII - Grindor",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Ridiculous",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XXII - Grindor"
+  },
+  {
+    "id": "717b1c5b26a31b0ed0b469cf94ed3f218241ba9c197cb4df877dd655761c5885i0",
+    "inscriptionNumber": 97139342,
+    "meta": {
+      "name": "Effigy of Service to Others",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Effigy of Service to Others"
+  },
+  {
+    "id": "739368bd538ae21005570388d05033976813ef71e5e766af115f0717e78118b4i0",
+    "inscriptionNumber": 105612499,
+    "meta": {
+      "name": "Dreadful Comrade Statue",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "yes",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Dreadful Comrade Statue"
+  },
+  {
+    "id": "7a54102dcb1e47d31e1cb81e32c503106c49adb9b5a49668a88e795f8fba88b3i0",
+    "inscriptionNumber": 94418059,
+    "meta": {
+      "name": "Autonomous Positronic Qubiton V",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Autonomous Positronic Qubiton V"
+  },
+  {
+    "id": "7adfa024e06769187bda142b13b252b700eeee9449f6b6858e9cdfc6e8879963i0",
+    "inscriptionNumber": 80942999,
+    "meta": {
+      "name": "Mind Trap II",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Mind Trap II"
+  },
+  {
+    "id": "7ae6aea6e517b84ac55864526b538b5d244b09b168be656bd8e758c481cccc68i0",
+    "inscriptionNumber": 80944649,
+    "meta": {
+      "name": "Techno Lord XX - Tilps",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Ridiculous",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XX - Tilps"
+  },
+  {
+    "id": "7dca03501cd5253698933dfaab62aeaee2b0b8c233821ca488e5f181a406f236i0",
+    "inscriptionNumber": 97139339,
+    "meta": {
+      "name": "Techno Lord XXV - Skully",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XXV - Skully"
+  },
+  {
+    "id": "7febffa71ea737635de30656c256debb067997e5d612d0b79b3d791f9649f87ci0",
+    "inscriptionNumber": 91114035,
+    "meta": {
+      "name": "Helpling II",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Helpling II"
+  },
+  {
+    "id": "800b8e16b4cbf0810ae4901ce01c1d5ac645e9e1ce4d3c5d6b753aa42ab06fbbi0",
+    "inscriptionNumber": 80944020,
+    "meta": {
+      "name": "Techno Lord VI - Flagellant",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord VI - Flagellant"
+  },
+  {
+    "id": "80b3609c66158ec6e6f299e8ed6014b7c17d922b3f48f4388ae67eda65ddb879i0",
+    "inscriptionNumber": 91114034,
+    "meta": {
+      "name": "Rage",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Rage"
+  },
+  {
+    "id": "831cb1244c8992866ed701f3fc26d600c54327af84efa36764f3884e713a063fi0",
+    "inscriptionNumber": 91114026,
+    "meta": {
+      "name": "Ghost of the Arcade",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Ghost of the Arcade"
+  },
+  {
+    "id": "8770c1152dd9c8a6e24b5d66f9192bf29a5d75495c409674dbdc05960fed97e4i0",
+    "inscriptionNumber": 80944929,
+    "meta": {
+      "name": "Trinity",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Trinity"
+  },
+  {
+    "id": "8b8fe958e0c0cca7bb3e8cb78ba57c5c50592dd6f3c61fdbe0d3d5566f0ee584i0",
+    "inscriptionNumber": 105612496,
+    "meta": {
+      "name": "Celestial Cyclops",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Multicolored",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Celestial Cyclops"
+  },
+  {
+    "id": "8da92a1838d1afa7b4f5bc5183972231667d48656c8a22b7932a04e9768fff79i0",
+    "inscriptionNumber": 80943008,
+    "meta": {
+      "name": "Madness",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Multicolored",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Madness",
+    "sacAddress": "bc1plfa9nxhwhscez6eh29976tlv85qckf04vnsk9l0k5j4d6eh08sms27a6lt",
+    "sacMerkleTreeSize": 4000168
+  },
+  {
+    "id": "913d6ec40fefce3dd8064c07986c58dcc29abbaf6f6c437c114636e0e909d20di0",
+    "inscriptionNumber": 80943833,
+    "meta": {
+      "name": "Techno Lord I - Trismegistus",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord I - Trismegistus"
+  },
+  {
+    "id": "954218c7ea2fbb9c03ba5a1dbf5eeee30394a47e181b45206094b3cef78963fci0",
+    "inscriptionNumber": 80943060,
+    "meta": {
+      "name": "Akashic Librarian",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Akashic Librarian",
+    "sacAddress": "bc1pa040r06tlhxz6t2dm0glmmxqqca45kzfzj53qp09n5ekf2l5lenqdlespe",
+    "sacMerkleTreeSize": 3971159
+  },
+  {
+    "id": "9638b17647b952fffa3c7bef84741e792040705718ff49213596adfada39528di0",
+    "inscriptionNumber": 80943016,
+    "meta": {
+      "name": "Love",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Love"
+  },
+  {
+    "id": "977b3a24b826fa5a85ae56814ca9178eac45d7ea18a28201e5b961479a498103i0",
+    "inscriptionNumber": 80943821,
+    "meta": {
+      "name": "Seeker III",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Seeker III"
+  },
+  {
+    "id": "999d6b26af7904d66bf8fb8f6d6724fbebe3703d4a4c0787f5885c53886ee7eci0",
+    "inscriptionNumber": 80944690,
+    "meta": {
+      "name": "Thoughtloop",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Thoughtloop"
+  },
+  {
+    "id": "9a733d08af4c3706bb53b62d3c10edf3b73d2919025c6b180354c443094bd508i0",
+    "inscriptionNumber": 80942714,
+    "meta": {
+      "name": "Fafnir",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Fafnir"
+  },
+  {
+    "id": "9b41cc8dff5de5feb38a2bd9fb76ebb77ac1e786e0ea9ca3f79ab00ab5fff11ai0",
+    "inscriptionNumber": 80943848,
+    "meta": {
+      "name": "Purple Haze",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Purple Haze"
+  },
+  {
+    "id": "9bd68a53fbbcdd29a192205e18b74933437f4bce69a6d911be4d0051c4a378d1i0",
+    "inscriptionNumber": 91114027,
+    "meta": {
+      "name": "Plasma Fiend",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Multicolored",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Plasma Fiend"
+  },
+  {
+    "id": "a2068c31a8049044a9e72d881ecfbee07da55c19256635fce6cb0094fd245b80i0",
+    "inscriptionNumber": 80944657,
+    "meta": {
+      "name": "Techno Lord XV - Lord Abstract",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XV - Lord Abstract"
+  },
+  {
+    "id": "a3d6b4ca90f44116a3cbbe5ba409ee2f0d35977b71f6d92db0527e5720f34469i0",
+    "inscriptionNumber": 91126303,
+    "meta": {
+      "name": "Expedition XXI, Captain",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Expedition XXI, Captain"
+  },
+  {
+    "id": "a7cce79b3491266b826d3659b1074f00b2dd940f099eda4905ca8cd3e379ce63i0",
+    "inscriptionNumber": 80943000,
+    "meta": {
+      "name": "Master of the $DOG",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "creatorTips": 500000,
+    "displayName": "Master of the $DOG",
+    "sacAddress": "bc1pcdl3fmxgjwgheaxjanp4je20qjmzprylycu6y2q50yq2slxc4u5sx6498w",
+    "sacMerkleTreeSize": 3861486
+  },
+  {
+    "id": "a8f4b3d4d01b15db08fafd4f12939f930aa0d0804f7d02581aa35d9c35711c5di0",
+    "inscriptionNumber": 80942717,
+    "meta": {
+      "name": "Disruptor",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Disruptor"
+  },
+  {
+    "id": "a9f057b9ee8fd86d29599deaca80f87a42da54e4a28f17826bd7ce102cb153f8i0",
+    "inscriptionNumber": 80944080,
+    "meta": {
+      "name": "Techno Lord II - Claw",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "creatorTips": 275000,
+    "displayName": "Techno Lord II - Claw",
+    "sacAddress": "bc1pagyrcg545hg5upkpey236r6gdknzlgngc5m3gp6chj572dcxwrpsmt5ugr",
+    "sacMerkleTreeSize": 3865473
+  },
+  {
+    "id": "aa6fd6effac7671ed96cd90ed7ab05d3ed12a91b0132f3b4005532363a2a7774i0",
+    "inscriptionNumber": 80943004,
+    "meta": {
+      "name": "Leviathan",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Leviathan"
+  },
+  {
+    "id": "ab6d9ba530dabf1c2a2fc3243fd88b8e74b29c4cdf1d188fe3b4af5dfecf4504i0",
+    "inscriptionNumber": 80943824,
+    "meta": {
+      "name": "Seeker II",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Seeker II"
+  },
+  {
+    "id": "ab816da32371665f72e3050eeba7f6b1908e46487b2e74cf5e999b646d9cee61i0",
+    "inscriptionNumber": 80944645,
+    "meta": {
+      "name": "Techno Lord IV - Schizo Lord",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord IV - Schizo Lord"
+  },
+  {
+    "id": "ac235b2fe32ce97ac87c86bf4eb99a2f4fbc5b7799c45832fde7963d589d8dffi0",
+    "inscriptionNumber": 80942723,
+    "meta": {
+      "name": "Courage",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Courage",
+    "sacAddress": "bc1p5hrzlvpews4m54ng5p9ccaqe80pzlcjy34kq3u5e6z0tz3mz8mms53wzzz",
+    "sacMerkleTreeSize": 3870902
+  },
+  {
+    "id": "af38284c48fb71727eb8fda46b80673666738d2c2001feb85478b646b7b51dc2i0",
+    "inscriptionNumber": 91126381,
+    "meta": {
+      "name": "Enki",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Enki"
+  },
+  {
+    "id": "af46176efc333002c55610ad877a5cd0d244864e7eaa5000dffeeefc2651a03ei0",
+    "inscriptionNumber": 80944629,
+    "meta": {
+      "name": "Techno Lord XVII - Party King",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XVII - Party King"
+  },
+  {
+    "id": "b16ed4cbe0bc9da6ca7942b80da4d355dd30fc889cdad2330b5cc059c788df4fi0",
+    "inscriptionNumber": 80944635,
+    "meta": {
+      "name": "Techno Lord XXIII - Dragon Lord",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Ridiculous",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XXIII - Dragon Lord"
+  },
+  {
+    "id": "b48386cc8f80d27a6f8e8af2eb6df59b245afcc6a75f9b6b9405ad821bfb0ee2i0",
+    "inscriptionNumber": 81117050,
+    "meta": {
+      "name": "Enlightenment",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Enlightenment"
+  },
+  {
+    "id": "b4a6537344fd67aa4bfb4e0e626086bf77be4ac213c3f41e96ff9a085fc5388ai0",
+    "inscriptionNumber": 80944661,
+    "meta": {
+      "name": "Lord of Skulls",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Lord of Skulls"
+  },
+  {
+    "id": "b58ce4f2a90a105e8cc16aa711f0067dc46e942ac5ed0bca463f6c58cc1d857ci0",
+    "inscriptionNumber": 97139341,
+    "meta": {
+      "name": "He Came in Peace",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Emerald",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "He Came in Peace"
+  },
+  {
+    "id": "b77acf313ac6f6ea882897f1b14e5e8024e98a61ce5570f37ad362863fd4f940i0",
+    "inscriptionNumber": 80944617,
+    "meta": {
+      "name": "Techno Lord XI - Smiley",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XI - Smiley"
+  },
+  {
+    "id": "b884f6f5fc843189989ced32003a1a06c9da9a82805c08cc720c4c1b8aa66786i0",
+    "inscriptionNumber": 91123062,
+    "meta": {
+      "name": "Chaos",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Chaos",
+    "sacAddress": "bc1pe5gaud0r24vqj48vwdnrzpzmp8mmvk4zg9rslpp4ycwy2uvl440sdvmwpe",
+    "sacMerkleTreeSize": 4012300
+  },
+  {
+    "id": "bb9809f4c64d84f4f7aff29bbbaa14bcb85ef2b5aa1a349010b3ded2989666a2i0",
+    "inscriptionNumber": 80944671,
+    "meta": {
+      "name": "Watcher",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Watcher",
+    "sacAddress": "bc1pq9792yj78qnn59pamt85sjfq8qj0d5d6lcmececg8j6wdldn34ksgs45nj",
+    "sacMerkleTreeSize": 4001283
+  },
+  {
+    "id": "bd12b9fceb4476e478f5861a64259aa32773e09f9d29bff24d076244830d2b8ci0",
+    "inscriptionNumber": 91126333,
+    "meta": {
+      "name": "Expedition XXI, Grunt",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Expedition XXI, Grunt"
+  },
+  {
+    "id": "c262170ec7df94c62ff86322437e1db47f626e11a11a5bb4be9531c4a2572299i0",
+    "inscriptionNumber": 97187209,
+    "meta": {
+      "name": "Primal Spirit II",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Primal Spirit II"
+  },
+  {
+    "id": "c472a0511495dcbfcd2558c9edc0152a0f7347b5280644cc9e3247d6864c8502i0",
+    "inscriptionNumber": 80943820,
+    "meta": {
+      "name": "Rebirth",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        },
+        {
+          "value": "The Forgotten Ones",
+          "trait_type": "The Forgotten Ones"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Rebirth",
+    "sacAddress": "bc1pk2gcthsx65fpqdj9fagaptxhxl60w8clmglndr4w2p6e5mf9l5nqkzqnyw",
+    "sacMerkleTreeSize": 4000822
+  },
+  {
+    "id": "c7afb29d5dda13910fab142b721263e7b316276836c99e055d4d0540a8a1da66i0",
+    "inscriptionNumber": 105612500,
+    "meta": {
+      "name": "Crumbling Glyphstone",
+      "attributes": [
+        {
+          "value": "Artifact",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "yes",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Crumbling Glyphstone"
+  },
+  {
+    "id": "c7b10f5cad5270910c30584db2cde8de4503003066aa2911d4208e1f8d139e3ai0",
+    "inscriptionNumber": 80942979,
+    "meta": {
+      "name": "Primal Spirit III",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Crimson",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Primal Spirit III"
+  },
+  {
+    "id": "ce934fd3107b5861c10dd54ae3fe721ba2f2040d56098fcc79473d26ddd18c55i0",
+    "inscriptionNumber": 80942992,
+    "meta": {
+      "name": "Machine Spirit",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Multicolored",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Machine Spirit",
+    "sacAddress": "bc1plfa9nxhwhscez6eh29976tlv85qckf04vnsk9l0k5j4d6eh08sms27a6lt",
+    "sacMerkleTreeSize": 4000168
+  },
+  {
+    "id": "d2eb3da8a0d1fd95da1374173218645a2e25ca4007ae48de890b20ede3d9a1a9i0",
+    "inscriptionNumber": 80943994,
+    "meta": {
+      "name": "Spirit of the Great Plains",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Spirit of the Great Plains",
+    "sacAddress": "bc1pnxft4c6nrj6lxwtsrykjfemgz5sj2qfvdl9phv205yzjur3u9gps834gkz",
+    "sacMerkleTreeSize": 3931688
+  },
+  {
+    "id": "d33fe22da92d3c7c448ec8a5d0e1fba8ab0aa7541d85486a17ca8ca596225830i0",
+    "inscriptionNumber": 80942975,
+    "meta": {
+      "name": "Mind Virus I",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Mind Virus I"
+  },
+  {
+    "id": "d8eaec239baac8fac1fe4282ed305b82f127f905984065762d0e4b5b38c42542i0",
+    "inscriptionNumber": 80942982,
+    "meta": {
+      "name": "Mind Virus III",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Evil",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Mind Virus III"
+  },
+  {
+    "id": "d9187ed54092829002edfe7f696286fd8e73278beadc35bac0feb13779068b16i0",
+    "inscriptionNumber": 94418055,
+    "meta": {
+      "name": "Qubit Surgeon",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Qubit Surgeon"
+  },
+  {
+    "id": "e209c1d6d796dc7c3cbb3746903379e0685fa7898be07f41f51a9098997322d6i0",
+    "inscriptionNumber": 80944685,
+    "meta": {
+      "name": "Techno Lord XIX - Lord Visoor",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Ridiculous",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XIX - Lord Visoor",
+    "sacAddress": "bc1p4920wcz97lgpkur4m6dzw268xzu6zgwe2n62jz92te4vfksu7ptq3k055n",
+    "sacMerkleTreeSize": 3872677
+  },
+  {
+    "id": "e4456201ae8185e7187f571cc2c10e98536f82c03aa6d2516c42fd8f0892f220i0",
+    "inscriptionNumber": 80944863,
+    "meta": {
+      "name": "Void Spider",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Heat",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Void Spider"
+  },
+  {
+    "id": "e900fad48add20ce86206aeec0158dc503ddef6e2d7161ede31cd3815a18fb3ei0",
+    "inscriptionNumber": 80944630,
+    "meta": {
+      "name": "Techno Lord XXI - Lord Chad",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Ridiculous",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XXI - Lord Chad"
+  },
+  {
+    "id": "ed2c047b7b96af75bb83fb82694fe91ea12022dcdb7965cf10e1d26b4bd01aa7i0",
+    "inscriptionNumber": 91114036,
+    "meta": {
+      "name": "Holy Wrath",
+      "attributes": [
+        {
+          "value": "Thoughtform",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Holy Wrath"
+  },
+  {
+    "id": "f05987bd93a20af1c97d6472da443d63e299b274cece0dcb4e465e659a32dd68i0",
+    "inscriptionNumber": 105612495,
+    "meta": {
+      "name": "Celestial Glitch Commando",
+      "attributes": [
+        {
+          "value": "Yonderling",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Bright Blue",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Celestial Glitch Commando"
+  },
+  {
+    "id": "f309455776e5d45dfab4e96e3ad132d58168154abff0ed2958896abb2eae05b7i0",
+    "inscriptionNumber": 97139338,
+    "meta": {
+      "name": "Expedition XXI, Dexclesia War Priest",
+      "attributes": [
+        {
+          "value": "Visitor",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "White",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Chaotic Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Expedition XXI, Dexclesia War Priest"
+  },
+  {
+    "id": "f983df1c6ee5794300fbddcf77141bad2e139ec85064791be262f5ee38661ff5i0",
+    "inscriptionNumber": 91126417,
+    "meta": {
+      "name": "First Density Consciousness",
+      "attributes": [
+        {
+          "value": "Legend",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "Multicolored",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "No",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "First Density Consciousness"
+  },
+  {
+    "id": "fb27aa6e94edc5a9af2644d0f0348c1561c9400e85457ff76674d78558fe629ai0",
+    "inscriptionNumber": 80942720,
+    "meta": {
+      "name": "Techno Lord XVIII - Billion Dollar Lord",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "Insane",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XVIII - Billion Dollar Lord"
+  },
+  {
+    "id": "fd78a064ab314b9e5bd2b572c75b2bbc3cea5764c14fbb5cd216b80be9648ba3i0",
+    "inscriptionNumber": 80944672,
+    "meta": {
+      "name": "Techno Lord XIV - Transceiver",
+      "attributes": [
+        {
+          "value": "Techno Lord",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "True Neutral",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "9000",
+          "trait_type": "Rave Force Rating"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Techno Lord XIV - Transceiver"
+  },
+  {
+    "id": "ff90eeb9529b08c25330a96e3dd1408352383793c3d19ac4452f03d5e33ddc09i0",
+    "inscriptionNumber": 80942715,
+    "meta": {
+      "name": "Christ Consciousness",
+      "attributes": [
+        {
+          "value": "Ancient",
+          "trait_type": "Kind"
+        },
+        {
+          "value": "No",
+          "trait_type": "Particles"
+        },
+        {
+          "value": "No",
+          "trait_type": "Glow"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Gold"
+        },
+        {
+          "value": "Lawful Good",
+          "trait_type": "Alignment"
+        },
+        {
+          "value": "no",
+          "trait_type": "Glyphs"
+        }
+      ]
+    },
+    "satributes": [
+      "Common"
+    ],
+    "displayName": "Christ Consciousness"
+  }
+]
