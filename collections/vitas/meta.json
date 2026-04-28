@@ -1,7 +1,7 @@
 {
   "name": "VITAS",
   "description": "VITAS is a BRC-20 token deployed with self-mint capability, designed for the Bitcoin Ordinals ecosystem. Deployment: {\"p\":\"brc-20\",\"op\":\"deploy\",\"tick\":\"vitas\",\"lim\":\"10000000000000000\",\"max\":\"0\",\"self_mint\":\"true\"}",
-  "inscription_icon": "84ab3abbbdb7959f173cb160a5a6c870abd514e0a4ff29312ed08e77b37b0d75i0",
+  "inscription_icon": "8e5e4a784f25169f5eab3867670bf619bb7d44e3e28609b99a8d6f1192e17e1fi0",
   "supply": "unlimited",
   "slug": "vitas",
   "twitter_link": "https://twitter.com/vitas_brc20",
