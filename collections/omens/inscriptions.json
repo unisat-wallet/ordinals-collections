@@ -1,0 +1,6146 @@
+[
+  {
+    "id": "9462f90cf86609558d8028cf005031f7b8b00a8e1ef8c0c211e00be38a20f7a8i0",
+    "meta": {
+      "name": "OMENS #1",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x00"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d0d0f92c077c1b0bd396a14f78892af90d697a9dc809d3a836903f92178eb791i0",
+    "meta": {
+      "name": "OMENS #2",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4b0dc562b41f568211cdbf593502c641310b9264cbefe44d5af8db189dd9a43ei0",
+    "meta": {
+      "name": "OMENS #3",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x02"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3daede16b9d31a39701aecae55202510a421959da818c30b6ac48b1092d7107fi0",
+    "meta": {
+      "name": "OMENS #4",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x03"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7981b24ae95a55b7535df41a9544e36706dba59b36c7f55d721d840cc723cf7ci0",
+    "meta": {
+      "name": "OMENS #5",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x04"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7981b24ae95a55b7535df41a9544e36706dba59b36c7f55d721d840cc723cf7ci1",
+    "meta": {
+      "name": "OMENS #6",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x05"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7981b24ae95a55b7535df41a9544e36706dba59b36c7f55d721d840cc723cf7ci2",
+    "meta": {
+      "name": "OMENS #7",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x06"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7981b24ae95a55b7535df41a9544e36706dba59b36c7f55d721d840cc723cf7ci3",
+    "meta": {
+      "name": "OMENS #8",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Cold steel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x07"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7981b24ae95a55b7535df41a9544e36706dba59b36c7f55d721d840cc723cf7ci4",
+    "meta": {
+      "name": "OMENS #9",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x08"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7981b24ae95a55b7535df41a9544e36706dba59b36c7f55d721d840cc723cf7ci5",
+    "meta": {
+      "name": "OMENS #10",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x09"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i0",
+    "meta": {
+      "name": "OMENS #11",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x0a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i1",
+    "meta": {
+      "name": "OMENS #12",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x0b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i2",
+    "meta": {
+      "name": "OMENS #13",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x0c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i3",
+    "meta": {
+      "name": "OMENS #14",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x0d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i4",
+    "meta": {
+      "name": "OMENS #15",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x0e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i5",
+    "meta": {
+      "name": "OMENS #16",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Silicon vein"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x0f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i6",
+    "meta": {
+      "name": "OMENS #17",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x10"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i7",
+    "meta": {
+      "name": "OMENS #18",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x11"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i8",
+    "meta": {
+      "name": "OMENS #19",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i9",
+    "meta": {
+      "name": "OMENS #20",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x13"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i10",
+    "meta": {
+      "name": "OMENS #21",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x14"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i11",
+    "meta": {
+      "name": "OMENS #22",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x15"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i12",
+    "meta": {
+      "name": "OMENS #23",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x16"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i13",
+    "meta": {
+      "name": "OMENS #24",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Gas flare"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x17"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i14",
+    "meta": {
+      "name": "OMENS #25",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x18"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i15",
+    "meta": {
+      "name": "OMENS #26",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x19"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i16",
+    "meta": {
+      "name": "OMENS #27",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x1a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i17",
+    "meta": {
+      "name": "OMENS #28",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x1b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i18",
+    "meta": {
+      "name": "OMENS #29",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x1c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i19",
+    "meta": {
+      "name": "OMENS #30",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x1d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i20",
+    "meta": {
+      "name": "OMENS #31",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x1e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i21",
+    "meta": {
+      "name": "OMENS #32",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Element"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Ember core"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x1f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i22",
+    "meta": {
+      "name": "OMENS #33",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x20"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i23",
+    "meta": {
+      "name": "OMENS #34",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x21"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i24",
+    "meta": {
+      "name": "OMENS #35",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x22"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i25",
+    "meta": {
+      "name": "OMENS #36",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x23"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i26",
+    "meta": {
+      "name": "OMENS #37",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i27",
+    "meta": {
+      "name": "OMENS #38",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x25"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i28",
+    "meta": {
+      "name": "OMENS #39",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x26"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i29",
+    "meta": {
+      "name": "OMENS #40",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The pulse"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x27"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i30",
+    "meta": {
+      "name": "OMENS #41",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x28"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i31",
+    "meta": {
+      "name": "OMENS #42",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x29"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i32",
+    "meta": {
+      "name": "OMENS #43",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x2a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i33",
+    "meta": {
+      "name": "OMENS #44",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x2b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i34",
+    "meta": {
+      "name": "OMENS #45",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x2c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i35",
+    "meta": {
+      "name": "OMENS #46",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x2d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i36",
+    "meta": {
+      "name": "OMENS #47",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x2e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i37",
+    "meta": {
+      "name": "OMENS #48",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The halving"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x2f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i38",
+    "meta": {
+      "name": "OMENS #49",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i39",
+    "meta": {
+      "name": "OMENS #50",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i40",
+    "meta": {
+      "name": "OMENS #51",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x32"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i41",
+    "meta": {
+      "name": "OMENS #52",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x33"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i42",
+    "meta": {
+      "name": "OMENS #53",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x34"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i43",
+    "meta": {
+      "name": "OMENS #54",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x35"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i44",
+    "meta": {
+      "name": "OMENS #55",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x36"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i45",
+    "meta": {
+      "name": "OMENS #56",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Difficulty epoch"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x37"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i46",
+    "meta": {
+      "name": "OMENS #57",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x38"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i47",
+    "meta": {
+      "name": "OMENS #58",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x39"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i48",
+    "meta": {
+      "name": "OMENS #59",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x3a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i49",
+    "meta": {
+      "name": "OMENS #60",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x3b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i50",
+    "meta": {
+      "name": "OMENS #61",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x3c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i51",
+    "meta": {
+      "name": "OMENS #62",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x3d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i52",
+    "meta": {
+      "name": "OMENS #63",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x3e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i53",
+    "meta": {
+      "name": "OMENS #64",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Time"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The long now"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x3f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i54",
+    "meta": {
+      "name": "OMENS #65",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i55",
+    "meta": {
+      "name": "OMENS #66",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x41"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i56",
+    "meta": {
+      "name": "OMENS #67",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x42"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i57",
+    "meta": {
+      "name": "OMENS #68",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x43"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i58",
+    "meta": {
+      "name": "OMENS #69",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x44"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i59",
+    "meta": {
+      "name": "OMENS #70",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x45"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i60",
+    "meta": {
+      "name": "OMENS #71",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x46"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i61",
+    "meta": {
+      "name": "OMENS #72",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The nonce"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x47"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i62",
+    "meta": {
+      "name": "OMENS #73",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x48"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i63",
+    "meta": {
+      "name": "OMENS #74",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x49"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i64",
+    "meta": {
+      "name": "OMENS #75",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x4a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i65",
+    "meta": {
+      "name": "OMENS #76",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x4b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i66",
+    "meta": {
+      "name": "OMENS #77",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x4c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i67",
+    "meta": {
+      "name": "OMENS #78",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x4d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i68",
+    "meta": {
+      "name": "OMENS #79",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x4e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i69",
+    "meta": {
+      "name": "OMENS #80",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Proof of work"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x4f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i70",
+    "meta": {
+      "name": "OMENS #81",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i71",
+    "meta": {
+      "name": "OMENS #82",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x51"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i72",
+    "meta": {
+      "name": "OMENS #83",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x52"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i73",
+    "meta": {
+      "name": "OMENS #84",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x53"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i74",
+    "meta": {
+      "name": "OMENS #85",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x54"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i75",
+    "meta": {
+      "name": "OMENS #86",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x55"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i76",
+    "meta": {
+      "name": "OMENS #87",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x56"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i77",
+    "meta": {
+      "name": "OMENS #88",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The hash"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x57"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i78",
+    "meta": {
+      "name": "OMENS #89",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x58"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i79",
+    "meta": {
+      "name": "OMENS #90",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x59"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i80",
+    "meta": {
+      "name": "OMENS #91",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x5a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i81",
+    "meta": {
+      "name": "OMENS #92",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x5b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i82",
+    "meta": {
+      "name": "OMENS #93",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x5c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i83",
+    "meta": {
+      "name": "OMENS #94",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x5d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i84",
+    "meta": {
+      "name": "OMENS #95",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x5e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i85",
+    "meta": {
+      "name": "OMENS #96",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Labor"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The miner"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x5f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i86",
+    "meta": {
+      "name": "OMENS #97",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i87",
+    "meta": {
+      "name": "OMENS #98",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x61"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i88",
+    "meta": {
+      "name": "OMENS #99",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x62"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9daa2fec998b16bcd418cce78fa1d8f3a80046d9fddefa64b41a15669945de32i89",
+    "meta": {
+      "name": "OMENS #100",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x63"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i0",
+    "meta": {
+      "name": "OMENS #101",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x64"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i1",
+    "meta": {
+      "name": "OMENS #102",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x65"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i2",
+    "meta": {
+      "name": "OMENS #103",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x66"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i3",
+    "meta": {
+      "name": "OMENS #104",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The seed phrase"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x67"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i4",
+    "meta": {
+      "name": "OMENS #105",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x68"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i5",
+    "meta": {
+      "name": "OMENS #106",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x69"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i6",
+    "meta": {
+      "name": "OMENS #107",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x6a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i7",
+    "meta": {
+      "name": "OMENS #108",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x6b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i8",
+    "meta": {
+      "name": "OMENS #109",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x6c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i9",
+    "meta": {
+      "name": "OMENS #110",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x6d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i10",
+    "meta": {
+      "name": "OMENS #111",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x6e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i11",
+    "meta": {
+      "name": "OMENS #112",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The private key"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x6f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i12",
+    "meta": {
+      "name": "OMENS #113",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x70"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i13",
+    "meta": {
+      "name": "OMENS #114",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x71"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i14",
+    "meta": {
+      "name": "OMENS #115",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x72"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i15",
+    "meta": {
+      "name": "OMENS #116",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x73"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i16",
+    "meta": {
+      "name": "OMENS #117",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x74"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i17",
+    "meta": {
+      "name": "OMENS #118",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x75"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i18",
+    "meta": {
+      "name": "OMENS #119",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x76"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i19",
+    "meta": {
+      "name": "OMENS #120",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Not your keys"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x77"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i20",
+    "meta": {
+      "name": "OMENS #121",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x78"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i21",
+    "meta": {
+      "name": "OMENS #122",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x79"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i22",
+    "meta": {
+      "name": "OMENS #123",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x7a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i23",
+    "meta": {
+      "name": "OMENS #124",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x7b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i24",
+    "meta": {
+      "name": "OMENS #125",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x7c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i25",
+    "meta": {
+      "name": "OMENS #126",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x7d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i26",
+    "meta": {
+      "name": "OMENS #127",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x7e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i27",
+    "meta": {
+      "name": "OMENS #128",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Secret"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The signature"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x7f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i28",
+    "meta": {
+      "name": "OMENS #129",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x80"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i29",
+    "meta": {
+      "name": "OMENS #130",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x81"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i30",
+    "meta": {
+      "name": "OMENS #131",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x82"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i31",
+    "meta": {
+      "name": "OMENS #132",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x83"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i32",
+    "meta": {
+      "name": "OMENS #133",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x84"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i33",
+    "meta": {
+      "name": "OMENS #134",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x85"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i34",
+    "meta": {
+      "name": "OMENS #135",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x86"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i35",
+    "meta": {
+      "name": "OMENS #136",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The mempool"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x87"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i36",
+    "meta": {
+      "name": "OMENS #137",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x88"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i37",
+    "meta": {
+      "name": "OMENS #138",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x89"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i38",
+    "meta": {
+      "name": "OMENS #139",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x8a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i39",
+    "meta": {
+      "name": "OMENS #140",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x8b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i40",
+    "meta": {
+      "name": "OMENS #141",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x8c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i41",
+    "meta": {
+      "name": "OMENS #142",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x8d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i42",
+    "meta": {
+      "name": "OMENS #143",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x8e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i43",
+    "meta": {
+      "name": "OMENS #144",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x8f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i44",
+    "meta": {
+      "name": "OMENS #145",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x90"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i45",
+    "meta": {
+      "name": "OMENS #146",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x91"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i46",
+    "meta": {
+      "name": "OMENS #147",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x92"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i47",
+    "meta": {
+      "name": "OMENS #148",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x93"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i48",
+    "meta": {
+      "name": "OMENS #149",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x94"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i49",
+    "meta": {
+      "name": "OMENS #150",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x95"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i50",
+    "meta": {
+      "name": "OMENS #151",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x96"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i51",
+    "meta": {
+      "name": "OMENS #152",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The fork"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x97"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i52",
+    "meta": {
+      "name": "OMENS #153",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x98"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i53",
+    "meta": {
+      "name": "OMENS #154",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x99"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i54",
+    "meta": {
+      "name": "OMENS #155",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x9a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i55",
+    "meta": {
+      "name": "OMENS #156",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x9b"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i56",
+    "meta": {
+      "name": "OMENS #157",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x9c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i57",
+    "meta": {
+      "name": "OMENS #158",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x9d"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i58",
+    "meta": {
+      "name": "OMENS #159",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x9e"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i59",
+    "meta": {
+      "name": "OMENS #160",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Crowd"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The node"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0x9f"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i60",
+    "meta": {
+      "name": "OMENS #161",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i61",
+    "meta": {
+      "name": "OMENS #162",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i62",
+    "meta": {
+      "name": "OMENS #163",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i63",
+    "meta": {
+      "name": "OMENS #164",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i64",
+    "meta": {
+      "name": "OMENS #165",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i65",
+    "meta": {
+      "name": "OMENS #166",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i66",
+    "meta": {
+      "name": "OMENS #167",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i67",
+    "meta": {
+      "name": "OMENS #168",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Headline in stone"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i68",
+    "meta": {
+      "name": "OMENS #169",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i69",
+    "meta": {
+      "name": "OMENS #170",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xa9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i70",
+    "meta": {
+      "name": "OMENS #171",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xaa"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i71",
+    "meta": {
+      "name": "OMENS #172",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xab"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i72",
+    "meta": {
+      "name": "OMENS #173",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xac"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i73",
+    "meta": {
+      "name": "OMENS #174",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xad"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i74",
+    "meta": {
+      "name": "OMENS #175",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xae"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i75",
+    "meta": {
+      "name": "OMENS #176",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Untouched coins"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xaf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i76",
+    "meta": {
+      "name": "OMENS #177",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i77",
+    "meta": {
+      "name": "OMENS #178",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i78",
+    "meta": {
+      "name": "OMENS #179",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i79",
+    "meta": {
+      "name": "OMENS #180",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i80",
+    "meta": {
+      "name": "OMENS #181",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i81",
+    "meta": {
+      "name": "OMENS #182",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i82",
+    "meta": {
+      "name": "OMENS #183",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i83",
+    "meta": {
+      "name": "OMENS #184",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Empty chair"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i84",
+    "meta": {
+      "name": "OMENS #185",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i85",
+    "meta": {
+      "name": "OMENS #186",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xb9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i86",
+    "meta": {
+      "name": "OMENS #187",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xba"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i87",
+    "meta": {
+      "name": "OMENS #188",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xbb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i88",
+    "meta": {
+      "name": "OMENS #189",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xbc"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i89",
+    "meta": {
+      "name": "OMENS #190",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xbd"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i90",
+    "meta": {
+      "name": "OMENS #191",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xbe"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i91",
+    "meta": {
+      "name": "OMENS #192",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Absence"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The void"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xbf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i92",
+    "meta": {
+      "name": "OMENS #193",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i93",
+    "meta": {
+      "name": "OMENS #194",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i94",
+    "meta": {
+      "name": "OMENS #195",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i95",
+    "meta": {
+      "name": "OMENS #196",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i96",
+    "meta": {
+      "name": "OMENS #197",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i97",
+    "meta": {
+      "name": "OMENS #198",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i98",
+    "meta": {
+      "name": "OMENS #199",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i99",
+    "meta": {
+      "name": "OMENS #200",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The asymptote"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i100",
+    "meta": {
+      "name": "OMENS #201",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i101",
+    "meta": {
+      "name": "OMENS #202",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xc9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i102",
+    "meta": {
+      "name": "OMENS #203",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xca"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i103",
+    "meta": {
+      "name": "OMENS #204",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xcb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i104",
+    "meta": {
+      "name": "OMENS #205",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xcc"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i105",
+    "meta": {
+      "name": "OMENS #206",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xcd"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i106",
+    "meta": {
+      "name": "OMENS #207",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xce"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i107",
+    "meta": {
+      "name": "OMENS #208",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Twenty-one million"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xcf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i108",
+    "meta": {
+      "name": "OMENS #209",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i109",
+    "meta": {
+      "name": "OMENS #210",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i110",
+    "meta": {
+      "name": "OMENS #211",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i111",
+    "meta": {
+      "name": "OMENS #212",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i112",
+    "meta": {
+      "name": "OMENS #213",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i113",
+    "meta": {
+      "name": "OMENS #214",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i114",
+    "meta": {
+      "name": "OMENS #215",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i115",
+    "meta": {
+      "name": "OMENS #216",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The last satoshi"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i116",
+    "meta": {
+      "name": "OMENS #217",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i117",
+    "meta": {
+      "name": "OMENS #218",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xd9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i118",
+    "meta": {
+      "name": "OMENS #219",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xda"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i119",
+    "meta": {
+      "name": "OMENS #220",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xdb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i120",
+    "meta": {
+      "name": "OMENS #221",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xdc"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i121",
+    "meta": {
+      "name": "OMENS #222",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xdd"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i122",
+    "meta": {
+      "name": "OMENS #223",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xde"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i123",
+    "meta": {
+      "name": "OMENS #224",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Limit"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Diminishing"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i124",
+    "meta": {
+      "name": "OMENS #225",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i125",
+    "meta": {
+      "name": "OMENS #226",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i126",
+    "meta": {
+      "name": "OMENS #227",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i127",
+    "meta": {
+      "name": "OMENS #228",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i128",
+    "meta": {
+      "name": "OMENS #229",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i129",
+    "meta": {
+      "name": "OMENS #230",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i130",
+    "meta": {
+      "name": "OMENS #231",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i131",
+    "meta": {
+      "name": "OMENS #232",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Laser eyes"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i132",
+    "meta": {
+      "name": "OMENS #233",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i133",
+    "meta": {
+      "name": "OMENS #234",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xe9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i134",
+    "meta": {
+      "name": "OMENS #235",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xea"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i135",
+    "meta": {
+      "name": "OMENS #236",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xeb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i136",
+    "meta": {
+      "name": "OMENS #237",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xec"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i137",
+    "meta": {
+      "name": "OMENS #238",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xed"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i138",
+    "meta": {
+      "name": "OMENS #239",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xee"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i139",
+    "meta": {
+      "name": "OMENS #240",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "The plebs"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xef"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i140",
+    "meta": {
+      "name": "OMENS #241",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i141",
+    "meta": {
+      "name": "OMENS #242",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i142",
+    "meta": {
+      "name": "OMENS #243",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i143",
+    "meta": {
+      "name": "OMENS #244",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i144",
+    "meta": {
+      "name": "OMENS #245",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i145",
+    "meta": {
+      "name": "OMENS #246",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i146",
+    "meta": {
+      "name": "OMENS #247",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i147",
+    "meta": {
+      "name": "OMENS #248",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Citadel"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf7"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i148",
+    "meta": {
+      "name": "OMENS #249",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "1 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i149",
+    "meta": {
+      "name": "OMENS #250",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "2 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xf9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i150",
+    "meta": {
+      "name": "OMENS #251",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "3 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xfa"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i151",
+    "meta": {
+      "name": "OMENS #252",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "4 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xfb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i152",
+    "meta": {
+      "name": "OMENS #253",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "5 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xfc"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i153",
+    "meta": {
+      "name": "OMENS #254",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "6 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xfd"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i154",
+    "meta": {
+      "name": "OMENS #255",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "7 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xfe"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b88f7e10b19c8098522d30d4cd3f9e5a179989e87e77a68dba42b302b24a3f94i155",
+    "meta": {
+      "name": "OMENS #256",
+      "attributes": [
+        {
+          "trait_type": "Family",
+          "value": "Cult"
+        },
+        {
+          "trait_type": "Glyph",
+          "value": "Hyperbitcoinization"
+        },
+        {
+          "trait_type": "Glyph edition",
+          "value": "8 of 8"
+        },
+        {
+          "trait_type": "Seed byte",
+          "value": "0xff"
+        }
+      ]
+    }
+  }
+]
