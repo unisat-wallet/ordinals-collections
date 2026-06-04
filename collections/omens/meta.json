@@ -1,0 +1,9 @@
+{
+  "name": "OMENS",
+  "description": "OMENS by SevArlen — 256 fully on-chain generative sigils on Bitcoin. Each token reads one byte of its seed as an oracle, naming one of 32 hand-authored glyphs across 8 families (Element, Time, Labor, Secret, Crowd, Absence, Limit, Cult). Fully recursive: a single shared engine inscription renders every piece, trustlessly bound to the cover as parent.",
+  "inscription_icon": "b3e36b28f42f00f2b757664f412a0b50dc7123b9caff71391d7c9d16fb7ca7dbi0",
+  "supply": "256",
+  "slug": "omens",
+  "twitter_link": "https://x.com/sevarlen",
+  "is_brc2.0": false
+}
