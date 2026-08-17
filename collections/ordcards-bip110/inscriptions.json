@@ -1,0 +1,3562 @@
+[
+  {
+    "id": "7157ff2d836936214b54179b21c9277a654436fc73e76d658fa04a8be3743f4fi0",
+    "meta": {
+      "name": "#127089521",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "∞"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "0"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "∞"
+        },
+        {
+          "trait_type": "Name",
+          "value": "SATOSHI NAKAMOTO"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "GENESIS"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "21M"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d5d96ee0dd91714397c5c5f2f4cc3aa99952895556ba48294166dc487d32c2b4i0",
+    "meta": {
+      "name": "#127089682",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "10"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1200"
+        },
+        {
+          "trait_type": "Name",
+          "value": "HAL FINNEY"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1102e38d2ca0ef205f73060bf0a72eadc2aac9049144675628750a8e079e632di0",
+    "meta": {
+      "name": "JAMESON LOPP",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1900"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1102e38d2ca0ef205f73060bf0a72eadc2aac9049144675628750a8e079e632di1",
+    "meta": {
+      "name": "ADAM BACK",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1700"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1102e38d2ca0ef205f73060bf0a72eadc2aac9049144675628750a8e079e632di2",
+    "meta": {
+      "name": "PETER TODD",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1750"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1102e38d2ca0ef205f73060bf0a72eadc2aac9049144675628750a8e079e632di3",
+    "meta": {
+      "name": "PIETER WUILLE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "10"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1107b7c21f174c674e30c1ba26e71c236bf576cb267d63624cfa726448e22423i0",
+    "meta": {
+      "name": "JAMES O'BEIRNE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2150"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1107b7c21f174c674e30c1ba26e71c236bf576cb267d63624cfa726448e22423i1",
+    "meta": {
+      "name": "GREGORY MAXWELL",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "10"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1850"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1107b7c21f174c674e30c1ba26e71c236bf576cb267d63624cfa726448e22423i2",
+    "meta": {
+      "name": "AVA CHOW",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1101a81065dcb6a7525db0de7dc3b6e3942f5c4ecc3a9453f28488cf2cb35085i0",
+    "meta": {
+      "name": "GLORIA ZHAO",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2050"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1101a81065dcb6a7525db0de7dc3b6e3942f5c4ecc3a9453f28488cf2cb35085i1",
+    "meta": {
+      "name": "ANDREW POELSTRA",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1750"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1101a81065dcb6a7525db0de7dc3b6e3942f5c4ecc3a9453f28488cf2cb35085i2",
+    "meta": {
+      "name": "MIKE SCHMIDT",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1350"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f9e8d1fe817a0e9278c4c0dd29c653ccbb7a3e3e43482c2c3d6e85c815631i0",
+    "meta": {
+      "name": "MURCH",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1400"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2050"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f9e8d1fe817a0e9278c4c0dd29c653ccbb7a3e3e43482c2c3d6e85c815631i1",
+    "meta": {
+      "name": "MATT CORALLO",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1700"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f9e8d1fe817a0e9278c4c0dd29c653ccbb7a3e3e43482c2c3d6e85c815631i2",
+    "meta": {
+      "name": "ROBIN LINUS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f9e8d1fe817a0e9278c4c0dd29c653ccbb7a3e3e43482c2c3d6e85c815631i3",
+    "meta": {
+      "name": "GREGG SANDERS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1900"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1105a4480259f9d78a9fa3ac952cd6b2852d6e2c4adf6c4e175016875a3f0cabi0",
+    "meta": {
+      "name": "BRYAN BISHOP",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1950"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1105a4480259f9d78a9fa3ac952cd6b2852d6e2c4adf6c4e175016875a3f0cabi1",
+    "meta": {
+      "name": "ODELL",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1800"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1105a4480259f9d78a9fa3ac952cd6b2852d6e2c4adf6c4e175016875a3f0cabi2",
+    "meta": {
+      "name": "JEREMY RUBIN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1550"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1850"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110001f6a2d9c243b5c0f66b916e6e80e8bf016a2c6f5b0cd6963386c5ca6f16i0",
+    "meta": {
+      "name": "JUSTINE O'BEIRNE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "3"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1000"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110001f6a2d9c243b5c0f66b916e6e80e8bf016a2c6f5b0cd6963386c5ca6f16i1",
+    "meta": {
+      "name": "ANTOINE POINSOT",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Core"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110001f6a2d9c243b5c0f66b916e6e80e8bf016a2c6f5b0cd6963386c5ca6f16i2",
+    "meta": {
+      "name": "ROB HAMILTON",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1700"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11064ece89fef5deb127cfedb95fb6d36e45ccc2fccdbdcdec458d5c11956800i0",
+    "meta": {
+      "name": "COINJOINED CHRIS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1750"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11064ece89fef5deb127cfedb95fb6d36e45ccc2fccdbdcdec458d5c11956800i1",
+    "meta": {
+      "name": "SHINOBI",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1900"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11064ece89fef5deb127cfedb95fb6d36e45ccc2fccdbdcdec458d5c11956800i2",
+    "meta": {
+      "name": "TONE VAYS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1650"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1850"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11032099cd88fee1e587b0af3b823e9ca252938b059011e81e3d95c1a7d34b0ei0",
+    "meta": {
+      "name": "STEPHAN LIVERA",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1550"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11032099cd88fee1e587b0af3b823e9ca252938b059011e81e3d95c1a7d34b0ei1",
+    "meta": {
+      "name": "PORTLAND HODL",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1450"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c9364cbf0732dac07cc8aa7be68828d203869e1ca115d69489fccd392a21ai0",
+    "meta": {
+      "name": "ADEMAN555",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "3"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1400"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1350"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c9364cbf0732dac07cc8aa7be68828d203869e1ca115d69489fccd392a21ai1",
+    "meta": {
+      "name": "PAKOVIM",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1550"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c9364cbf0732dac07cc8aa7be68828d203869e1ca115d69489fccd392a21ai2",
+    "meta": {
+      "name": "ZENDER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c9364cbf0732dac07cc8aa7be68828d203869e1ca115d69489fccd392a21ai3",
+    "meta": {
+      "name": "MONONAUT",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1800"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11070b93959d5a531e44fdb674840ecaab0b93e80c96fb137aa229c427059fddi0",
+    "meta": {
+      "name": "MR HODL",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1750"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1650"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11070b93959d5a531e44fdb674840ecaab0b93e80c96fb137aa229c427059fddi1",
+    "meta": {
+      "name": "CALLE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2000"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1750"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11070b93959d5a531e44fdb674840ecaab0b93e80c96fb137aa229c427059fddi2",
+    "meta": {
+      "name": "VORTEX",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2100"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11070b93959d5a531e44fdb674840ecaab0b93e80c96fb137aa229c427059fddi3",
+    "meta": {
+      "name": "STU",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108e0e4d3afea3d1a1a636c8bb7c3f572eb2fd5a3babdb993dd71259d0d0dc3i0",
+    "meta": {
+      "name": "SAUNTER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108e0e4d3afea3d1a1a636c8bb7c3f572eb2fd5a3babdb993dd71259d0d0dc3i1",
+    "meta": {
+      "name": "ROD PALMER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1550"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1450"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108e0e4d3afea3d1a1a636c8bb7c3f572eb2fd5a3babdb993dd71259d0d0dc3i2",
+    "meta": {
+      "name": "BIG BITCOIN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1900"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108e0e4d3afea3d1a1a636c8bb7c3f572eb2fd5a3babdb993dd71259d0d0dc3i3",
+    "meta": {
+      "name": "REARDEN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1700"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1900"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110ff061f415119120ba024f36ebda17ee55ef1620dd9e06cc61666a45416efbi0",
+    "meta": {
+      "name": "NVK",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1750"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110ff061f415119120ba024f36ebda17ee55ef1620dd9e06cc61666a45416efbi1",
+    "meta": {
+      "name": "CITREA",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110ff061f415119120ba024f36ebda17ee55ef1620dd9e06cc61666a45416efbi2",
+    "meta": {
+      "name": "WICKED",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f38bea0ee9e2e24285a310a12de9447f7185d1a10c23a01a4180fd75b6bf1i0",
+    "meta": {
+      "name": "NIFTY NEI",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1550"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f38bea0ee9e2e24285a310a12de9447f7185d1a10c23a01a4180fd75b6bf1i1",
+    "meta": {
+      "name": "WALKER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Anti BIP110"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1650"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1750"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f38bea0ee9e2e24285a310a12de9447f7185d1a10c23a01a4180fd75b6bf1i2",
+    "meta": {
+      "name": "DATHON OHM",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1200"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "6"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1350"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e6dcde06d303fbdcc26d251d42177916c2314d48b5f5aed3a9769dff2394bi0",
+    "meta": {
+      "name": "LUKE CATJIR",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "3"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1100"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e6dcde06d303fbdcc26d251d42177916c2314d48b5f5aed3a9769dff2394bi1",
+    "meta": {
+      "name": "LUKE DASHJR",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "6"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1900"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e6dcde06d303fbdcc26d251d42177916c2314d48b5f5aed3a9769dff2394bi2",
+    "meta": {
+      "name": "MECHANIC",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1350"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1350"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e6dcde06d303fbdcc26d251d42177916c2314d48b5f5aed3a9769dff2394bi3",
+    "meta": {
+      "name": "CHRIS GUIDA",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1300"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1450"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1104e3f289ef3e4c9de1ba75cabf3648cfb9e114204c3a0e1233bfe59d7751adi0",
+    "meta": {
+      "name": "HODLONAUT",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1150"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1550"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1104e3f289ef3e4c9de1ba75cabf3648cfb9e114204c3a0e1233bfe59d7751adi1",
+    "meta": {
+      "name": "MATT KRATER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1250"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1104e3f289ef3e4c9de1ba75cabf3648cfb9e114204c3a0e1233bfe59d7751adi2",
+    "meta": {
+      "name": "FRED KRUEGER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1400"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1350"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1100c1fb1bf08a4932b91a67f0c701aaec82c451acc194150ff2befb3b5b28c6i0",
+    "meta": {
+      "name": "MAYA PARBHOE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1350"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1550"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1100c1fb1bf08a4932b91a67f0c701aaec82c451acc194150ff2befb3b5b28c6i1",
+    "meta": {
+      "name": "MICHAEL SINGLETARY",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1150"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1350"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1100c1fb1bf08a4932b91a67f0c701aaec82c451acc194150ff2befb3b5b28c6i2",
+    "meta": {
+      "name": "DIMITRI - H",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1250"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1450"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1100c1fb1bf08a4932b91a67f0c701aaec82c451acc194150ff2befb3b5b28c6i3",
+    "meta": {
+      "name": "GREG TONOSKI",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1300"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1400"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11056dc231cee8062732be4165c43343797f2fd48934097b16c14651770d1bd8i0",
+    "meta": {
+      "name": "CRYPTO TEA",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "3"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1050"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1250"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11056dc231cee8062732be4165c43343797f2fd48934097b16c14651770d1bd8i1",
+    "meta": {
+      "name": "RENAUD CUNY",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1200"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11056dc231cee8062732be4165c43343797f2fd48934097b16c14651770d1bd8i2",
+    "meta": {
+      "name": "EFE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1300"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1450"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110a07c0c77d681e402f295bc95438cc1a7ab0c833489fbfb2b81bc84aef823fi0",
+    "meta": {
+      "name": "MATT HILL",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110a07c0c77d681e402f295bc95438cc1a7ab0c833489fbfb2b81bc84aef823fi1",
+    "meta": {
+      "name": "NICK SZABO",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "10"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110a07c0c77d681e402f295bc95438cc1a7ab0c833489fbfb2b81bc84aef823fi2",
+    "meta": {
+      "name": "JASON HUGHES",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110630769b09b00277091061e131ac34dd2c037be49af5a35fca98d00da1d0cei0",
+    "meta": {
+      "name": "KNUT SVANHOLM",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1350"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110630769b09b00277091061e131ac34dd2c037be49af5a35fca98d00da1d0cei1",
+    "meta": {
+      "name": "TESTNET",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1350"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110630769b09b00277091061e131ac34dd2c037be49af5a35fca98d00da1d0cei2",
+    "meta": {
+      "name": "LILLY",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "3"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1050"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110630769b09b00277091061e131ac34dd2c037be49af5a35fca98d00da1d0cei3",
+    "meta": {
+      "name": "LÉO HAF",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1350"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e9704e13fe29684ade0f93c92088138756635101e2cc4264356dba599b371i0",
+    "meta": {
+      "name": "TOMER STROLIGHT",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1200"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1650"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e9704e13fe29684ade0f93c92088138756635101e2cc4264356dba599b371i1",
+    "meta": {
+      "name": "MOTORIST",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1300"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1400"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e9704e13fe29684ade0f93c92088138756635101e2cc4264356dba599b371i2",
+    "meta": {
+      "name": "CEDRIC YOUNGELMAN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110e9704e13fe29684ade0f93c92088138756635101e2cc4264356dba599b371i3",
+    "meta": {
+      "name": "MICHELLE WEEKLEY",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1200"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1450"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1109ec4b49ead50b7d1cb4431230925a84170e22219b837745a99c529a3dc368i0",
+    "meta": {
+      "name": "JUSTIN BECHLER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1250"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1400"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1109ec4b49ead50b7d1cb4431230925a84170e22219b837745a99c529a3dc368i1",
+    "meta": {
+      "name": "HUNTER BEAST",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1550"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1400"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1109ec4b49ead50b7d1cb4431230925a84170e22219b837745a99c529a3dc368i2",
+    "meta": {
+      "name": "DAVID NORIEGA",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1250"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110695d470684ac89bed31c1af2c6856742af905ca3d36bac74428a61e16b234i0",
+    "meta": {
+      "name": "ARTHUR VAN PELT",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1400"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110695d470684ac89bed31c1af2c6856742af905ca3d36bac74428a61e16b234i1",
+    "meta": {
+      "name": "PUNCHER75",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1650"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110695d470684ac89bed31c1af2c6856742af905ca3d36bac74428a61e16b234i2",
+    "meta": {
+      "name": "MATTEO PELLEGRINI",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1250"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1105348394ed0caa7da0e3f550843050cfc72e30b166be6618f067edb1b96459i0",
+    "meta": {
+      "name": "SEAN HARRIS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1250"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1450"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1105348394ed0caa7da0e3f550843050cfc72e30b166be6618f067edb1b96459i1",
+    "meta": {
+      "name": "JOYCE DAWN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1150"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1105348394ed0caa7da0e3f550843050cfc72e30b166be6618f067edb1b96459i2",
+    "meta": {
+      "name": "PARMAN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1300"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1105348394ed0caa7da0e3f550843050cfc72e30b166be6618f067edb1b96459i3",
+    "meta": {
+      "name": "GIACOMO ZUCCO",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1104671c6d670a2d8398077d900ea60120b0dd76b4cbf37353125a88cc621370i0",
+    "meta": {
+      "name": "LUKE DE WOLF",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "3"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1050"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1104671c6d670a2d8398077d900ea60120b0dd76b4cbf37353125a88cc621370i1",
+    "meta": {
+      "name": "SIMON DIXON",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Knotzi"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1104671c6d670a2d8398077d900ea60120b0dd76b4cbf37353125a88cc621370i2",
+    "meta": {
+      "name": "PLEDDITOR",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Neutral"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "3"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1200"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c7eb16bfb2865308909d00fe3557fe1a132b9319af241347d715d17a1f7d4i0",
+    "meta": {
+      "name": "SAMSON MOW",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Neutral"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1700"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1900"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c7eb16bfb2865308909d00fe3557fe1a132b9319af241347d715d17a1f7d4i1",
+    "meta": {
+      "name": "JIMMY SONG",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Neutral"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "5"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c7eb16bfb2865308909d00fe3557fe1a132b9319af241347d715d17a1f7d4i2",
+    "meta": {
+      "name": "ISA",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Neutral"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1300"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110c7eb16bfb2865308909d00fe3557fe1a132b9319af241347d715d17a1f7d4i3",
+    "meta": {
+      "name": "LYN ALDEN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Suitcoiner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1450"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b7dc5089dd0924d44393edda82db58be4cf2d70b202beba8e92e02c4605c2i0",
+    "meta": {
+      "name": "GRANT CARDONE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Suitcoiner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "8"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1900"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b7dc5089dd0924d44393edda82db58be4cf2d70b202beba8e92e02c4605c2i1",
+    "meta": {
+      "name": "PHIL GEIGER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Suitcoiner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b7dc5089dd0924d44393edda82db58be4cf2d70b202beba8e92e02c4605c2i2",
+    "meta": {
+      "name": "DAVID BAILEY",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Suitcoiner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1750"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b7dc5089dd0924d44393edda82db58be4cf2d70b202beba8e92e02c4605c2i3",
+    "meta": {
+      "name": "MICHAEL SAYLOR",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "10"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Suitcoiner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "9"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2100"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "3000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110708ce39263595f05d4df35ee93127cacc5e7f37068071193ba7ab68403d0bi0",
+    "meta": {
+      "name": "JACK DORSEY",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Suitcoiner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "8"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1850"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110708ce39263595f05d4df35ee93127cacc5e7f37068071193ba7ab68403d0bi1",
+    "meta": {
+      "name": "DYLAN LECLAIR",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Suitcoiner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1700"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110708ce39263595f05d4df35ee93127cacc5e7f37068071193ba7ab68403d0bi2",
+    "meta": {
+      "name": "ISABEL FOXEN DUKE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108b85655acc5c70639e10a8bf1c90a699e077fa642e4dfbd694d97979a0401i0",
+    "meta": {
+      "name": "OCEAN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "8"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "3200"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "5"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108b85655acc5c70639e10a8bf1c90a699e077fa642e4dfbd694d97979a0401i1",
+    "meta": {
+      "name": "ZK SHARK",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1600"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108b85655acc5c70639e10a8bf1c90a699e077fa642e4dfbd694d97979a0401i2",
+    "meta": {
+      "name": "PARASITE",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "5"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2200"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1400"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1108b85655acc5c70639e10a8bf1c90a699e077fa642e4dfbd694d97979a0401i3",
+    "meta": {
+      "name": "CHUN",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "8"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "3500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1900"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f0591d18342af36bc73f2a5201f2fae2933cb981c5ab3940bbb358903745ei0",
+    "meta": {
+      "name": "BOB BURNETT",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1500"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "3"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1800"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f0591d18342af36bc73f2a5201f2fae2933cb981c5ab3940bbb358903745ei1",
+    "meta": {
+      "name": "ROUGHNECKS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2400"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f0591d18342af36bc73f2a5201f2fae2933cb981c5ab3940bbb358903745ei2",
+    "meta": {
+      "name": "MIKE COLYER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Miner"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "8"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "3400"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "4"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110f0591d18342af36bc73f2a5201f2fae2933cb981c5ab3940bbb358903745ei3",
+    "meta": {
+      "name": "CASEY RODARMOR",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "10"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1800"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "3000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1103a181723b5d48b7865b5bf1f9f786edbebbc15390bb1cf6f330194144d7dci0",
+    "meta": {
+      "name": "ERIN REDWING",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1550"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110d8ef97448eccac158ec1709c94ab2c5670b15ed025a4d43049dd2d7c51f92i0",
+    "meta": {
+      "name": "LIFOFIFO",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1700"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "3000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b076d970afadd80a36fcc8a1e3f35218936ae58d91f21c75965a18d6fc7bbi0",
+    "meta": {
+      "name": "WIZRD MCBLIZZRD",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1900"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2500"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b076d970afadd80a36fcc8a1e3f35218936ae58d91f21c75965a18d6fc7bbi1",
+    "meta": {
+      "name": "UDI WERTHEIMER",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1850"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2300"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b076d970afadd80a36fcc8a1e3f35218936ae58d91f21c75965a18d6fc7bbi2",
+    "meta": {
+      "name": "LEONIDAS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "9"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "7"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2000"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2700"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b01719a6c49c7099920319c43e89babe9e5b929a46bbd69559685c66db181i0",
+    "meta": {
+      "name": "RAPHJAPH",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "8"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1650"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2400"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b01719a6c49c7099920319c43e89babe9e5b929a46bbd69559685c66db181i1",
+    "meta": {
+      "name": "RIJNDAEL",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "7"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "6"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1600"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "1"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "2200"
+        }
+      ]
+    }
+  },
+  {
+    "id": "110b01719a6c49c7099920319c43e89babe9e5b929a46bbd69559685c66db181i2",
+    "meta": {
+      "name": "INSCRIPTION 0",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "10"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "10"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "2100"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "0"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "3000"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5220056851138cb9171054b9ec5b374893e16d4e75cef5b326775836d4a1596ai0",
+    "meta": {
+      "name": "CHARLIE SPEARS",
+      "attributes": [
+        {
+          "trait_type": "Confirmations",
+          "value": "6"
+        },
+        {
+          "trait_type": "Faction",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Fee",
+          "value": "4"
+        },
+        {
+          "trait_type": "Hash",
+          "value": "1350"
+        },
+        {
+          "trait_type": "Signal",
+          "value": "2"
+        },
+        {
+          "trait_type": "Weight",
+          "value": "1650"
+        }
+      ]
+    }
+  }
+]
